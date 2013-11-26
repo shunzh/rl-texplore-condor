@@ -11,8 +11,11 @@ Log        = condor.log
 
 num_of_processes=50
 
-Arguments = --agent texplore --env asterix
+Arguments = --agent texplore --env asterix --model m5tree --domspe
 Queue $(num_of_processes)
 
-Arguments = --agent texplore --env fuelworld
+Arguments = --agent texplore --env asterix --model m5tree
+Queue $(num_of_processes)
+
+Arguments = --agent texplore --env fuelworld --model m5tree 
 Queue $(num_of_processes)
