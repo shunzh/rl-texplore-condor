@@ -1,0 +1,212 @@
+
+
+-- Submitter: streetpizza.cs.utexas.edu : <128.83.130.186:38070> : streetpizza.cs.utexas.edu
+ ID      OWNER            SUBMITTED     RUN_TIME ST PRI SIZE CMD               
+1199335.0   namphuon       10/27 23:05  28+18:56:47 R  0   7324.2 perl              
+1200540.1   namphuon       10/29 09:55  27+08:47:04 R  0   19531.2 perl              
+1200540.11  namphuon       10/29 09:55  27+09:02:03 R  0   4882.8 perl              
+1200540.41  namphuon       10/29 09:55   4+02:06:26 I  0   24414.1 perl              
+1200540.81  namphuon       10/29 09:55   3+02:14:55 I  0   24414.1 perl              
+1200540.121 namphuon       10/29 09:55  27+08:33:21 R  0   21972.7 perl              
+1200540.131 namphuon       10/29 09:55  27+09:06:16 R  0   7324.2 perl              
+1200540.161 namphuon       10/29 09:55   4+02:07:08 I  0   24414.1 perl              
+1200540.201 namphuon       10/29 09:55   3+01:47:22 I  0   24414.1 perl              
+1200540.241 namphuon       10/29 09:55   3+02:14:50 I  0   26855.5 perl              
+1200540.281 namphuon       10/29 09:55   4+02:07:07 I  0   34179.7 perl              
+1200540.321 namphuon       10/29 09:55   3+00:44:01 I  0   26855.5 perl              
+1200622.101 namphuon       10/29 10:31  27+08:41:47 R  0   12207.0 perl              
+1274073.4   cdonahue       11/11 13:47  14+04:21:16 R  0   732.4 condor_run.sh 4   
+1339056.0   schrum2        11/19 19:46   5+20:40:14 R  0   36621.1 java -jar /scratch
+1339056.2   schrum2        11/19 19:46   5+20:57:18 R  0   36621.1 java -jar /scratch
+1339056.4   schrum2        11/19 19:46   5+20:57:35 R  0   36621.1 java -jar /scratch
+1339056.5   schrum2        11/19 19:46   5+19:58:15 R  0   36621.1 java -jar /scratch
+1339056.6   schrum2        11/19 19:46   5+20:02:30 R  0   36621.1 java -jar /scratch
+1339056.7   schrum2        11/19 19:46   5+19:54:49 R  0   36621.1 java -jar /scratch
+1339056.8   schrum2        11/19 19:46   5+20:26:44 R  0   36621.1 java -jar /scratch
+1339056.9   schrum2        11/19 19:46   5+20:30:42 R  0   36621.1 java -jar /scratch
+1339057.0   schrum2        11/19 19:46   5+20:30:25 R  0   36621.1 java -jar /scratch
+1339057.1   schrum2        11/19 19:46   5+20:30:21 R  0   36621.1 java -jar /scratch
+1339057.2   schrum2        11/19 19:46   5+20:28:23 R  0   36621.1 java -jar /scratch
+1339057.3   schrum2        11/19 19:46   5+20:11:45 R  0   36621.1 java -jar /scratch
+1339057.4   schrum2        11/19 19:46   5+20:25:52 R  0   36621.1 java -jar /scratch
+1339057.5   schrum2        11/19 19:46   5+20:01:23 R  0   36621.1 java -jar /scratch
+1339057.6   schrum2        11/19 19:46   5+20:00:18 R  0   36621.1 java -jar /scratch
+1339057.7   schrum2        11/19 19:46   5+20:18:13 R  0   36621.1 java -jar /scratch
+1339057.8   schrum2        11/19 19:46   5+19:56:59 R  0   36621.1 java -jar /scratch
+1339057.9   schrum2        11/19 19:46   5+20:16:04 R  0   36621.1 java -jar /scratch
+1339058.0   schrum2        11/19 19:46   5+20:07:43 R  0   36621.1 java -jar /scratch
+1339058.1   schrum2        11/19 19:46   5+20:10:58 R  0   36621.1 java -jar /scratch
+1339058.2   schrum2        11/19 19:46   5+20:07:30 R  0   36621.1 java -jar /scratch
+1339058.4   schrum2        11/19 19:46   5+20:14:25 R  0   36621.1 java -jar /scratch
+1339058.5   schrum2        11/19 19:46   5+19:54:27 R  0   36621.1 java -jar /scratch
+1339058.6   schrum2        11/19 19:46   5+19:53:34 R  0   36621.1 java -jar /scratch
+1339058.7   schrum2        11/19 19:46   5+19:45:03 R  0   36621.1 java -jar /scratch
+1339058.8   schrum2        11/19 19:46   5+19:30:35 R  0   36621.1 java -jar /scratch
+1339058.9   schrum2        11/19 19:46   5+19:39:46 R  0   36621.1 java -jar /scratch
+1339059.0   schrum2        11/19 19:46   5+18:48:56 R  0   36621.1 java -jar /scratch
+1339059.1   schrum2        11/19 19:46   5+18:47:07 R  0   36621.1 java -jar /scratch
+1339059.2   schrum2        11/19 19:46   5+18:27:05 R  0   36621.1 java -jar /scratch
+1339059.4   schrum2        11/19 19:46   5+19:09:41 R  0   36621.1 java -jar /scratch
+1339059.5   schrum2        11/19 19:46   5+18:15:25 R  0   36621.1 java -jar /scratch
+1339059.6   schrum2        11/19 19:46   5+19:01:43 R  0   36621.1 java -jar /scratch
+1339059.7   schrum2        11/19 19:46   5+19:15:54 R  0   36621.1 java -jar /scratch
+1339059.8   schrum2        11/19 19:46   5+18:54:38 R  0   36621.1 java -jar /scratch
+1339059.9   schrum2        11/19 19:46   5+19:18:35 R  0   36621.1 java -jar /scratch
+1339060.1   schrum2        11/19 19:46   5+18:24:38 R  0   36621.1 java -jar /scratch
+1339060.2   schrum2        11/19 19:46   5+18:37:08 R  0   36621.1 java -jar /scratch
+1339060.3   schrum2        11/19 19:46   5+18:23:26 R  0   36621.1 java -jar /scratch
+1339060.5   schrum2        11/19 19:46   5+18:48:51 R  0   36621.1 java -jar /scratch
+1339060.6   schrum2        11/19 19:46   5+18:34:56 R  0   36621.1 java -jar /scratch
+1339060.7   schrum2        11/19 19:46   5+18:33:00 R  0   36621.1 java -jar /scratch
+1339060.8   schrum2        11/19 19:46   5+17:53:19 R  0   36621.1 java -jar /scratch
+1339060.9   schrum2        11/19 19:46   5+17:53:41 R  0   36621.1 java -jar /scratch
+1346326.0   schrum2        11/20 12:36   5+01:13:44 R  0   36621.1 java -jar /scratch
+1346327.0   schrum2        11/20 12:37   5+01:09:47 R  0   36621.1 java -jar /scratch
+1346328.0   schrum2        11/20 12:38   5+01:14:09 R  0   36621.1 java -jar /scratch
+1346329.0   schrum2        11/20 12:39   5+00:59:05 R  0   36621.1 java -jar /scratch
+1346330.0   schrum2        11/20 12:44   5+00:58:36 R  0   36621.1 java -jar /scratch
+1346330.2   schrum2        11/20 12:44   5+01:27:52 R  0   36621.1 java -jar /scratch
+1346330.3   schrum2        11/20 12:44   5+00:54:17 R  0   36621.1 java -jar /scratch
+1346330.4   schrum2        11/20 12:44   5+01:30:34 R  0   36621.1 java -jar /scratch
+1346330.5   schrum2        11/20 12:44   5+00:56:48 R  0   36621.1 java -jar /scratch
+1346330.6   schrum2        11/20 12:44   5+01:17:38 R  0   36621.1 java -jar /scratch
+1346330.7   schrum2        11/20 12:44   5+01:41:29 R  0   36621.1 java -jar /scratch
+1346330.8   schrum2        11/20 12:44   5+01:15:53 R  0   36621.1 java -jar /scratch
+1346331.0   schrum2        11/20 12:44   5+00:55:24 R  0   36621.1 java -jar /scratch
+1346331.1   schrum2        11/20 12:44   5+00:57:04 R  0   36621.1 java -jar /scratch
+1346331.2   schrum2        11/20 12:44   5+01:31:00 R  0   36621.1 java -jar /scratch
+1346331.4   schrum2        11/20 12:44   5+00:59:22 R  0   36621.1 java -jar /scratch
+1346331.5   schrum2        11/20 12:44   5+00:59:32 R  0   36621.1 java -jar /scratch
+1346331.6   schrum2        11/20 12:44   5+00:59:36 R  0   36621.1 java -jar /scratch
+1346331.7   schrum2        11/20 12:44   5+00:57:07 R  0   36621.1 java -jar /scratch
+1346331.8   schrum2        11/20 12:44   5+01:32:46 R  0   36621.1 java -jar /scratch
+1346331.9   schrum2        11/20 12:44   5+00:40:38 R  0   36621.1 java -jar /scratch
+1346387.0   schrum2        11/20 15:20   4+22:21:24 R  0   36621.1 java -jar /scratch
+1346391.0   schrum2        11/20 15:23   5+01:51:14 R  0   36621.1 java -jar /scratch
+1346392.0   schrum2        11/20 15:23   4+22:03:35 R  0   36621.1 java -jar /scratch
+1346459.0   schrum2        11/20 22:40   4+15:00:59 R  0   36621.1 java -jar /scratch
+1346459.1   schrum2        11/20 22:40   4+17:50:12 R  0   36621.1 java -jar /scratch
+1346459.2   schrum2        11/20 22:40   4+17:06:47 R  0   36621.1 java -jar /scratch
+1346459.3   schrum2        11/20 22:40   4+17:00:05 R  0   36621.1 java -jar /scratch
+1346459.4   schrum2        11/20 22:40   4+17:20:14 R  0   36621.1 java -jar /scratch
+1346459.5   schrum2        11/20 22:40   4+16:03:07 R  0   36621.1 java -jar /scratch
+1346459.6   schrum2        11/20 22:40   4+15:12:17 R  0   36621.1 java -jar /scratch
+1346459.7   schrum2        11/20 22:40   4+15:26:16 R  0   36621.1 java -jar /scratch
+1346459.8   schrum2        11/20 22:40   4+15:25:24 R  0   36621.1 java -jar /scratch
+1346459.9   schrum2        11/20 22:40   4+15:25:36 R  0   36621.1 java -jar /scratch
+1346460.0   schrum2        11/20 22:40   4+15:24:15 R  0   36621.1 java -jar /scratch
+1346460.1   schrum2        11/20 22:40   4+14:47:34 R  0   36621.1 java -jar /scratch
+1346460.2   schrum2        11/20 22:40   4+15:31:23 R  0   36621.1 java -jar /scratch
+1346460.3   schrum2        11/20 22:40   4+15:24:09 R  0   36621.1 java -jar /scratch
+1346460.4   schrum2        11/20 22:40   4+14:50:44 R  0   36621.1 java -jar /scratch
+1346460.5   schrum2        11/20 22:40   4+14:49:06 R  0   36621.1 java -jar /scratch
+1346460.6   schrum2        11/20 22:40   4+14:50:39 R  0   36621.1 java -jar /scratch
+1346460.7   schrum2        11/20 22:40   4+14:56:47 R  0   36621.1 java -jar /scratch
+1346460.8   schrum2        11/20 22:40   4+14:49:53 R  0   36621.1 java -jar /scratch
+1346460.9   schrum2        11/20 22:40   4+14:38:52 R  0   36621.1 java -jar /scratch
+1346591.0   schrum2        11/21 07:40   4+05:36:02 R  0   36621.1 java -jar /scratch
+1351620.0   schrum2        11/23 16:18   2+01:51:38 R  0   36621.1 java -jar /scratch
+1351620.1   schrum2        11/23 16:18   2+01:45:31 R  0   36621.1 java -jar /scratch
+1351620.2   schrum2        11/23 16:18   2+01:41:02 R  0   36621.1 java -jar /scratch
+1351620.3   schrum2        11/23 16:18   2+01:33:38 R  0   36621.1 java -jar /scratch
+1351620.4   schrum2        11/23 16:18   2+01:49:08 R  0   29296.9 java -jar /scratch
+1351620.5   schrum2        11/23 16:18   2+01:41:03 R  0   36621.1 java -jar /scratch
+1351620.6   schrum2        11/23 16:18   2+01:53:03 R  0   12207.0 java -jar /scratch
+1351620.7   schrum2        11/23 16:18   2+01:53:52 R  0   34179.7 java -jar /scratch
+1351620.8   schrum2        11/23 16:18   2+01:58:15 R  0   12207.0 java -jar /scratch
+1351620.9   schrum2        11/23 16:18   2+01:41:11 R  0   36621.1 java -jar /scratch
+1352131.0   akanksha       11/24 02:19   1+15:52:37 R  0   488.3 433.milc.1.sh     
+1352141.0   akanksha       11/24 02:19   1+15:57:57 R  0   463.9 433.milc.11.sh    
+1352170.0   akanksha       11/24 02:19   1+15:54:23 R  0   976.6 429.mcf.1.sh      
+1352171.0   akanksha       11/24 02:19   1+15:59:34 R  0   390.6 429.mcf.2.sh      
+1352173.0   akanksha       11/24 02:19   1+15:59:29 R  0   1464.8 429.mcf.4.sh      
+1352174.0   akanksha       11/24 02:19   1+15:59:23 R  0   1220.7 429.mcf.5.sh      
+1352178.0   akanksha       11/24 02:19   1+15:59:22 R  0   439.5 429.mcf.9.sh      
+1352180.0   akanksha       11/24 02:19   1+15:59:23 R  0   293.0 429.mcf.11.sh     
+1352338.0   akanksha       11/24 02:55   1+15:25:21 R  0   488.3 433.milc.1.sh     
+1352348.0   akanksha       11/24 02:55   1+15:23:02 R  0   463.9 433.milc.11.sh    
+1352350.0   akanksha       11/24 02:55   1+15:23:03 R  0   732.4 433.milc.13.sh    
+1352376.0   akanksha       11/24 02:55   1+15:23:02 R  0   976.6 429.mcf.0.sh      
+1352377.0   akanksha       11/24 02:55   1+15:23:00 R  0   976.6 429.mcf.1.sh      
+1352378.0   akanksha       11/24 02:55   1+15:25:19 R  0   390.6 429.mcf.2.sh      
+1352380.0   akanksha       11/24 02:55   1+15:25:19 R  0   1464.8 429.mcf.4.sh      
+1352381.0   akanksha       11/24 02:55   1+15:25:19 R  0   1220.7 429.mcf.5.sh      
+1352385.0   akanksha       11/24 02:55   1+15:21:22 R  0   439.5 429.mcf.9.sh      
+1352386.0   akanksha       11/24 02:55   1+15:16:24 R  0   1709.0 429.mcf.10.sh     
+1352387.0   akanksha       11/24 02:55   1+15:20:15 R  0   293.0 429.mcf.11.sh     
+1352459.0   akanksha       11/24 02:55   1+15:22:56 R  0   732.4 459.GemsFDTD.1.sh 
+1352462.0   akanksha       11/24 02:55   1+15:22:57 R  0   732.4 459.GemsFDTD.4.sh 
+1352471.0   akanksha       11/24 02:55   1+15:20:13 R  0   732.4 459.GemsFDTD.13.sh
+1352473.0   akanksha       11/24 02:55   1+15:19:44 R  0   463.9 459.GemsFDTD.15.sh
+1352559.0   theo           11/24 18:26   0+23:54:59 R  0   4150.4 raxmlHPC-PTHREADS-
+1352849.0   schrum2        11/25 16:03   0+02:17:58 R  0   7324.2 java -jar /scratch
+1352849.1   schrum2        11/25 16:03   0+02:17:58 R  0   36621.1 java -jar /scratch
+1352849.2   schrum2        11/25 16:03   0+02:17:58 R  0   9765.6 java -jar /scratch
+1352849.3   schrum2        11/25 16:03   0+02:17:58 R  0   9765.6 java -jar /scratch
+1352849.4   schrum2        11/25 16:03   0+02:17:58 R  0   9765.6 java -jar /scratch
+1352849.5   schrum2        11/25 16:03   0+02:17:58 R  0   7324.2 java -jar /scratch
+1352849.6   schrum2        11/25 16:03   0+02:17:58 R  0   29296.9 java -jar /scratch
+1352849.7   schrum2        11/25 16:03   0+02:17:58 R  0   29296.9 java -jar /scratch
+1352849.8   schrum2        11/25 16:03   0+02:17:58 R  0   29296.9 java -jar /scratch
+1352849.9   schrum2        11/25 16:03   0+02:17:58 R  0   29296.9 java -jar /scratch
+1352850.0   schrum2        11/25 16:05   0+02:16:18 R  0   7324.2 java -jar /scratch
+1352850.1   schrum2        11/25 16:05   0+02:16:17 R  0   29296.9 java -jar /scratch
+1352850.2   schrum2        11/25 16:05   0+02:16:17 R  0   9765.6 java -jar /scratch
+1352850.3   schrum2        11/25 16:05   0+02:16:17 R  0   9765.6 java -jar /scratch
+1352850.4   schrum2        11/25 16:05   0+02:16:17 R  0   29296.9 java -jar /scratch
+1352850.5   schrum2        11/25 16:05   0+02:16:17 R  0   12207.0 java -jar /scratch
+1352850.6   schrum2        11/25 16:05   0+02:16:17 R  0   7324.2 java -jar /scratch
+1352850.7   schrum2        11/25 16:05   0+02:16:17 R  0   7324.2 java -jar /scratch
+1352850.8   schrum2        11/25 16:05   0+02:16:17 R  0   7324.2 java -jar /scratch
+1352850.9   schrum2        11/25 16:05   0+02:16:17 R  0   7324.2 java -jar /scratch
+1352851.0   menie482       11/25 16:13   0+01:55:02 R  0   1220.7 experiment --agent
+1352851.2   menie482       11/25 16:13   0+01:53:27 R  0   1220.7 experiment --agent
+1352851.4   menie482       11/25 16:13   0+01:52:45 R  0   1220.7 experiment --agent
+1352851.5   menie482       11/25 16:13   0+01:51:31 R  0   1220.7 experiment --agent
+1352851.6   menie482       11/25 16:13   0+01:51:34 R  0   1220.7 experiment --agent
+1352851.7   menie482       11/25 16:13   0+01:52:00 R  0   1220.7 experiment --agent
+1352851.9   menie482       11/25 16:13   0+01:51:33 R  0   1220.7 experiment --agent
+1352851.10  menie482       11/25 16:13   0+01:51:10 R  0   976.6 experiment --agent
+1352851.11  menie482       11/25 16:13   0+01:50:44 R  0   1220.7 experiment --agent
+1352851.12  menie482       11/25 16:13   0+01:50:37 R  0   1220.7 experiment --agent
+1352851.13  menie482       11/25 16:13   0+01:50:34 R  0   1220.7 experiment --agent
+1352851.14  menie482       11/25 16:13   0+01:51:34 R  0   1220.7 experiment --agent
+1352851.15  menie482       11/25 16:13   0+01:49:51 R  0   1220.7 experiment --agent
+1352851.16  menie482       11/25 16:13   0+01:49:48 R  0   1220.7 experiment --agent
+1352851.17  menie482       11/25 16:13   0+01:50:17 R  0   1220.7 experiment --agent
+1352851.20  menie482       11/25 16:13   0+01:48:17 R  0   1220.7 experiment --agent
+1352851.21  menie482       11/25 16:13   0+01:47:39 R  0   1220.7 experiment --agent
+1352851.22  menie482       11/25 16:13   0+01:47:42 R  0   1220.7 experiment --agent
+1352851.23  menie482       11/25 16:13   0+01:52:06 R  0   1220.7 experiment --agent
+1352851.24  menie482       11/25 16:13   0+01:48:15 R  0   1220.7 experiment --agent
+1352851.25  menie482       11/25 16:13   0+01:47:51 R  0   1220.7 experiment --agent
+1352851.26  menie482       11/25 16:13   0+01:46:30 R  0   1220.7 experiment --agent
+1352851.27  menie482       11/25 16:13   0+01:47:01 R  0   1220.7 experiment --agent
+1352851.28  menie482       11/25 16:13   0+01:49:15 R  0   1220.7 experiment --agent
+1352851.30  menie482       11/25 16:13   0+01:47:45 R  0   1220.7 experiment --agent
+1352851.31  menie482       11/25 16:13   0+01:47:16 R  0   1220.7 experiment --agent
+1352851.32  menie482       11/25 16:13   0+01:45:02 R  0   1220.7 experiment --agent
+1352851.33  menie482       11/25 16:13   0+01:45:41 R  0   976.6 experiment --agent
+1352851.34  menie482       11/25 16:13   0+01:45:34 R  0   976.6 experiment --agent
+1352851.35  menie482       11/25 16:13   0+01:47:56 R  0   976.6 experiment --agent
+1352851.36  menie482       11/25 16:13   0+01:48:00 R  0   1220.7 experiment --agent
+1352851.37  menie482       11/25 16:13   0+01:45:55 R  0   1220.7 experiment --agent
+1352851.38  menie482       11/25 16:13   0+01:46:23 R  0   1220.7 experiment --agent
+1352851.40  menie482       11/25 16:13   0+01:46:47 R  0   1220.7 experiment --agent
+1352851.41  menie482       11/25 16:13   0+01:46:46 R  0   1220.7 experiment --agent
+1352851.42  menie482       11/25 16:13   0+01:46:18 R  0   1220.7 experiment --agent
+1352851.44  menie482       11/25 16:13   0+01:43:56 R  0   1220.7 experiment --agent
+1352851.45  menie482       11/25 16:13   0+01:45:31 R  0   1220.7 experiment --agent
+1352851.47  menie482       11/25 16:13   0+01:42:23 R  0   1220.7 experiment --agent
+1352851.48  menie482       11/25 16:13   0+01:42:40 R  0   1220.7 experiment --agent
+1352851.49  menie482       11/25 16:13   0+01:43:07 R  0   1220.7 experiment --agent
+1352854.4   menie482       11/25 17:40   0+00:40:30 R  0   1220.7 experiment-gen --a
+1352854.5   menie482       11/25 17:40   0+00:40:30 R  0   1220.7 experiment-gen --a
+1352854.6   menie482       11/25 17:40   0+00:40:30 R  0   1220.7 experiment-gen --a
+1352854.21  menie482       11/25 17:40   0+00:40:29 R  0   1220.7 experiment-gen --a
+1352854.25  menie482       11/25 17:40   0+00:40:30 R  0   1220.7 experiment-gen --a
+1352854.30  menie482       11/25 17:40   0+00:40:30 R  0   976.6 experiment-gen --a
+1352854.42  menie482       11/25 17:40   0+00:40:29 R  0   1220.7 experiment-gen --a
+1352854.45  menie482       11/25 17:40   0+00:40:29 R  0   1220.7 experiment-gen --a
+
+206 jobs; 0 completed, 0 removed, 7 idle, 199 running, 0 held, 0 suspended

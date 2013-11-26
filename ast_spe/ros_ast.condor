@@ -1,0 +1,15 @@
+Universe = vanilla
+Executable = experiment
++ProjectDescription = "TEXPLORE"
++Project = "AI_ROBOTICS"
++Group = "grad"
+Notification = never
+Notify_user = menie482@cs.utexas.edu
+Output     = ast.$(Process)
+Error      = ast.err.$(Process)
+Log        = condor.log
+
+num_of_processes=50
+
+Arguments = --agent texplore --env asterix
+Queue $(num_of_processes)
