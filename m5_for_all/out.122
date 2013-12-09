@@ -1,0 +1,172 @@
+agent: texplore
+env: fuelworld
+model: M5 Tree
+Environment is episodic.
+set statesPerDim to 0 for all dim
+feature 0 has range 20
+feature 1 has range 30
+feature 2 has range 61
+reward range: 400
+Parallel ETUCT tracking real state values
+Planner using history size: 0
+Start model learning thread
+start parallel uct planning search thread
+Created MultClass 0 with nModels: 5
+Created m5 decision tree 0 multivariate regression (all feats) MIN_SDR: 0.002
+Created m5 decision tree 6 multivariate regression (all feats) MIN_SDR: 0.002
+Created m5 decision tree 12 multivariate regression (all feats) MIN_SDR: 0.002
+Created m5 decision tree 18 multivariate regression (all feats) MIN_SDR: 0.002
+Created m5 decision tree 24 multivariate regression (all feats) MIN_SDR: 0.002
+Created MultClass 3 with nModels: 5
+Created m5 decision tree 3 multivariate regression (all feats) MIN_SDR: 0.04
+Created m5 decision tree 9 multivariate regression (all feats) MIN_SDR: 0.04
+Created m5 decision tree 15 multivariate regression (all feats) MIN_SDR: 0.04
+Created m5 decision tree 21 multivariate regression (all feats) MIN_SDR: 0.04
+Created m5 decision tree 27 multivariate regression (all feats) MIN_SDR: 0.04
+Created MultClass 4 with nModels: 5
+Created m5 decision tree 4 multivariate regression (all feats) MIN_SDR: 0.0001
+Created m5 decision tree 10 multivariate regression (all feats) MIN_SDR: 0.0001
+Created m5 decision tree 16 multivariate regression (all feats) MIN_SDR: 0.0001
+Created m5 decision tree 22 multivariate regression (all feats) MIN_SDR: 0.0001
+Created m5 decision tree 28 multivariate regression (all feats) MIN_SDR: 0.0001
+Created MultClass 1 with nModels: 5
+Created m5 decision tree 1 multivariate regression (all feats) MIN_SDR: 0.003
+Created m5 decision tree 7 multivariate regression (all feats) MIN_SDR: 0.003
+Created m5 decision tree 13 multivariate regression (all feats) MIN_SDR: 0.003
+Created m5 decision tree 19 multivariate regression (all feats) MIN_SDR: 0.003
+Created m5 decision tree 25 multivariate regression (all feats) MIN_SDR: 0.003
+Created MultClass 2 with nModels: 5
+Created m5 decision tree 2 multivariate regression (all feats) MIN_SDR: 0.0061
+Created m5 decision tree 8 multivariate regression (all feats) MIN_SDR: 0.0061
+Created m5 decision tree 14 multivariate regression (all feats) MIN_SDR: 0.0061
+Created m5 decision tree 20 multivariate regression (all feats) MIN_SDR: 0.0061
+Created m5 decision tree 26 multivariate regression (all feats) MIN_SDR: 0.0061
+-417.4
+-418.2
+-418.2
+-418.2
+-417.4
+-417.2
+-421.4
+-419.2
+-420.6
+-418.2
+-418.2
+-416
+-419.2
+-419.6
+-923.6
+-418.4
+-6723.58
+-5285.97
+-416.8
+-418.4
+-420.2
+-418.2
+-3421.19
+-419
+-416.8
+-419.8
+-416.8
+-419
+-5960.78
+-417.8
+-417.8
+-1378.2
+-422.4
+-421.6
+-420.8
+-4065.39
+-418
+-419.2
+-420
+-421.2
+-421
+-420
+-421.2
+-418.2
+-1234.8
+-419.4
+-748.6
+-418.6
+-422.4
+-416.6
+-421.2
+-417.8
+-421.8
+-704.6
+-416
+-419.2
+-416.8
+-418.2
+-418.8
+-419.2
+-417.8
+-417.2
+-420
+-2421.6
+-420.4
+-418.2
+-419.8
+-605
+-745.2
+-697.4
+-855.8
+-708.2
+-417.8
+-3004.39
+-416.4
+-1120.4
+-421
+-3160.79
+-3164.39
+-3969.18
+-3065.99
+-417.8
+-417.2
+-420.6
+-422
+-3514.59
+-417.6
+-3600.19
+-421
+-417.2
+-418.2
+-2668.79
+-2452.6
+-418
+-421.8
+-416.8
+-2547.2
+-419.2
+-626.6
+-416.8
+-419.2
+-2478.2
+-417.6
+-421.2
+-746.8
+-2897.59
+-2365
+-417.6
+-2104.81
+-2042.01
+-422
+-2081.01
+-2078.81
+-2108.2
+-420
+-2098.41
+-420.8
+-2093.41
+-421.6
+-2139.41
+-2157.21
+-420.2
+-2055.41
+-422.4
+-418.6
+-420.6
+-2148
+-423.2
+-2109.61

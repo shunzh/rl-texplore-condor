@@ -1,0 +1,255 @@
+agent: texplore
+env: fuelworld
+model: M5 Tree
+Environment is episodic.
+set statesPerDim to 0 for all dim
+feature 0 has range 20
+feature 1 has range 30
+feature 2 has range 61
+reward range: 400
+Parallel ETUCT tracking real state values
+Planner using history size: 0
+Start model learning thread
+Created MultClass 0 with nModels: 5
+start parallel uct planning search thread
+Created m5 decision tree 0 multivariate regression (all feats) MIN_SDR: 0.002
+Created m5 decision tree 6 multivariate regression (all feats) MIN_SDR: 0.002
+Created m5 decision tree 12 multivariate regression (all feats) MIN_SDR: 0.002
+Created m5 decision tree 18 multivariate regression (all feats) MIN_SDR: 0.002
+Created m5 decision tree 24 multivariate regression (all feats) MIN_SDR: 0.002
+Created MultClass 3 with nModels: 5
+Created m5 decision tree 3 multivariate regression (all feats) MIN_SDR: 0.04
+Created m5 decision tree 9 multivariate regression (all feats) MIN_SDR: 0.04
+Created m5 decision tree 15 multivariate regression (all feats) MIN_SDR: 0.04
+Created m5 decision tree 21 multivariate regression (all feats) MIN_SDR: 0.04
+Created m5 decision tree 27 multivariate regression (all feats) MIN_SDR: 0.04
+Created MultClass 4 with nModels: 5
+Created m5 decision tree 4 multivariate regression (all feats) MIN_SDR: 0.0001
+Created m5 decision tree 10 multivariate regression (all feats) MIN_SDR: 0.0001
+Created m5 decision tree 16 multivariate regression (all feats) MIN_SDR: 0.0001
+Created m5 decision tree 22 multivariate regression (all feats) MIN_SDR: 0.0001
+Created m5 decision tree 28 multivariate regression (all feats) MIN_SDR: 0.0001
+Created MultClass 1 with nModels: 5
+Created m5 decision tree 1 multivariate regression (all feats) MIN_SDR: 0.003
+Created m5 decision tree 7 multivariate regression (all feats) MIN_SDR: 0.003
+Created m5 decision tree 13 multivariate regression (all feats) MIN_SDR: 0.003
+Created m5 decision tree 19 multivariate regression (all feats) MIN_SDR: 0.003
+Created m5 decision tree 25 multivariate regression (all feats) MIN_SDR: 0.003
+Created MultClass 2 with nModels: 5
+Created m5 decision tree 2 multivariate regression (all feats) MIN_SDR: 0.0061
+Created m5 decision tree 8 multivariate regression (all feats) MIN_SDR: 0.0061
+Created m5 decision tree 14 multivariate regression (all feats) MIN_SDR: 0.0061
+Created m5 decision tree 20 multivariate regression (all feats) MIN_SDR: 0.0061
+Created m5 decision tree 26 multivariate regression (all feats) MIN_SDR: 0.0061
+-417.4
+-419
+-417.8
+-416.6
+-419
+-416.4
+-420.6
+-418.8
+-419.8
+-418.2
+-417.8
+-417.6
+-418.8
+-418
+-422
+-420.4
+-418.2
+-418.6
+-419.8
+-417.8
+-417
+-421
+-421
+-419.8
+-420
+-422.4
+-467.6
+-418.6
+-420.4
+-420.4
+-419.6
+-421.8
+-416.8
+-416
+-694
+-507.6
+-417.2
+-554
+-467.6
+-417.6
+-557.6
+-421.2
+-415.6
+-469
+-417.2
+-417.6
+-420
+-421
+-849
+-420.8
+-418
+-419.6
+-416.8
+-418.2
+-696.2
+-457.8
+-421.6
+-416.8
+-421.4
+-1650.4
+-417.2
+-420.8
+-690.8
+-420.6
+-422.8
+-415.2
+-420.2
+-421.6
+-422
+-420.6
+-416
+-506.6
+-416
+-418.8
+-420.4
+-419.2
+-1525.6
+-421.4
+-417.2
+-417.2
+-652.4
+-418.4
+-826.2
+-415.6
+-828.6
+-418.2
+-601.4
+-620
+-419.8
+-738.6
+-979.8
+-464
+-1395.8
+-953.6
+-421.6
+-1079
+-2242.2
+-507.6
+-801.6
+-420.6
+-822
+-416
+-503.4
+-459.4
+-420.4
+-507.8
+-421.2
+-1056.8
+-1849.2
+-686.6
+-418.8
+-418.8
+-460
+-416.6
+-864
+-588.8
+-420.8
+-675
+-542
+-418.6
+-770.8
+-543.8
+-549.2
+-697.8
+-507.6
+-419.2
+-686.6
+-1222.4
+-550
+-614.4
+-420.8
+-421.2
+-422.2
+-673.8
+-461
+-418.4
+-468
+-418.8
+-418.8
+-420.4
+-419.6
+-417.8
+-678
+-584.8
+-422.2
+-1152
+-761.8
+-503.2
+-670.8
+-1595.6
+-420.4
+-676.8
+-1210.2
+-500
+-754.2
+-1128.4
+-585
+-419.8
+-417
+-418.4
+-418.8
+-671.6
+-1020.6
+-417
+-1027.6
+-547.6
+-416
+-794.4
+-895.399
+-892.4
+-590.6
+-507
+-505.8
+-633.2
+-946.6
+-573.6
+-641.8
+-717.2
+-417.8
+-419
+-543.2
+-677.4
+-1469.8
+-1112
+-635.6
+-975.4
+-1187
+-1059
+-591.2
+-2279.41
+-883.8
+-2398.01
+-591.6
+-497.2
+-1179.8
+-716.4
+-1676.6
+-1270
+-1190.4
+-1367.6
+-2184.01
+-584.8
+-1224.8
+-782
+-1729
+-747
+-2159.41
+-2221.4
+-1110.4
+-2176.2
+-1346.2
+-2174.41

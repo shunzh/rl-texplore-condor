@@ -2,211 +2,1814 @@
 
 -- Submitter: streetpizza.cs.utexas.edu : <128.83.130.186:38070> : streetpizza.cs.utexas.edu
  ID      OWNER            SUBMITTED     RUN_TIME ST PRI SIZE CMD               
-1199335.0   namphuon       10/27 23:05  28+18:56:47 R  0   7324.2 perl              
-1200540.1   namphuon       10/29 09:55  27+08:47:04 R  0   19531.2 perl              
-1200540.11  namphuon       10/29 09:55  27+09:02:03 R  0   4882.8 perl              
+1199335.0   namphuon       10/27 23:05  30+15:00:23 R  0   7324.2 perl              
+1200540.1   namphuon       10/29 09:55  29+04:50:40 R  0   19531.2 perl              
+1200540.11  namphuon       10/29 09:55  29+05:05:39 R  0   4882.8 perl              
 1200540.41  namphuon       10/29 09:55   4+02:06:26 I  0   24414.1 perl              
 1200540.81  namphuon       10/29 09:55   3+02:14:55 I  0   24414.1 perl              
-1200540.121 namphuon       10/29 09:55  27+08:33:21 R  0   21972.7 perl              
-1200540.131 namphuon       10/29 09:55  27+09:06:16 R  0   7324.2 perl              
+1200540.121 namphuon       10/29 09:55  29+04:36:57 R  0   21972.7 perl              
+1200540.131 namphuon       10/29 09:55  29+05:09:52 R  0   7324.2 perl              
 1200540.161 namphuon       10/29 09:55   4+02:07:08 I  0   24414.1 perl              
 1200540.201 namphuon       10/29 09:55   3+01:47:22 I  0   24414.1 perl              
 1200540.241 namphuon       10/29 09:55   3+02:14:50 I  0   26855.5 perl              
 1200540.281 namphuon       10/29 09:55   4+02:07:07 I  0   34179.7 perl              
 1200540.321 namphuon       10/29 09:55   3+00:44:01 I  0   26855.5 perl              
-1200622.101 namphuon       10/29 10:31  27+08:41:47 R  0   12207.0 perl              
-1274073.4   cdonahue       11/11 13:47  14+04:21:16 R  0   732.4 condor_run.sh 4   
-1339056.0   schrum2        11/19 19:46   5+20:40:14 R  0   36621.1 java -jar /scratch
-1339056.2   schrum2        11/19 19:46   5+20:57:18 R  0   36621.1 java -jar /scratch
-1339056.4   schrum2        11/19 19:46   5+20:57:35 R  0   36621.1 java -jar /scratch
-1339056.5   schrum2        11/19 19:46   5+19:58:15 R  0   36621.1 java -jar /scratch
-1339056.6   schrum2        11/19 19:46   5+20:02:30 R  0   36621.1 java -jar /scratch
-1339056.7   schrum2        11/19 19:46   5+19:54:49 R  0   36621.1 java -jar /scratch
-1339056.8   schrum2        11/19 19:46   5+20:26:44 R  0   36621.1 java -jar /scratch
-1339056.9   schrum2        11/19 19:46   5+20:30:42 R  0   36621.1 java -jar /scratch
-1339057.0   schrum2        11/19 19:46   5+20:30:25 R  0   36621.1 java -jar /scratch
-1339057.1   schrum2        11/19 19:46   5+20:30:21 R  0   36621.1 java -jar /scratch
-1339057.2   schrum2        11/19 19:46   5+20:28:23 R  0   36621.1 java -jar /scratch
-1339057.3   schrum2        11/19 19:46   5+20:11:45 R  0   36621.1 java -jar /scratch
-1339057.4   schrum2        11/19 19:46   5+20:25:52 R  0   36621.1 java -jar /scratch
-1339057.5   schrum2        11/19 19:46   5+20:01:23 R  0   36621.1 java -jar /scratch
-1339057.6   schrum2        11/19 19:46   5+20:00:18 R  0   36621.1 java -jar /scratch
-1339057.7   schrum2        11/19 19:46   5+20:18:13 R  0   36621.1 java -jar /scratch
-1339057.8   schrum2        11/19 19:46   5+19:56:59 R  0   36621.1 java -jar /scratch
-1339057.9   schrum2        11/19 19:46   5+20:16:04 R  0   36621.1 java -jar /scratch
-1339058.0   schrum2        11/19 19:46   5+20:07:43 R  0   36621.1 java -jar /scratch
-1339058.1   schrum2        11/19 19:46   5+20:10:58 R  0   36621.1 java -jar /scratch
-1339058.2   schrum2        11/19 19:46   5+20:07:30 R  0   36621.1 java -jar /scratch
-1339058.4   schrum2        11/19 19:46   5+20:14:25 R  0   36621.1 java -jar /scratch
-1339058.5   schrum2        11/19 19:46   5+19:54:27 R  0   36621.1 java -jar /scratch
-1339058.6   schrum2        11/19 19:46   5+19:53:34 R  0   36621.1 java -jar /scratch
-1339058.7   schrum2        11/19 19:46   5+19:45:03 R  0   36621.1 java -jar /scratch
-1339058.8   schrum2        11/19 19:46   5+19:30:35 R  0   36621.1 java -jar /scratch
-1339058.9   schrum2        11/19 19:46   5+19:39:46 R  0   36621.1 java -jar /scratch
-1339059.0   schrum2        11/19 19:46   5+18:48:56 R  0   36621.1 java -jar /scratch
-1339059.1   schrum2        11/19 19:46   5+18:47:07 R  0   36621.1 java -jar /scratch
-1339059.2   schrum2        11/19 19:46   5+18:27:05 R  0   36621.1 java -jar /scratch
-1339059.4   schrum2        11/19 19:46   5+19:09:41 R  0   36621.1 java -jar /scratch
-1339059.5   schrum2        11/19 19:46   5+18:15:25 R  0   36621.1 java -jar /scratch
-1339059.6   schrum2        11/19 19:46   5+19:01:43 R  0   36621.1 java -jar /scratch
-1339059.7   schrum2        11/19 19:46   5+19:15:54 R  0   36621.1 java -jar /scratch
-1339059.8   schrum2        11/19 19:46   5+18:54:38 R  0   36621.1 java -jar /scratch
-1339059.9   schrum2        11/19 19:46   5+19:18:35 R  0   36621.1 java -jar /scratch
-1339060.1   schrum2        11/19 19:46   5+18:24:38 R  0   36621.1 java -jar /scratch
-1339060.2   schrum2        11/19 19:46   5+18:37:08 R  0   36621.1 java -jar /scratch
-1339060.3   schrum2        11/19 19:46   5+18:23:26 R  0   36621.1 java -jar /scratch
-1339060.5   schrum2        11/19 19:46   5+18:48:51 R  0   36621.1 java -jar /scratch
-1339060.6   schrum2        11/19 19:46   5+18:34:56 R  0   36621.1 java -jar /scratch
-1339060.7   schrum2        11/19 19:46   5+18:33:00 R  0   36621.1 java -jar /scratch
-1339060.8   schrum2        11/19 19:46   5+17:53:19 R  0   36621.1 java -jar /scratch
-1339060.9   schrum2        11/19 19:46   5+17:53:41 R  0   36621.1 java -jar /scratch
-1346326.0   schrum2        11/20 12:36   5+01:13:44 R  0   36621.1 java -jar /scratch
-1346327.0   schrum2        11/20 12:37   5+01:09:47 R  0   36621.1 java -jar /scratch
-1346328.0   schrum2        11/20 12:38   5+01:14:09 R  0   36621.1 java -jar /scratch
-1346329.0   schrum2        11/20 12:39   5+00:59:05 R  0   36621.1 java -jar /scratch
-1346330.0   schrum2        11/20 12:44   5+00:58:36 R  0   36621.1 java -jar /scratch
-1346330.2   schrum2        11/20 12:44   5+01:27:52 R  0   36621.1 java -jar /scratch
-1346330.3   schrum2        11/20 12:44   5+00:54:17 R  0   36621.1 java -jar /scratch
-1346330.4   schrum2        11/20 12:44   5+01:30:34 R  0   36621.1 java -jar /scratch
-1346330.5   schrum2        11/20 12:44   5+00:56:48 R  0   36621.1 java -jar /scratch
-1346330.6   schrum2        11/20 12:44   5+01:17:38 R  0   36621.1 java -jar /scratch
-1346330.7   schrum2        11/20 12:44   5+01:41:29 R  0   36621.1 java -jar /scratch
-1346330.8   schrum2        11/20 12:44   5+01:15:53 R  0   36621.1 java -jar /scratch
-1346331.0   schrum2        11/20 12:44   5+00:55:24 R  0   36621.1 java -jar /scratch
-1346331.1   schrum2        11/20 12:44   5+00:57:04 R  0   36621.1 java -jar /scratch
-1346331.2   schrum2        11/20 12:44   5+01:31:00 R  0   36621.1 java -jar /scratch
-1346331.4   schrum2        11/20 12:44   5+00:59:22 R  0   36621.1 java -jar /scratch
-1346331.5   schrum2        11/20 12:44   5+00:59:32 R  0   36621.1 java -jar /scratch
-1346331.6   schrum2        11/20 12:44   5+00:59:36 R  0   36621.1 java -jar /scratch
-1346331.7   schrum2        11/20 12:44   5+00:57:07 R  0   36621.1 java -jar /scratch
-1346331.8   schrum2        11/20 12:44   5+01:32:46 R  0   36621.1 java -jar /scratch
-1346331.9   schrum2        11/20 12:44   5+00:40:38 R  0   36621.1 java -jar /scratch
-1346387.0   schrum2        11/20 15:20   4+22:21:24 R  0   36621.1 java -jar /scratch
-1346391.0   schrum2        11/20 15:23   5+01:51:14 R  0   36621.1 java -jar /scratch
-1346392.0   schrum2        11/20 15:23   4+22:03:35 R  0   36621.1 java -jar /scratch
-1346459.0   schrum2        11/20 22:40   4+15:00:59 R  0   36621.1 java -jar /scratch
-1346459.1   schrum2        11/20 22:40   4+17:50:12 R  0   36621.1 java -jar /scratch
-1346459.2   schrum2        11/20 22:40   4+17:06:47 R  0   36621.1 java -jar /scratch
-1346459.3   schrum2        11/20 22:40   4+17:00:05 R  0   36621.1 java -jar /scratch
-1346459.4   schrum2        11/20 22:40   4+17:20:14 R  0   36621.1 java -jar /scratch
-1346459.5   schrum2        11/20 22:40   4+16:03:07 R  0   36621.1 java -jar /scratch
-1346459.6   schrum2        11/20 22:40   4+15:12:17 R  0   36621.1 java -jar /scratch
-1346459.7   schrum2        11/20 22:40   4+15:26:16 R  0   36621.1 java -jar /scratch
-1346459.8   schrum2        11/20 22:40   4+15:25:24 R  0   36621.1 java -jar /scratch
-1346459.9   schrum2        11/20 22:40   4+15:25:36 R  0   36621.1 java -jar /scratch
-1346460.0   schrum2        11/20 22:40   4+15:24:15 R  0   36621.1 java -jar /scratch
-1346460.1   schrum2        11/20 22:40   4+14:47:34 R  0   36621.1 java -jar /scratch
-1346460.2   schrum2        11/20 22:40   4+15:31:23 R  0   36621.1 java -jar /scratch
-1346460.3   schrum2        11/20 22:40   4+15:24:09 R  0   36621.1 java -jar /scratch
-1346460.4   schrum2        11/20 22:40   4+14:50:44 R  0   36621.1 java -jar /scratch
-1346460.5   schrum2        11/20 22:40   4+14:49:06 R  0   36621.1 java -jar /scratch
-1346460.6   schrum2        11/20 22:40   4+14:50:39 R  0   36621.1 java -jar /scratch
-1346460.7   schrum2        11/20 22:40   4+14:56:47 R  0   36621.1 java -jar /scratch
-1346460.8   schrum2        11/20 22:40   4+14:49:53 R  0   36621.1 java -jar /scratch
-1346460.9   schrum2        11/20 22:40   4+14:38:52 R  0   36621.1 java -jar /scratch
-1346591.0   schrum2        11/21 07:40   4+05:36:02 R  0   36621.1 java -jar /scratch
-1351620.0   schrum2        11/23 16:18   2+01:51:38 R  0   36621.1 java -jar /scratch
-1351620.1   schrum2        11/23 16:18   2+01:45:31 R  0   36621.1 java -jar /scratch
-1351620.2   schrum2        11/23 16:18   2+01:41:02 R  0   36621.1 java -jar /scratch
-1351620.3   schrum2        11/23 16:18   2+01:33:38 R  0   36621.1 java -jar /scratch
-1351620.4   schrum2        11/23 16:18   2+01:49:08 R  0   29296.9 java -jar /scratch
-1351620.5   schrum2        11/23 16:18   2+01:41:03 R  0   36621.1 java -jar /scratch
-1351620.6   schrum2        11/23 16:18   2+01:53:03 R  0   12207.0 java -jar /scratch
-1351620.7   schrum2        11/23 16:18   2+01:53:52 R  0   34179.7 java -jar /scratch
-1351620.8   schrum2        11/23 16:18   2+01:58:15 R  0   12207.0 java -jar /scratch
-1351620.9   schrum2        11/23 16:18   2+01:41:11 R  0   36621.1 java -jar /scratch
-1352131.0   akanksha       11/24 02:19   1+15:52:37 R  0   488.3 433.milc.1.sh     
-1352141.0   akanksha       11/24 02:19   1+15:57:57 R  0   463.9 433.milc.11.sh    
-1352170.0   akanksha       11/24 02:19   1+15:54:23 R  0   976.6 429.mcf.1.sh      
-1352171.0   akanksha       11/24 02:19   1+15:59:34 R  0   390.6 429.mcf.2.sh      
-1352173.0   akanksha       11/24 02:19   1+15:59:29 R  0   1464.8 429.mcf.4.sh      
-1352174.0   akanksha       11/24 02:19   1+15:59:23 R  0   1220.7 429.mcf.5.sh      
-1352178.0   akanksha       11/24 02:19   1+15:59:22 R  0   439.5 429.mcf.9.sh      
-1352180.0   akanksha       11/24 02:19   1+15:59:23 R  0   293.0 429.mcf.11.sh     
-1352338.0   akanksha       11/24 02:55   1+15:25:21 R  0   488.3 433.milc.1.sh     
-1352348.0   akanksha       11/24 02:55   1+15:23:02 R  0   463.9 433.milc.11.sh    
-1352350.0   akanksha       11/24 02:55   1+15:23:03 R  0   732.4 433.milc.13.sh    
-1352376.0   akanksha       11/24 02:55   1+15:23:02 R  0   976.6 429.mcf.0.sh      
-1352377.0   akanksha       11/24 02:55   1+15:23:00 R  0   976.6 429.mcf.1.sh      
-1352378.0   akanksha       11/24 02:55   1+15:25:19 R  0   390.6 429.mcf.2.sh      
-1352380.0   akanksha       11/24 02:55   1+15:25:19 R  0   1464.8 429.mcf.4.sh      
-1352381.0   akanksha       11/24 02:55   1+15:25:19 R  0   1220.7 429.mcf.5.sh      
-1352385.0   akanksha       11/24 02:55   1+15:21:22 R  0   439.5 429.mcf.9.sh      
-1352386.0   akanksha       11/24 02:55   1+15:16:24 R  0   1709.0 429.mcf.10.sh     
-1352387.0   akanksha       11/24 02:55   1+15:20:15 R  0   293.0 429.mcf.11.sh     
-1352459.0   akanksha       11/24 02:55   1+15:22:56 R  0   732.4 459.GemsFDTD.1.sh 
-1352462.0   akanksha       11/24 02:55   1+15:22:57 R  0   732.4 459.GemsFDTD.4.sh 
-1352471.0   akanksha       11/24 02:55   1+15:20:13 R  0   732.4 459.GemsFDTD.13.sh
-1352473.0   akanksha       11/24 02:55   1+15:19:44 R  0   463.9 459.GemsFDTD.15.sh
-1352559.0   theo           11/24 18:26   0+23:54:59 R  0   4150.4 raxmlHPC-PTHREADS-
-1352849.0   schrum2        11/25 16:03   0+02:17:58 R  0   7324.2 java -jar /scratch
-1352849.1   schrum2        11/25 16:03   0+02:17:58 R  0   36621.1 java -jar /scratch
-1352849.2   schrum2        11/25 16:03   0+02:17:58 R  0   9765.6 java -jar /scratch
-1352849.3   schrum2        11/25 16:03   0+02:17:58 R  0   9765.6 java -jar /scratch
-1352849.4   schrum2        11/25 16:03   0+02:17:58 R  0   9765.6 java -jar /scratch
-1352849.5   schrum2        11/25 16:03   0+02:17:58 R  0   7324.2 java -jar /scratch
-1352849.6   schrum2        11/25 16:03   0+02:17:58 R  0   29296.9 java -jar /scratch
-1352849.7   schrum2        11/25 16:03   0+02:17:58 R  0   29296.9 java -jar /scratch
-1352849.8   schrum2        11/25 16:03   0+02:17:58 R  0   29296.9 java -jar /scratch
-1352849.9   schrum2        11/25 16:03   0+02:17:58 R  0   29296.9 java -jar /scratch
-1352850.0   schrum2        11/25 16:05   0+02:16:18 R  0   7324.2 java -jar /scratch
-1352850.1   schrum2        11/25 16:05   0+02:16:17 R  0   29296.9 java -jar /scratch
-1352850.2   schrum2        11/25 16:05   0+02:16:17 R  0   9765.6 java -jar /scratch
-1352850.3   schrum2        11/25 16:05   0+02:16:17 R  0   9765.6 java -jar /scratch
-1352850.4   schrum2        11/25 16:05   0+02:16:17 R  0   29296.9 java -jar /scratch
-1352850.5   schrum2        11/25 16:05   0+02:16:17 R  0   12207.0 java -jar /scratch
-1352850.6   schrum2        11/25 16:05   0+02:16:17 R  0   7324.2 java -jar /scratch
-1352850.7   schrum2        11/25 16:05   0+02:16:17 R  0   7324.2 java -jar /scratch
-1352850.8   schrum2        11/25 16:05   0+02:16:17 R  0   7324.2 java -jar /scratch
-1352850.9   schrum2        11/25 16:05   0+02:16:17 R  0   7324.2 java -jar /scratch
-1352851.0   menie482       11/25 16:13   0+01:55:02 R  0   1220.7 experiment --agent
-1352851.2   menie482       11/25 16:13   0+01:53:27 R  0   1220.7 experiment --agent
-1352851.4   menie482       11/25 16:13   0+01:52:45 R  0   1220.7 experiment --agent
-1352851.5   menie482       11/25 16:13   0+01:51:31 R  0   1220.7 experiment --agent
-1352851.6   menie482       11/25 16:13   0+01:51:34 R  0   1220.7 experiment --agent
-1352851.7   menie482       11/25 16:13   0+01:52:00 R  0   1220.7 experiment --agent
-1352851.9   menie482       11/25 16:13   0+01:51:33 R  0   1220.7 experiment --agent
-1352851.10  menie482       11/25 16:13   0+01:51:10 R  0   976.6 experiment --agent
-1352851.11  menie482       11/25 16:13   0+01:50:44 R  0   1220.7 experiment --agent
-1352851.12  menie482       11/25 16:13   0+01:50:37 R  0   1220.7 experiment --agent
-1352851.13  menie482       11/25 16:13   0+01:50:34 R  0   1220.7 experiment --agent
-1352851.14  menie482       11/25 16:13   0+01:51:34 R  0   1220.7 experiment --agent
-1352851.15  menie482       11/25 16:13   0+01:49:51 R  0   1220.7 experiment --agent
-1352851.16  menie482       11/25 16:13   0+01:49:48 R  0   1220.7 experiment --agent
-1352851.17  menie482       11/25 16:13   0+01:50:17 R  0   1220.7 experiment --agent
-1352851.20  menie482       11/25 16:13   0+01:48:17 R  0   1220.7 experiment --agent
-1352851.21  menie482       11/25 16:13   0+01:47:39 R  0   1220.7 experiment --agent
-1352851.22  menie482       11/25 16:13   0+01:47:42 R  0   1220.7 experiment --agent
-1352851.23  menie482       11/25 16:13   0+01:52:06 R  0   1220.7 experiment --agent
-1352851.24  menie482       11/25 16:13   0+01:48:15 R  0   1220.7 experiment --agent
-1352851.25  menie482       11/25 16:13   0+01:47:51 R  0   1220.7 experiment --agent
-1352851.26  menie482       11/25 16:13   0+01:46:30 R  0   1220.7 experiment --agent
-1352851.27  menie482       11/25 16:13   0+01:47:01 R  0   1220.7 experiment --agent
-1352851.28  menie482       11/25 16:13   0+01:49:15 R  0   1220.7 experiment --agent
-1352851.30  menie482       11/25 16:13   0+01:47:45 R  0   1220.7 experiment --agent
-1352851.31  menie482       11/25 16:13   0+01:47:16 R  0   1220.7 experiment --agent
-1352851.32  menie482       11/25 16:13   0+01:45:02 R  0   1220.7 experiment --agent
-1352851.33  menie482       11/25 16:13   0+01:45:41 R  0   976.6 experiment --agent
-1352851.34  menie482       11/25 16:13   0+01:45:34 R  0   976.6 experiment --agent
-1352851.35  menie482       11/25 16:13   0+01:47:56 R  0   976.6 experiment --agent
-1352851.36  menie482       11/25 16:13   0+01:48:00 R  0   1220.7 experiment --agent
-1352851.37  menie482       11/25 16:13   0+01:45:55 R  0   1220.7 experiment --agent
-1352851.38  menie482       11/25 16:13   0+01:46:23 R  0   1220.7 experiment --agent
-1352851.40  menie482       11/25 16:13   0+01:46:47 R  0   1220.7 experiment --agent
-1352851.41  menie482       11/25 16:13   0+01:46:46 R  0   1220.7 experiment --agent
-1352851.42  menie482       11/25 16:13   0+01:46:18 R  0   1220.7 experiment --agent
-1352851.44  menie482       11/25 16:13   0+01:43:56 R  0   1220.7 experiment --agent
-1352851.45  menie482       11/25 16:13   0+01:45:31 R  0   1220.7 experiment --agent
-1352851.47  menie482       11/25 16:13   0+01:42:23 R  0   1220.7 experiment --agent
-1352851.48  menie482       11/25 16:13   0+01:42:40 R  0   1220.7 experiment --agent
-1352851.49  menie482       11/25 16:13   0+01:43:07 R  0   1220.7 experiment --agent
-1352854.4   menie482       11/25 17:40   0+00:40:30 R  0   1220.7 experiment-gen --a
-1352854.5   menie482       11/25 17:40   0+00:40:30 R  0   1220.7 experiment-gen --a
-1352854.6   menie482       11/25 17:40   0+00:40:30 R  0   1220.7 experiment-gen --a
-1352854.21  menie482       11/25 17:40   0+00:40:29 R  0   1220.7 experiment-gen --a
-1352854.25  menie482       11/25 17:40   0+00:40:30 R  0   1220.7 experiment-gen --a
-1352854.30  menie482       11/25 17:40   0+00:40:30 R  0   976.6 experiment-gen --a
-1352854.42  menie482       11/25 17:40   0+00:40:29 R  0   1220.7 experiment-gen --a
-1352854.45  menie482       11/25 17:40   0+00:40:29 R  0   1220.7 experiment-gen --a
+1200622.101 namphuon       10/29 10:31  29+04:45:23 R  0   12207.0 perl              
+1339056.0   schrum2        11/19 19:46   7+16:31:54 R  0   36621.1 java -jar /scratch
+1339056.2   schrum2        11/19 19:46   7+16:43:54 R  0   36621.1 java -jar /scratch
+1339056.4   schrum2        11/19 19:46   7+16:43:18 R  0   36621.1 java -jar /scratch
+1339056.5   schrum2        11/19 19:46   7+15:45:11 R  0   36621.1 java -jar /scratch
+1339056.6   schrum2        11/19 19:46   7+15:56:01 R  0   36621.1 java -jar /scratch
+1339056.7   schrum2        11/19 19:46   7+15:47:52 R  0   36621.1 java -jar /scratch
+1339056.8   schrum2        11/19 19:46   7+16:23:10 R  0   36621.1 java -jar /scratch
+1339056.9   schrum2        11/19 19:46   7+16:20:03 R  0   36621.1 java -jar /scratch
+1339057.0   schrum2        11/19 19:46   7+16:24:00 R  0   36621.1 java -jar /scratch
+1339057.1   schrum2        11/19 19:46   7+16:23:56 R  0   36621.1 java -jar /scratch
+1339057.2   schrum2        11/19 19:46   7+16:15:50 R  0   36621.1 java -jar /scratch
+1339057.3   schrum2        11/19 19:46   7+15:59:43 R  0   36621.1 java -jar /scratch
+1339057.4   schrum2        11/19 19:46   7+16:24:48 R  0   36621.1 java -jar /scratch
+1339057.5   schrum2        11/19 19:46   7+15:59:01 R  0   36621.1 java -jar /scratch
+1339057.6   schrum2        11/19 19:46   7+15:49:30 R  0   36621.1 java -jar /scratch
+1339057.7   schrum2        11/19 19:46   7+16:11:43 R  0   36621.1 java -jar /scratch
+1339057.8   schrum2        11/19 19:46   7+15:47:04 R  0   36621.1 java -jar /scratch
+1339057.9   schrum2        11/19 19:46   7+16:13:41 R  0   36621.1 java -jar /scratch
+1339058.0   schrum2        11/19 19:46   7+16:05:24 R  0   36621.1 java -jar /scratch
+1339058.1   schrum2        11/19 19:46   7+16:08:40 R  0   36621.1 java -jar /scratch
+1339058.4   schrum2        11/19 19:46   7+16:12:03 R  0   36621.1 java -jar /scratch
+1339058.5   schrum2        11/19 19:46   7+15:52:03 R  0   36621.1 java -jar /scratch
+1339058.6   schrum2        11/19 19:46   7+15:51:12 R  0   36621.1 java -jar /scratch
+1339058.7   schrum2        11/19 19:46   7+15:42:42 R  0   36621.1 java -jar /scratch
+1339058.8   schrum2        11/19 19:46   7+15:12:29 R  0   36621.1 java -jar /scratch
+1339058.9   schrum2        11/19 19:46   7+15:30:08 R  0   36621.1 java -jar /scratch
+1339059.0   schrum2        11/19 19:46   7+14:38:42 R  0   36621.1 java -jar /scratch
+1339059.1   schrum2        11/19 19:46   7+14:35:27 R  0   36621.1 java -jar /scratch
+1339059.2   schrum2        11/19 19:46   7+14:19:10 R  0   36621.1 java -jar /scratch
+1339059.4   schrum2        11/19 19:46   7+15:06:15 R  0   36621.1 java -jar /scratch
+1339059.5   schrum2        11/19 19:46   7+14:13:36 R  0   36621.1 java -jar /scratch
+1339059.6   schrum2        11/19 19:46   7+14:59:56 R  0   36621.1 java -jar /scratch
+1339059.7   schrum2        11/19 19:46   7+15:14:08 R  0   36621.1 java -jar /scratch
+1339059.8   schrum2        11/19 19:46   7+14:52:51 R  0   36621.1 java -jar /scratch
+1339059.9   schrum2        11/19 19:46   7+15:16:49 R  0   36621.1 java -jar /scratch
+1339060.1   schrum2        11/19 19:46   7+14:21:48 R  0   36621.1 java -jar /scratch
+1339060.2   schrum2        11/19 19:46   7+14:23:47 R  0   36621.1 java -jar /scratch
+1339060.3   schrum2        11/19 19:46   7+14:11:07 R  0   36621.1 java -jar /scratch
+1339060.5   schrum2        11/19 19:46   7+14:46:01 R  0   36621.1 java -jar /scratch
+1339060.6   schrum2        11/19 19:46   7+14:32:06 R  0   36621.1 java -jar /scratch
+1339060.7   schrum2        11/19 19:46   7+14:30:10 R  0   36621.1 java -jar /scratch
+1339060.8   schrum2        11/19 19:46   7+13:43:07 R  0   36621.1 java -jar /scratch
+1339060.9   schrum2        11/19 19:46   7+13:51:27 R  0   36621.1 java -jar /scratch
+1346326.0   schrum2        11/20 12:36   6+21:08:43 R  0   36621.1 java -jar /scratch
+1346327.0   schrum2        11/20 12:37   6+21:07:36 R  0   36621.1 java -jar /scratch
+1346328.0   schrum2        11/20 12:38   6+21:11:56 R  0   36621.1 java -jar /scratch
+1346329.0   schrum2        11/20 12:39   6+20:56:51 R  0   36621.1 java -jar /scratch
+1346330.0   schrum2        11/20 12:44   6+20:56:23 R  0   36621.1 java -jar /scratch
+1346330.2   schrum2        11/20 12:44   6+21:25:38 R  0   36621.1 java -jar /scratch
+1346330.3   schrum2        11/20 12:44   6+20:45:23 R  0   36621.1 java -jar /scratch
+1346330.4   schrum2        11/20 12:44   6+21:27:21 R  0   36621.1 java -jar /scratch
+1346330.5   schrum2        11/20 12:44   6+20:53:32 R  0   36621.1 java -jar /scratch
+1346330.6   schrum2        11/20 12:44   6+21:14:24 R  0   36621.1 java -jar /scratch
+1346330.7   schrum2        11/20 12:44   6+21:34:21 R  0   36621.1 java -jar /scratch
+1346330.8   schrum2        11/20 12:44   6+21:05:57 R  0   36621.1 java -jar /scratch
+1346331.0   schrum2        11/20 12:44   6+20:52:28 R  0   36621.1 java -jar /scratch
+1346331.1   schrum2        11/20 12:44   6+20:50:16 R  0   36621.1 java -jar /scratch
+1346331.2   schrum2        11/20 12:44   6+21:24:17 R  0   36621.1 java -jar /scratch
+1346331.4   schrum2        11/20 12:44   6+20:51:54 R  0   36621.1 java -jar /scratch
+1346331.5   schrum2        11/20 12:44   6+20:52:06 R  0   36621.1 java -jar /scratch
+1346331.6   schrum2        11/20 12:44   6+20:46:28 R  0   36621.1 java -jar /scratch
+1346331.7   schrum2        11/20 12:44   6+20:53:03 R  0   36621.1 java -jar /scratch
+1346331.8   schrum2        11/20 12:44   6+21:28:42 R  0   36621.1 java -jar /scratch
+1346331.9   schrum2        11/20 12:44   6+20:36:36 R  0   36621.1 java -jar /scratch
+1346387.0   schrum2        11/20 15:20   6+18:17:28 R  0   36621.1 java -jar /scratch
+1346391.0   schrum2        11/20 15:23   6+21:47:12 R  0   36621.1 java -jar /scratch
+1346392.0   schrum2        11/20 15:23   6+17:59:32 R  0   36621.1 java -jar /scratch
+1346459.0   schrum2        11/20 22:40   6+10:56:55 R  0   36621.1 java -jar /scratch
+1346459.1   schrum2        11/20 22:40   6+13:46:09 R  0   36621.1 java -jar /scratch
+1346459.2   schrum2        11/20 22:40   6+13:02:45 R  0   36621.1 java -jar /scratch
+1346459.3   schrum2        11/20 22:40   6+12:56:03 R  0   36621.1 java -jar /scratch
+1346459.4   schrum2        11/20 22:40   6+13:15:47 R  0   36621.1 java -jar /scratch
+1346459.5   schrum2        11/20 22:40   6+11:57:54 R  0   36621.1 java -jar /scratch
+1346459.6   schrum2        11/20 22:40   6+11:06:36 R  0   36621.1 java -jar /scratch
+1346459.7   schrum2        11/20 22:40   6+11:20:24 R  0   36621.1 java -jar /scratch
+1346459.8   schrum2        11/20 22:40   6+11:19:31 R  0   36621.1 java -jar /scratch
+1346459.9   schrum2        11/20 22:40   6+11:19:42 R  0   36621.1 java -jar /scratch
+1346460.0   schrum2        11/20 22:40   6+11:18:20 R  0   36621.1 java -jar /scratch
+1346460.1   schrum2        11/20 22:40   6+10:41:39 R  0   36621.1 java -jar /scratch
+1346460.2   schrum2        11/20 22:40   6+11:25:33 R  0   36621.1 java -jar /scratch
+1346460.3   schrum2        11/20 22:40   6+11:15:02 R  0   36621.1 java -jar /scratch
+1346460.4   schrum2        11/20 22:40   6+10:34:59 R  0   36621.1 java -jar /scratch
+1346460.5   schrum2        11/20 22:40   6+10:43:17 R  0   36621.1 java -jar /scratch
+1346460.6   schrum2        11/20 22:40   6+10:44:50 R  0   36621.1 java -jar /scratch
+1346460.7   schrum2        11/20 22:40   6+10:48:11 R  0   36621.1 java -jar /scratch
+1346460.8   schrum2        11/20 22:40   6+10:41:17 R  0   36621.1 java -jar /scratch
+1346460.9   schrum2        11/20 22:40   6+10:30:16 R  0   36621.1 java -jar /scratch
+1346591.0   schrum2        11/21 07:40   6+01:28:15 R  0   36621.1 java -jar /scratch
+1351620.0   schrum2        11/23 16:18   3+21:42:57 R  0   36621.1 java -jar /scratch
+1351620.1   schrum2        11/23 16:18   3+21:36:50 R  0   36621.1 java -jar /scratch
+1351620.2   schrum2        11/23 16:18   3+21:26:20 R  0   36621.1 java -jar /scratch
+1351620.3   schrum2        11/23 16:18   3+21:22:18 R  0   36621.1 java -jar /scratch
+1351620.4   schrum2        11/23 16:18   3+21:33:42 R  0   36621.1 java -jar /scratch
+1351620.5   schrum2        11/23 16:18   3+21:32:27 R  0   36621.1 java -jar /scratch
+1351620.6   schrum2        11/23 16:18   3+21:44:59 R  0   34179.7 java -jar /scratch
+1351620.7   schrum2        11/23 16:18   3+21:45:09 R  0   36621.1 java -jar /scratch
+1351620.8   schrum2        11/23 16:18   3+21:39:33 R  0   34179.7 java -jar /scratch
+1351620.9   schrum2        11/23 16:18   3+21:23:40 R  0   36621.1 java -jar /scratch
+1352559.0   theo           11/24 18:26   2+19:58:35 R  0   4150.4 raxmlHPC-PTHREADS-
+1352849.0   schrum2        11/25 16:03   1+22:02:07 R  0   9765.6 java -jar /scratch
+1352849.1   schrum2        11/25 16:03   1+22:05:57 R  0   36621.1 java -jar /scratch
+1352849.2   schrum2        11/25 16:03   1+22:07:14 R  0   9765.6 java -jar /scratch
+1352849.3   schrum2        11/25 16:03   1+22:12:50 R  0   34179.7 java -jar /scratch
+1352849.4   schrum2        11/25 16:03   1+22:16:57 R  0   36621.1 java -jar /scratch
+1352849.5   schrum2        11/25 16:03   1+22:16:57 R  0   36621.1 java -jar /scratch
+1352849.6   schrum2        11/25 16:03   1+22:21:34 R  0   29296.9 java -jar /scratch
+1352849.7   schrum2        11/25 16:03   1+22:21:34 R  0   29296.9 java -jar /scratch
+1352849.8   schrum2        11/25 16:03   1+22:21:34 R  0   29296.9 java -jar /scratch
+1352849.9   schrum2        11/25 16:03   1+22:21:34 R  0   29296.9 java -jar /scratch
+1352850.1   schrum2        11/25 16:05   1+22:05:23 R  0   36621.1 java -jar /scratch
+1352850.2   schrum2        11/25 16:05   1+22:15:16 R  0   36621.1 java -jar /scratch
+1352850.3   schrum2        11/25 16:05   1+22:15:15 R  0   36621.1 java -jar /scratch
+1352850.4   schrum2        11/25 16:05   1+22:09:29 R  0   36621.1 java -jar /scratch
+1352850.6   schrum2        11/25 16:05   1+22:02:00 R  0   34179.7 java -jar /scratch
+1352850.7   schrum2        11/25 16:05   1+21:58:59 R  0   36621.1 java -jar /scratch
+1352850.8   schrum2        11/25 16:05   1+21:57:10 R  0   34179.7 java -jar /scratch
+1352850.9   schrum2        11/25 16:05   1+21:58:37 R  0   36621.1 java -jar /scratch
+1353741.0   schrum2        11/26 16:24   0+22:00:27 R  0   9765.6 java -jar /scratch
+1353741.1   schrum2        11/26 16:24   0+22:00:27 R  0   9765.6 java -jar /scratch
+1353741.2   schrum2        11/26 16:24   0+22:00:27 R  0   9765.6 java -jar /scratch
+1353741.3   schrum2        11/26 16:24   0+22:00:27 R  0   9765.6 java -jar /scratch
+1353741.4   schrum2        11/26 16:24   0+22:00:27 R  0   9765.6 java -jar /scratch
+1353741.5   schrum2        11/26 16:24   0+22:00:26 R  0   9765.6 java -jar /scratch
+1353741.6   schrum2        11/26 16:24   0+22:00:27 R  0   9765.6 java -jar /scratch
+1353741.7   schrum2        11/26 16:24   0+22:00:27 R  0   9765.6 java -jar /scratch
+1353741.8   schrum2        11/26 16:24   0+22:00:27 R  0   9765.6 java -jar /scratch
+1353741.9   schrum2        11/26 16:24   0+22:00:26 R  0   9765.6 java -jar /scratch
+1353758.0   theo           11/26 17:12   0+21:11:55 R  0   4150.4 raxmlHPC-PTHREADS-
+1355232.0   akanksha       11/26 18:22   0+20:01:48 R  0   415.0 433.milc.0.sh     
+1355233.0   akanksha       11/26 18:22   0+20:01:47 R  0   488.3 433.milc.1.sh     
+1355236.0   akanksha       11/26 18:22   0+20:01:47 R  0   439.5 433.milc.4.sh     
+1355239.0   akanksha       11/26 18:22   0+20:01:47 R  0   415.0 433.milc.7.sh     
+1355241.0   akanksha       11/26 18:22   0+20:01:47 R  0   390.6 433.milc.9.sh     
+1355242.0   akanksha       11/26 18:22   0+20:01:47 R  0   488.3 433.milc.10.sh    
+1355243.0   akanksha       11/26 18:22   0+20:01:47 R  0   463.9 433.milc.11.sh    
+1355244.0   akanksha       11/26 18:22   0+20:01:46 R  0   390.6 433.milc.12.sh    
+1355245.0   akanksha       11/26 18:22   0+20:01:46 R  0   439.5 433.milc.13.sh    
+1355246.0   akanksha       11/26 18:22   0+20:01:47 R  0   488.3 433.milc.14.sh    
+1355247.0   akanksha       11/26 18:22   0+20:01:47 R  0   463.9 433.milc.15.sh    
+1355250.0   akanksha       11/26 18:22   0+20:01:46 R  0   415.0 433.milc.18.sh    
+1355271.0   akanksha       11/26 18:22   0+20:01:44 R  0   976.6 429.mcf.0.sh      
+1355273.0   akanksha       11/26 18:22   0+20:01:47 R  0   366.2 429.mcf.2.sh      
+1355276.0   akanksha       11/26 18:22   0+20:01:45 R  0   1220.7 429.mcf.5.sh      
+1355277.0   akanksha       11/26 18:22   0+20:01:46 R  0   1220.7 429.mcf.6.sh      
+1355280.0   akanksha       11/26 18:22   0+20:01:47 R  0   439.5 429.mcf.9.sh      
+1355450.0   akanksha       11/26 18:25   0+19:58:50 R  0   463.9 433.milc.11.sh    
+1355480.0   akanksha       11/26 18:25   0+19:58:50 R  0   390.6 429.mcf.2.sh      
+1355482.0   akanksha       11/26 18:25   0+19:58:49 R  0   1464.8 429.mcf.4.sh      
+1355487.0   akanksha       11/26 18:25   0+19:58:50 R  0   439.5 429.mcf.9.sh      
+1355561.0   akanksha       11/26 18:25   0+19:58:47 R  0   732.4 459.GemsFDTD.1.sh 
+1355564.0   akanksha       11/26 18:25   0+19:58:47 R  0   732.4 459.GemsFDTD.4.sh 
+1355573.0   akanksha       11/26 18:25   0+19:58:48 R  0   732.4 459.GemsFDTD.13.sh
+1355574.0   akanksha       11/26 18:25   0+19:58:47 R  0   732.4 459.GemsFDTD.14.sh
+1355575.0   akanksha       11/26 18:25   0+19:58:47 R  0   463.9 459.GemsFDTD.15.sh
+1355578.0   akanksha       11/26 18:25   0+19:58:47 R  0   732.4 459.GemsFDTD.18.sh
+1355581.0   akanksha       11/26 18:25   0+19:58:47 R  0   732.4 459.GemsFDTD.21.sh
+1355636.0   schrum2        11/27 02:17   0+12:07:30 R  0   36621.1 java -jar /scratch
+1355636.1   schrum2        11/27 02:17   0+12:07:45 R  0   19531.2 java -jar /scratch
+1355636.2   schrum2        11/27 02:17   0+12:07:45 R  0   19531.2 java -jar /scratch
+1355636.3   schrum2        11/27 02:17   0+12:07:45 R  0   19531.2 java -jar /scratch
+1355636.4   schrum2        11/27 02:17   0+12:07:45 R  0   19531.2 java -jar /scratch
+1355636.5   schrum2        11/27 02:17   0+12:04:24 R  0   34179.7 java -jar /scratch
+1355636.6   schrum2        11/27 02:17   0+12:07:44 R  0   19531.2 java -jar /scratch
+1355636.7   schrum2        11/27 02:17   0+12:07:44 R  0   19531.2 java -jar /scratch
+1355636.8   schrum2        11/27 02:17   0+12:07:44 R  0   19531.2 java -jar /scratch
+1355636.9   schrum2        11/27 02:17   0+12:04:27 R  0   34179.7 java -jar /scratch
+1355637.0   schrum2        11/27 02:18   0+12:06:45 R  0   36621.1 java -jar /scratch
+1355637.1   schrum2        11/27 02:18   0+12:03:33 R  0   34179.7 java -jar /scratch
+1355637.2   schrum2        11/27 02:18   0+12:03:36 R  0   34179.7 java -jar /scratch
+1355637.3   schrum2        11/27 02:18   0+12:03:29 R  0   34179.7 java -jar /scratch
+1355637.4   schrum2        11/27 02:18   0+12:07:02 R  0   9765.6 java -jar /scratch
+1355637.5   schrum2        11/27 02:18   0+12:07:02 R  0   9765.6 java -jar /scratch
+1355637.6   schrum2        11/27 02:18   0+12:07:02 R  0   9765.6 java -jar /scratch
+1355637.7   schrum2        11/27 02:18   0+12:07:02 R  0   9765.6 java -jar /scratch
+1355637.8   schrum2        11/27 02:18   0+12:07:02 R  0   9765.6 java -jar /scratch
+1355637.9   schrum2        11/27 02:18   0+12:07:02 R  0   9765.6 java -jar /scratch
+1355639.112 menie482       11/27 03:36   0+05:06:27 I  0   73242.2 experiment --agent
+1355639.117 menie482       11/27 03:36   0+05:04:43 I  0   48828.1 experiment --agent
+1355639.120 menie482       11/27 03:36   0+04:15:15 I  0   122070.3 experiment --agent
+1355639.122 menie482       11/27 03:36   0+05:05:38 I  0   34179.7 experiment --agent
+1355639.126 menie482       11/27 03:36   0+02:31:51 I  0   48828.1 experiment --agent
+1355639.127 menie482       11/27 03:36   0+02:05:12 I  0   46386.7 experiment --agent
+1355639.128 menie482       11/27 03:36   0+05:07:51 I  0   29296.9 experiment --agent
+1355639.131 menie482       11/27 03:36   0+05:09:49 I  0   170898.4 experiment --agent
+1355639.132 menie482       11/27 03:36   0+05:08:45 I  0   39062.5 experiment --agent
+1355639.138 menie482       11/27 03:36   0+05:08:20 I  0   244140.6 experiment --agent
+1355639.142 menie482       11/27 03:36   0+04:00:48 I  0   97656.2 experiment --agent
+1355639.145 menie482       11/27 03:36   0+05:00:54 I  0   73242.2 experiment --agent
+1355644.0   bayzid         11/27 08:42   0+05:43:07 R  0   0.3  condor_dagman     
+1355646.0   bayzid         11/27 08:42   0+05:42:47 R  0   0.3  condor_dagman     
+1355647.0   bayzid         11/27 08:42   0+05:42:42 R  0   0.3  condor_dagman     
+1355648.0   bayzid         11/27 08:42   0+05:42:37 R  0   0.3  condor_dagman     
+1355649.0   bayzid         11/27 08:42   0+05:42:32 R  0   0.3  condor_dagman     
+1355660.0   bayzid         11/27 08:44   0+05:40:41 R  0   1953.1 mpest ../Reps/BS.1
+1355660.1   bayzid         11/27 08:44   0+05:40:41 R  0   1953.1 mpest ../Reps/BS.2
+1355660.2   bayzid         11/27 08:44   0+05:40:41 R  0   1953.1 mpest ../Reps/BS.3
+1355660.3   bayzid         11/27 08:44   0+05:40:41 R  0   1953.1 mpest ../Reps/BS.4
+1355660.4   bayzid         11/27 08:44   0+05:40:41 R  0   1953.1 mpest ../Reps/BS.5
+1355660.5   bayzid         11/27 08:44   0+05:40:41 R  0   1953.1 mpest ../Reps/BS.6
+1355660.6   bayzid         11/27 08:44   0+05:40:41 R  0   1953.1 mpest ../Reps/BS.7
+1355660.7   bayzid         11/27 08:44   0+05:40:41 R  0   1953.1 mpest ../Reps/BS.8
+1355660.8   bayzid         11/27 08:44   0+05:40:41 R  0   1953.1 mpest ../Reps/BS.9
+1355660.9   bayzid         11/27 08:44   0+05:40:41 R  0   1953.1 mpest ../Reps/BS.1
+1355660.10  bayzid         11/27 08:44   0+05:40:40 R  0   1953.1 mpest ../Reps/BS.1
+1355660.11  bayzid         11/27 08:44   0+05:40:40 R  0   1953.1 mpest ../Reps/BS.1
+1355660.12  bayzid         11/27 08:44   0+05:40:40 R  0   1953.1 mpest ../Reps/BS.1
+1355660.13  bayzid         11/27 08:44   0+05:40:40 R  0   1953.1 mpest ../Reps/BS.1
+1355660.14  bayzid         11/27 08:44   0+05:40:40 R  0   1953.1 mpest ../Reps/BS.1
+1355660.15  bayzid         11/27 08:44   0+05:40:40 R  0   1953.1 mpest ../Reps/BS.1
+1355660.16  bayzid         11/27 08:44   0+05:40:40 R  0   1953.1 mpest ../Reps/BS.1
+1355660.17  bayzid         11/27 08:44   0+05:40:40 R  0   1953.1 mpest ../Reps/BS.1
+1355660.18  bayzid         11/27 08:44   0+05:40:40 R  0   1953.1 mpest ../Reps/BS.1
+1355660.19  bayzid         11/27 08:44   0+05:40:40 R  0   1953.1 mpest ../Reps/BS.2
+1355660.20  bayzid         11/27 08:44   0+05:40:40 R  0   1953.1 mpest ../Reps/BS.2
+1355660.21  bayzid         11/27 08:44   0+05:40:40 R  0   1953.1 mpest ../Reps/BS.2
+1355660.22  bayzid         11/27 08:44   0+05:40:38 R  0   1953.1 mpest ../Reps/BS.2
+1355660.23  bayzid         11/27 08:44   0+05:40:38 R  0   1953.1 mpest ../Reps/BS.2
+1355660.24  bayzid         11/27 08:44   0+05:40:38 R  0   1953.1 mpest ../Reps/BS.2
+1355660.25  bayzid         11/27 08:44   0+05:40:38 R  0   1953.1 mpest ../Reps/BS.2
+1355660.26  bayzid         11/27 08:44   0+05:40:38 R  0   1953.1 mpest ../Reps/BS.2
+1355660.27  bayzid         11/27 08:44   0+05:40:38 R  0   1953.1 mpest ../Reps/BS.2
+1355660.28  bayzid         11/27 08:44   0+05:40:38 R  0   1953.1 mpest ../Reps/BS.2
+1355660.29  bayzid         11/27 08:44   0+05:40:38 R  0   1953.1 mpest ../Reps/BS.3
+1355660.30  bayzid         11/27 08:44   0+05:40:38 R  0   1953.1 mpest ../Reps/BS.3
+1355660.31  bayzid         11/27 08:44   0+05:40:38 R  0   1953.1 mpest ../Reps/BS.3
+1355660.32  bayzid         11/27 08:44   0+05:40:36 R  0   1953.1 mpest ../Reps/BS.3
+1355660.33  bayzid         11/27 08:44   0+05:40:36 R  0   1953.1 mpest ../Reps/BS.3
+1355660.34  bayzid         11/27 08:44   0+05:40:36 R  0   1953.1 mpest ../Reps/BS.3
+1355660.35  bayzid         11/27 08:44   0+05:40:36 R  0   1953.1 mpest ../Reps/BS.3
+1355660.36  bayzid         11/27 08:44   0+05:40:35 R  0   1953.1 mpest ../Reps/BS.3
+1355660.37  bayzid         11/27 08:44   0+05:40:35 R  0   1953.1 mpest ../Reps/BS.3
+1355660.38  bayzid         11/27 08:44   0+05:40:35 R  0   1953.1 mpest ../Reps/BS.3
+1355660.39  bayzid         11/27 08:44   0+05:40:35 R  0   1953.1 mpest ../Reps/BS.4
+1355660.40  bayzid         11/27 08:44   0+05:40:35 R  0   1953.1 mpest ../Reps/BS.4
+1355660.41  bayzid         11/27 08:44   0+05:40:35 R  0   1953.1 mpest ../Reps/BS.4
+1355660.42  bayzid         11/27 08:44   0+05:40:35 R  0   1953.1 mpest ../Reps/BS.4
+1355660.43  bayzid         11/27 08:44   0+05:40:35 R  0   1953.1 mpest ../Reps/BS.4
+1355660.44  bayzid         11/27 08:44   0+05:40:35 R  0   1953.1 mpest ../Reps/BS.4
+1355660.45  bayzid         11/27 08:44   0+05:40:35 R  0   1953.1 mpest ../Reps/BS.4
+1355660.46  bayzid         11/27 08:44   0+05:40:35 R  0   1953.1 mpest ../Reps/BS.4
+1355660.47  bayzid         11/27 08:44   0+05:40:35 R  0   1953.1 mpest ../Reps/BS.4
+1355660.48  bayzid         11/27 08:44   0+05:40:35 R  0   1953.1 mpest ../Reps/BS.4
+1355660.49  bayzid         11/27 08:44   0+05:40:35 R  0   1953.1 mpest ../Reps/BS.5
+1355660.50  bayzid         11/27 08:44   0+05:40:35 R  0   1953.1 mpest ../Reps/BS.5
+1355660.51  bayzid         11/27 08:44   0+05:40:35 R  0   1953.1 mpest ../Reps/BS.5
+1355660.52  bayzid         11/27 08:44   0+05:40:35 R  0   1953.1 mpest ../Reps/BS.5
+1355660.53  bayzid         11/27 08:44   0+05:40:33 R  0   1953.1 mpest ../Reps/BS.5
+1355660.54  bayzid         11/27 08:44   0+05:40:33 R  0   1953.1 mpest ../Reps/BS.5
+1355660.55  bayzid         11/27 08:44   0+05:40:33 R  0   1953.1 mpest ../Reps/BS.5
+1355660.56  bayzid         11/27 08:44   0+05:40:33 R  0   1953.1 mpest ../Reps/BS.5
+1355660.57  bayzid         11/27 08:44   0+05:40:33 R  0   1953.1 mpest ../Reps/BS.5
+1355660.58  bayzid         11/27 08:44   0+05:40:33 R  0   1953.1 mpest ../Reps/BS.5
+1355660.59  bayzid         11/27 08:44   0+05:40:33 R  0   1953.1 mpest ../Reps/BS.6
+1355660.60  bayzid         11/27 08:44   0+05:40:33 R  0   1953.1 mpest ../Reps/BS.6
+1355660.61  bayzid         11/27 08:44   0+05:40:33 R  0   1953.1 mpest ../Reps/BS.6
+1355660.62  bayzid         11/27 08:44   0+05:40:33 R  0   1953.1 mpest ../Reps/BS.6
+1355660.63  bayzid         11/27 08:44   0+05:40:33 R  0   1953.1 mpest ../Reps/BS.6
+1355660.64  bayzid         11/27 08:44   0+05:40:33 R  0   1953.1 mpest ../Reps/BS.6
+1355660.65  bayzid         11/27 08:44   0+05:40:33 R  0   1953.1 mpest ../Reps/BS.6
+1355660.66  bayzid         11/27 08:44   0+05:40:33 R  0   1953.1 mpest ../Reps/BS.6
+1355660.67  bayzid         11/27 08:44   0+05:40:33 R  0   1953.1 mpest ../Reps/BS.6
+1355660.68  bayzid         11/27 08:44   0+05:40:33 R  0   1953.1 mpest ../Reps/BS.6
+1355660.69  bayzid         11/27 08:44   0+05:40:33 R  0   1953.1 mpest ../Reps/BS.7
+1355660.70  bayzid         11/27 08:44   0+05:40:33 R  0   1953.1 mpest ../Reps/BS.7
+1355660.71  bayzid         11/27 08:44   0+05:40:33 R  0   1953.1 mpest ../Reps/BS.7
+1355660.72  bayzid         11/27 08:44   0+05:40:32 R  0   1953.1 mpest ../Reps/BS.7
+1355660.73  bayzid         11/27 08:44   0+05:40:32 R  0   1953.1 mpest ../Reps/BS.7
+1355660.74  bayzid         11/27 08:44   0+05:40:32 R  0   1953.1 mpest ../Reps/BS.7
+1355660.75  bayzid         11/27 08:44   0+05:40:30 R  0   1953.1 mpest ../Reps/BS.7
+1355660.76  bayzid         11/27 08:44   0+05:40:30 R  0   1953.1 mpest ../Reps/BS.7
+1355660.77  bayzid         11/27 08:44   0+05:40:30 R  0   1953.1 mpest ../Reps/BS.7
+1355660.78  bayzid         11/27 08:44   0+05:40:30 R  0   1953.1 mpest ../Reps/BS.7
+1355660.79  bayzid         11/27 08:44   0+05:40:30 R  0   1953.1 mpest ../Reps/BS.8
+1355660.80  bayzid         11/27 08:44   0+05:40:30 R  0   1953.1 mpest ../Reps/BS.8
+1355660.81  bayzid         11/27 08:44   0+05:40:27 R  0   1953.1 mpest ../Reps/BS.8
+1355660.82  bayzid         11/27 08:44   0+05:40:15 R  0   1953.1 mpest ../Reps/BS.8
+1355660.83  bayzid         11/27 08:44   0+05:40:21 R  0   1953.1 mpest ../Reps/BS.8
+1355660.84  bayzid         11/27 08:44   0+05:40:21 R  0   1953.1 mpest ../Reps/BS.8
+1355660.85  bayzid         11/27 08:44   0+05:40:21 R  0   1953.1 mpest ../Reps/BS.8
+1355660.86  bayzid         11/27 08:44   0+05:40:21 R  0   1953.1 mpest ../Reps/BS.8
+1355660.87  bayzid         11/27 08:44   0+05:40:21 R  0   1953.1 mpest ../Reps/BS.8
+1355660.88  bayzid         11/27 08:44   0+05:40:21 R  0   1953.1 mpest ../Reps/BS.8
+1355660.89  bayzid         11/27 08:44   0+05:40:21 R  0   1953.1 mpest ../Reps/BS.9
+1355660.90  bayzid         11/27 08:44   0+05:40:21 R  0   1953.1 mpest ../Reps/BS.9
+1355660.91  bayzid         11/27 08:44   0+05:40:21 R  0   1953.1 mpest ../Reps/BS.9
+1355660.92  bayzid         11/27 08:44   0+05:40:21 R  0   1953.1 mpest ../Reps/BS.9
+1355660.93  bayzid         11/27 08:44   0+05:40:21 R  0   1953.1 mpest ../Reps/BS.9
+1355660.94  bayzid         11/27 08:44   0+05:40:21 R  0   1953.1 mpest ../Reps/BS.9
+1355660.95  bayzid         11/27 08:44   0+05:40:21 R  0   1953.1 mpest ../Reps/BS.9
+1355660.96  bayzid         11/27 08:44   0+05:40:21 R  0   1953.1 mpest ../Reps/BS.9
+1355660.97  bayzid         11/27 08:44   0+05:40:21 R  0   1953.1 mpest ../Reps/BS.9
+1355660.98  bayzid         11/27 08:44   0+05:40:20 R  0   1953.1 mpest ../Reps/BS.9
+1355660.99  bayzid         11/27 08:44   0+05:40:21 R  0   1953.1 mpest ../Reps/BS.1
+1355660.100 bayzid         11/27 08:44   0+05:40:20 R  0   1953.1 mpest ../Reps/BS.1
+1355660.101 bayzid         11/27 08:44   0+05:40:20 R  0   1953.1 mpest ../Reps/BS.1
+1355660.102 bayzid         11/27 08:44   0+05:40:20 R  0   1953.1 mpest ../Reps/BS.1
+1355660.103 bayzid         11/27 08:44   0+05:40:20 R  0   1953.1 mpest ../Reps/BS.1
+1355660.104 bayzid         11/27 08:44   0+05:40:20 R  0   1953.1 mpest ../Reps/BS.1
+1355660.105 bayzid         11/27 08:44   0+05:40:20 R  0   1953.1 mpest ../Reps/BS.1
+1355660.106 bayzid         11/27 08:44   0+05:40:20 R  0   1953.1 mpest ../Reps/BS.1
+1355660.107 bayzid         11/27 08:44   0+05:40:20 R  0   1953.1 mpest ../Reps/BS.1
+1355660.108 bayzid         11/27 08:44   0+05:40:20 R  0   1953.1 mpest ../Reps/BS.1
+1355660.109 bayzid         11/27 08:44   0+05:40:20 R  0   1953.1 mpest ../Reps/BS.1
+1355660.110 bayzid         11/27 08:44   0+05:40:20 R  0   1953.1 mpest ../Reps/BS.1
+1355660.111 bayzid         11/27 08:44   0+05:40:20 R  0   1953.1 mpest ../Reps/BS.1
+1355660.112 bayzid         11/27 08:44   0+05:40:20 R  0   1953.1 mpest ../Reps/BS.1
+1355660.113 bayzid         11/27 08:44   0+05:40:20 R  0   1953.1 mpest ../Reps/BS.1
+1355660.114 bayzid         11/27 08:44   0+05:40:20 R  0   1953.1 mpest ../Reps/BS.1
+1355660.115 bayzid         11/27 08:44   0+05:40:20 R  0   1953.1 mpest ../Reps/BS.1
+1355660.116 bayzid         11/27 08:44   0+05:40:20 R  0   1953.1 mpest ../Reps/BS.1
+1355660.117 bayzid         11/27 08:44   0+05:40:20 R  0   1953.1 mpest ../Reps/BS.1
+1355660.118 bayzid         11/27 08:44   0+05:40:20 R  0   1953.1 mpest ../Reps/BS.1
+1355660.119 bayzid         11/27 08:44   0+05:40:20 R  0   1953.1 mpest ../Reps/BS.1
+1355660.120 bayzid         11/27 08:44   0+05:40:16 R  0   1953.1 mpest ../Reps/BS.1
+1355660.121 bayzid         11/27 08:44   0+05:40:16 R  0   1953.1 mpest ../Reps/BS.1
+1355660.122 bayzid         11/27 08:44   0+05:40:16 R  0   1953.1 mpest ../Reps/BS.1
+1355660.123 bayzid         11/27 08:44   0+05:40:16 R  0   1953.1 mpest ../Reps/BS.1
+1355660.124 bayzid         11/27 08:44   0+05:40:16 R  0   1953.1 mpest ../Reps/BS.1
+1355660.125 bayzid         11/27 08:44   0+05:40:16 R  0   1953.1 mpest ../Reps/BS.1
+1355660.126 bayzid         11/27 08:44   0+05:40:16 R  0   1953.1 mpest ../Reps/BS.1
+1355660.127 bayzid         11/27 08:44   0+05:40:16 R  0   1953.1 mpest ../Reps/BS.1
+1355660.128 bayzid         11/27 08:44   0+05:40:16 R  0   1953.1 mpest ../Reps/BS.1
+1355660.129 bayzid         11/27 08:44   0+05:40:16 R  0   1953.1 mpest ../Reps/BS.1
+1355660.130 bayzid         11/27 08:44   0+05:40:16 R  0   1953.1 mpest ../Reps/BS.1
+1355660.131 bayzid         11/27 08:44   0+05:40:16 R  0   1953.1 mpest ../Reps/BS.1
+1355660.132 bayzid         11/27 08:44   0+05:40:16 R  0   1953.1 mpest ../Reps/BS.1
+1355660.133 bayzid         11/27 08:44   0+05:40:16 R  0   1953.1 mpest ../Reps/BS.1
+1355660.134 bayzid         11/27 08:44   0+05:40:16 R  0   1953.1 mpest ../Reps/BS.1
+1355660.135 bayzid         11/27 08:44   0+05:40:15 R  0   1953.1 mpest ../Reps/BS.1
+1355660.136 bayzid         11/27 08:44   0+05:40:15 R  0   1953.1 mpest ../Reps/BS.1
+1355660.137 bayzid         11/27 08:44   0+05:40:15 R  0   1953.1 mpest ../Reps/BS.1
+1355660.138 bayzid         11/27 08:44   0+05:40:15 R  0   1953.1 mpest ../Reps/BS.1
+1355660.139 bayzid         11/27 08:44   0+05:40:15 R  0   1953.1 mpest ../Reps/BS.1
+1355660.140 bayzid         11/27 08:44   0+05:40:15 R  0   1953.1 mpest ../Reps/BS.1
+1355660.141 bayzid         11/27 08:44   0+05:40:15 R  0   1953.1 mpest ../Reps/BS.1
+1355660.142 bayzid         11/27 08:44   0+05:40:15 R  0   1953.1 mpest ../Reps/BS.1
+1355660.143 bayzid         11/27 08:44   0+05:40:15 R  0   1953.1 mpest ../Reps/BS.1
+1355660.144 bayzid         11/27 08:44   0+05:40:15 R  0   1953.1 mpest ../Reps/BS.1
+1355660.145 bayzid         11/27 08:44   0+05:40:15 R  0   1953.1 mpest ../Reps/BS.1
+1355660.146 bayzid         11/27 08:44   0+05:40:15 R  0   1953.1 mpest ../Reps/BS.1
+1355660.147 bayzid         11/27 08:44   0+05:40:15 R  0   1953.1 mpest ../Reps/BS.1
+1355660.148 bayzid         11/27 08:44   0+05:40:15 R  0   1953.1 mpest ../Reps/BS.1
+1355660.149 bayzid         11/27 08:44   0+05:40:15 R  0   1953.1 mpest ../Reps/BS.1
+1355660.150 bayzid         11/27 08:44   0+05:40:15 R  0   1953.1 mpest ../Reps/BS.1
+1355660.151 bayzid         11/27 08:44   0+05:40:15 R  0   1953.1 mpest ../Reps/BS.1
+1355660.152 bayzid         11/27 08:44   0+05:40:15 R  0   1953.1 mpest ../Reps/BS.1
+1355660.153 bayzid         11/27 08:44   0+05:40:14 R  0   1953.1 mpest ../Reps/BS.1
+1355660.154 bayzid         11/27 08:44   0+05:40:14 R  0   1953.1 mpest ../Reps/BS.1
+1355660.155 bayzid         11/27 08:44   0+05:40:14 R  0   1953.1 mpest ../Reps/BS.1
+1355660.156 bayzid         11/27 08:44   0+05:40:15 R  0   1953.1 mpest ../Reps/BS.1
+1355660.157 bayzid         11/27 08:44   0+05:40:15 R  0   1953.1 mpest ../Reps/BS.1
+1355660.158 bayzid         11/27 08:44   0+05:40:14 R  0   1953.1 mpest ../Reps/BS.1
+1355660.159 bayzid         11/27 08:44   0+05:40:14 R  0   1953.1 mpest ../Reps/BS.1
+1355660.160 bayzid         11/27 08:44   0+05:40:14 R  0   1953.1 mpest ../Reps/BS.1
+1355660.161 bayzid         11/27 08:44   0+05:40:14 R  0   1953.1 mpest ../Reps/BS.1
+1355660.162 bayzid         11/27 08:44   0+05:40:14 R  0   1953.1 mpest ../Reps/BS.1
+1355660.163 bayzid         11/27 08:44   0+05:40:14 R  0   1953.1 mpest ../Reps/BS.1
+1355660.164 bayzid         11/27 08:44   0+05:40:14 R  0   1953.1 mpest ../Reps/BS.1
+1355660.165 bayzid         11/27 08:44   0+05:40:14 R  0   1953.1 mpest ../Reps/BS.1
+1355660.166 bayzid         11/27 08:44   0+05:40:14 R  0   1953.1 mpest ../Reps/BS.1
+1355660.167 bayzid         11/27 08:44   0+05:40:14 R  0   1953.1 mpest ../Reps/BS.1
+1355660.168 bayzid         11/27 08:44   0+05:40:14 R  0   1953.1 mpest ../Reps/BS.1
+1355660.169 bayzid         11/27 08:44   0+05:40:14 R  0   1953.1 mpest ../Reps/BS.1
+1355660.170 bayzid         11/27 08:44   0+05:40:14 R  0   1953.1 mpest ../Reps/BS.1
+1355660.171 bayzid         11/27 08:44   0+05:40:14 R  0   1953.1 mpest ../Reps/BS.1
+1355660.172 bayzid         11/27 08:44   0+05:40:10 R  0   1953.1 mpest ../Reps/BS.1
+1355660.173 bayzid         11/27 08:44   0+05:40:10 R  0   1953.1 mpest ../Reps/BS.1
+1355660.174 bayzid         11/27 08:44   0+05:40:10 R  0   1953.1 mpest ../Reps/BS.1
+1355660.175 bayzid         11/27 08:44   0+05:40:10 R  0   1953.1 mpest ../Reps/BS.1
+1355660.176 bayzid         11/27 08:44   0+05:40:10 R  0   1953.1 mpest ../Reps/BS.1
+1355660.177 bayzid         11/27 08:44   0+05:40:10 R  0   1953.1 mpest ../Reps/BS.1
+1355660.178 bayzid         11/27 08:44   0+05:40:10 R  0   1953.1 mpest ../Reps/BS.1
+1355660.179 bayzid         11/27 08:44   0+05:40:10 R  0   1953.1 mpest ../Reps/BS.1
+1355660.180 bayzid         11/27 08:44   0+05:40:10 R  0   1953.1 mpest ../Reps/BS.1
+1355660.181 bayzid         11/27 08:44   0+05:40:10 R  0   1953.1 mpest ../Reps/BS.1
+1355660.182 bayzid         11/27 08:44   0+05:40:10 R  0   1953.1 mpest ../Reps/BS.1
+1355660.183 bayzid         11/27 08:44   0+05:40:10 R  0   1953.1 mpest ../Reps/BS.1
+1355660.184 bayzid         11/27 08:44   0+05:40:10 R  0   1953.1 mpest ../Reps/BS.1
+1355660.185 bayzid         11/27 08:44   0+05:40:09 R  0   1953.1 mpest ../Reps/BS.1
+1355660.186 bayzid         11/27 08:44   0+05:40:09 R  0   1953.1 mpest ../Reps/BS.1
+1355660.187 bayzid         11/27 08:44   0+05:40:09 R  0   1953.1 mpest ../Reps/BS.1
+1355660.188 bayzid         11/27 08:44   0+05:40:10 R  0   1953.1 mpest ../Reps/BS.1
+1355660.189 bayzid         11/27 08:44   0+05:40:10 R  0   1953.1 mpest ../Reps/BS.1
+1355660.190 bayzid         11/27 08:44   0+05:40:10 R  0   1953.1 mpest ../Reps/BS.1
+1355660.191 bayzid         11/27 08:44   0+05:40:10 R  0   1953.1 mpest ../Reps/BS.1
+1355660.192 bayzid         11/27 08:44   0+05:40:10 R  0   1953.1 mpest ../Reps/BS.1
+1355660.193 bayzid         11/27 08:44   0+05:40:10 R  0   1953.1 mpest ../Reps/BS.1
+1355660.194 bayzid         11/27 08:44   0+05:40:09 R  0   1953.1 mpest ../Reps/BS.1
+1355660.195 bayzid         11/27 08:44   0+05:40:09 R  0   1953.1 mpest ../Reps/BS.1
+1355660.196 bayzid         11/27 08:44   0+05:40:09 R  0   1953.1 mpest ../Reps/BS.1
+1355660.197 bayzid         11/27 08:44   0+05:40:09 R  0   1953.1 mpest ../Reps/BS.1
+1355660.198 bayzid         11/27 08:44   0+05:40:09 R  0   1953.1 mpest ../Reps/BS.1
+1355660.199 bayzid         11/27 08:44   0+05:40:09 R  0   1953.1 mpest ../Reps/BS.2
+1355660.200 bayzid         11/27 08:44   0+05:40:09 R  0   1953.1 mpest ../Reps/Best
+1355665.0   bayzid         11/27 08:44   0+05:39:45 R  0   1953.1 mpest ../Reps/BS.1
+1355665.1   bayzid         11/27 08:44   0+05:39:45 R  0   1953.1 mpest ../Reps/BS.2
+1355665.2   bayzid         11/27 08:44   0+05:39:45 R  0   1953.1 mpest ../Reps/BS.3
+1355665.3   bayzid         11/27 08:44   0+05:39:45 R  0   1953.1 mpest ../Reps/BS.4
+1355665.4   bayzid         11/27 08:44   0+05:39:45 R  0   1953.1 mpest ../Reps/BS.5
+1355665.5   bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.6
+1355665.6   bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.7
+1355665.7   bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.8
+1355665.8   bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.9
+1355665.9   bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.1
+1355665.10  bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.1
+1355665.11  bayzid         11/27 08:44   0+05:35:55 R  0   1953.1 mpest ../Reps/BS.1
+1355665.12  bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.1
+1355665.13  bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.1
+1355665.14  bayzid         11/27 08:44   0+05:39:45 R  0   1953.1 mpest ../Reps/BS.1
+1355665.15  bayzid         11/27 08:44   0+05:39:45 R  0   1953.1 mpest ../Reps/BS.1
+1355665.16  bayzid         11/27 08:44   0+05:39:45 R  0   1953.1 mpest ../Reps/BS.1
+1355665.17  bayzid         11/27 08:44   0+05:39:45 R  0   1953.1 mpest ../Reps/BS.1
+1355665.18  bayzid         11/27 08:44   0+05:39:45 R  0   1953.1 mpest ../Reps/BS.1
+1355665.19  bayzid         11/27 08:44   0+05:39:45 R  0   1953.1 mpest ../Reps/BS.2
+1355665.20  bayzid         11/27 08:44   0+05:39:45 R  0   1953.1 mpest ../Reps/BS.2
+1355665.21  bayzid         11/27 08:44   0+05:39:45 R  0   1953.1 mpest ../Reps/BS.2
+1355665.22  bayzid         11/27 08:44   0+05:39:45 R  0   1953.1 mpest ../Reps/BS.2
+1355665.23  bayzid         11/27 08:44   0+05:39:45 R  0   1953.1 mpest ../Reps/BS.2
+1355665.24  bayzid         11/27 08:44   0+05:39:06 R  0   1953.1 mpest ../Reps/BS.2
+1355665.25  bayzid         11/27 08:44   0+05:39:45 R  0   1953.1 mpest ../Reps/BS.2
+1355665.26  bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.2
+1355665.27  bayzid         11/27 08:44   0+05:39:45 R  0   1953.1 mpest ../Reps/BS.2
+1355665.28  bayzid         11/27 08:44   0+05:39:45 R  0   1953.1 mpest ../Reps/BS.2
+1355665.29  bayzid         11/27 08:44   0+05:39:45 R  0   1953.1 mpest ../Reps/BS.3
+1355665.30  bayzid         11/27 08:44   0+05:39:45 R  0   1953.1 mpest ../Reps/BS.3
+1355665.31  bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.3
+1355665.32  bayzid         11/27 08:44   0+05:39:45 R  0   1953.1 mpest ../Reps/BS.3
+1355665.33  bayzid         11/27 08:44   0+05:39:45 R  0   1953.1 mpest ../Reps/BS.3
+1355665.34  bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.3
+1355665.35  bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.3
+1355665.36  bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.3
+1355665.37  bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.3
+1355665.38  bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.3
+1355665.39  bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.4
+1355665.40  bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.4
+1355665.41  bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.4
+1355665.42  bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.4
+1355665.43  bayzid         11/27 08:44   0+05:39:05 R  0   1953.1 mpest ../Reps/BS.4
+1355665.44  bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.4
+1355665.45  bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.4
+1355665.46  bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.4
+1355665.47  bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.4
+1355665.48  bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.4
+1355665.49  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.5
+1355665.50  bayzid         11/27 08:44   0+05:39:05 R  0   1953.1 mpest ../Reps/BS.5
+1355665.51  bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.5
+1355665.52  bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.5
+1355665.53  bayzid         11/27 08:44   0+05:39:44 R  0   1953.1 mpest ../Reps/BS.5
+1355665.54  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.5
+1355665.55  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.5
+1355665.56  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.5
+1355665.57  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.5
+1355665.58  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.5
+1355665.59  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.6
+1355665.60  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.6
+1355665.61  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.6
+1355665.62  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.6
+1355665.63  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.6
+1355665.64  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.6
+1355665.65  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.6
+1355665.66  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.6
+1355665.67  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.6
+1355665.68  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.6
+1355665.69  bayzid         11/27 08:44   0+05:39:04 R  0   1953.1 mpest ../Reps/BS.7
+1355665.70  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.7
+1355665.71  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.7
+1355665.72  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.7
+1355665.73  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.7
+1355665.74  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.7
+1355665.75  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.7
+1355665.76  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.7
+1355665.77  bayzid         11/27 08:44   0+05:39:42 R  0   1953.1 mpest ../Reps/BS.7
+1355665.78  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.7
+1355665.79  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.8
+1355665.80  bayzid         11/27 08:44   0+05:39:42 R  0   1953.1 mpest ../Reps/BS.8
+1355665.81  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.8
+1355665.82  bayzid         11/27 08:44   0+05:35:37 R  0   1953.1 mpest ../Reps/BS.8
+1355665.83  bayzid         11/27 08:44   0+05:39:43 R  0   1953.1 mpest ../Reps/BS.8
+1355665.84  bayzid         11/27 08:44   0+05:39:42 R  0   1953.1 mpest ../Reps/BS.8
+1355665.85  bayzid         11/27 08:44   0+05:39:42 R  0   1953.1 mpest ../Reps/BS.8
+1355665.86  bayzid         11/27 08:44   0+05:39:42 R  0   1953.1 mpest ../Reps/BS.8
+1355665.87  bayzid         11/27 08:44   0+05:39:42 R  0   1953.1 mpest ../Reps/BS.8
+1355665.88  bayzid         11/27 08:44   0+05:39:42 R  0   1953.1 mpest ../Reps/BS.8
+1355665.89  bayzid         11/27 08:44   0+05:39:42 R  0   1953.1 mpest ../Reps/BS.9
+1355665.90  bayzid         11/27 08:44   0+05:39:42 R  0   1953.1 mpest ../Reps/BS.9
+1355665.91  bayzid         11/27 08:44   0+05:39:42 R  0   1953.1 mpest ../Reps/BS.9
+1355665.92  bayzid         11/27 08:44   0+05:39:42 R  0   1953.1 mpest ../Reps/BS.9
+1355665.93  bayzid         11/27 08:44   0+05:39:42 R  0   1953.1 mpest ../Reps/BS.9
+1355665.94  bayzid         11/27 08:44   0+05:39:42 R  0   1953.1 mpest ../Reps/BS.9
+1355665.95  bayzid         11/27 08:44   0+05:39:42 R  0   1953.1 mpest ../Reps/BS.9
+1355665.96  bayzid         11/27 08:44   0+05:39:42 R  0   1953.1 mpest ../Reps/BS.9
+1355665.97  bayzid         11/27 08:44   0+05:39:42 R  0   1953.1 mpest ../Reps/BS.9
+1355665.98  bayzid         11/27 08:44   0+05:39:42 R  0   1953.1 mpest ../Reps/BS.9
+1355665.99  bayzid         11/27 08:44   0+05:39:42 R  0   1953.1 mpest ../Reps/BS.1
+1355665.100 bayzid         11/27 08:44   0+05:39:41 R  0   1953.1 mpest ../Reps/BS.1
+1355665.101 bayzid         11/27 08:44   0+05:39:41 R  0   1953.1 mpest ../Reps/BS.1
+1355665.102 bayzid         11/27 08:44   0+05:39:41 R  0   1953.1 mpest ../Reps/BS.1
+1355665.103 bayzid         11/27 08:44   0+05:39:40 R  0   1953.1 mpest ../Reps/BS.1
+1355665.104 bayzid         11/27 08:44   0+05:39:41 R  0   1953.1 mpest ../Reps/BS.1
+1355665.105 bayzid         11/27 08:44   0+05:39:41 R  0   1953.1 mpest ../Reps/BS.1
+1355665.106 bayzid         11/27 08:44   0+05:39:41 R  0   1953.1 mpest ../Reps/BS.1
+1355665.107 bayzid         11/27 08:44   0+05:39:41 R  0   1953.1 mpest ../Reps/BS.1
+1355665.108 bayzid         11/27 08:44   0+05:39:40 R  0   1953.1 mpest ../Reps/BS.1
+1355665.109 bayzid         11/27 08:44   0+05:39:40 R  0   1953.1 mpest ../Reps/BS.1
+1355665.110 bayzid         11/27 08:44   0+05:39:01 R  0   1953.1 mpest ../Reps/BS.1
+1355665.111 bayzid         11/27 08:44   0+05:39:40 R  0   1953.1 mpest ../Reps/BS.1
+1355665.112 bayzid         11/27 08:44   0+05:39:40 R  0   1953.1 mpest ../Reps/BS.1
+1355665.113 bayzid         11/27 08:44   0+05:39:40 R  0   1953.1 mpest ../Reps/BS.1
+1355665.114 bayzid         11/27 08:44   0+05:39:40 R  0   1953.1 mpest ../Reps/BS.1
+1355665.115 bayzid         11/27 08:44   0+05:39:40 R  0   1953.1 mpest ../Reps/BS.1
+1355665.116 bayzid         11/27 08:44   0+05:39:39 R  0   1953.1 mpest ../Reps/BS.1
+1355665.117 bayzid         11/27 08:44   0+05:39:40 R  0   1953.1 mpest ../Reps/BS.1
+1355665.118 bayzid         11/27 08:44   0+05:39:40 R  0   1953.1 mpest ../Reps/BS.1
+1355665.119 bayzid         11/27 08:44   0+05:39:40 R  0   1953.1 mpest ../Reps/BS.1
+1355665.120 bayzid         11/27 08:44   0+05:39:40 R  0   1953.1 mpest ../Reps/BS.1
+1355665.121 bayzid         11/27 08:44   0+05:39:40 R  0   1953.1 mpest ../Reps/BS.1
+1355665.122 bayzid         11/27 08:44   0+05:39:40 R  0   1953.1 mpest ../Reps/BS.1
+1355665.123 bayzid         11/27 08:44   0+05:39:40 R  0   1953.1 mpest ../Reps/BS.1
+1355665.124 bayzid         11/27 08:44   0+05:39:40 R  0   1953.1 mpest ../Reps/BS.1
+1355665.125 bayzid         11/27 08:44   0+05:39:40 R  0   1953.1 mpest ../Reps/BS.1
+1355665.126 bayzid         11/27 08:44   0+05:39:40 R  0   1953.1 mpest ../Reps/BS.1
+1355665.127 bayzid         11/27 08:44   0+05:39:39 R  0   1953.1 mpest ../Reps/BS.1
+1355665.128 bayzid         11/27 08:44   0+05:39:40 R  0   1953.1 mpest ../Reps/BS.1
+1355665.129 bayzid         11/27 08:44   0+05:39:40 R  0   1953.1 mpest ../Reps/BS.1
+1355665.130 bayzid         11/27 08:44   0+05:39:40 R  0   1953.1 mpest ../Reps/BS.1
+1355665.131 bayzid         11/27 08:44   0+05:35:32 R  0   1953.1 mpest ../Reps/BS.1
+1355665.132 bayzid         11/27 08:44   0+05:39:40 R  0   1953.1 mpest ../Reps/BS.1
+1355665.133 bayzid         11/27 08:44   0+05:39:39 R  0   1953.1 mpest ../Reps/BS.1
+1355665.134 bayzid         11/27 08:44   0+05:39:39 R  0   1953.1 mpest ../Reps/BS.1
+1355665.135 bayzid         11/27 08:44   0+05:39:39 R  0   1953.1 mpest ../Reps/BS.1
+1355665.136 bayzid         11/27 08:44   0+05:39:39 R  0   1953.1 mpest ../Reps/BS.1
+1355665.137 bayzid         11/27 08:44   0+05:39:39 R  0   1953.1 mpest ../Reps/BS.1
+1355665.138 bayzid         11/27 08:44   0+05:39:39 R  0   1953.1 mpest ../Reps/BS.1
+1355665.139 bayzid         11/27 08:44   0+05:39:39 R  0   1953.1 mpest ../Reps/BS.1
+1355665.140 bayzid         11/27 08:44   0+05:39:39 R  0   1953.1 mpest ../Reps/BS.1
+1355665.141 bayzid         11/27 08:44   0+05:39:39 R  0   1953.1 mpest ../Reps/BS.1
+1355665.143 bayzid         11/27 08:44   0+05:39:38 R  0   1953.1 mpest ../Reps/BS.1
+1355665.144 bayzid         11/27 08:44   0+05:39:39 R  0   1953.1 mpest ../Reps/BS.1
+1355665.145 bayzid         11/27 08:44   0+05:39:39 R  0   1953.1 mpest ../Reps/BS.1
+1355665.146 bayzid         11/27 08:44   0+05:39:39 R  0   1953.1 mpest ../Reps/BS.1
+1355665.147 bayzid         11/27 08:44   0+05:39:39 R  0   1953.1 mpest ../Reps/BS.1
+1355665.148 bayzid         11/27 08:44   0+05:39:39 R  0   1953.1 mpest ../Reps/BS.1
+1355665.149 bayzid         11/27 08:44   0+05:39:39 R  0   1953.1 mpest ../Reps/BS.1
+1355665.150 bayzid         11/27 08:44   0+05:39:38 R  0   1953.1 mpest ../Reps/BS.1
+1355665.151 bayzid         11/27 08:44   0+05:39:39 R  0   1953.1 mpest ../Reps/BS.1
+1355665.152 bayzid         11/27 08:44   0+05:39:00 R  0   1953.1 mpest ../Reps/BS.1
+1355665.153 bayzid         11/27 08:44   0+05:39:39 R  0   1953.1 mpest ../Reps/BS.1
+1355665.154 bayzid         11/27 08:44   0+05:39:39 R  0   1953.1 mpest ../Reps/BS.1
+1355665.155 bayzid         11/27 08:44   0+05:39:39 R  0   1953.1 mpest ../Reps/BS.1
+1355665.156 bayzid         11/27 08:44   0+05:39:38 R  0   1953.1 mpest ../Reps/BS.1
+1355665.157 bayzid         11/27 08:44   0+05:39:38 R  0   1953.1 mpest ../Reps/BS.1
+1355665.158 bayzid         11/27 08:44   0+05:39:38 R  0   1953.1 mpest ../Reps/BS.1
+1355665.159 bayzid         11/27 08:44   0+05:38:59 R  0   1953.1 mpest ../Reps/BS.1
+1355665.161 bayzid         11/27 08:44   0+05:39:38 R  0   1953.1 mpest ../Reps/BS.1
+1355665.162 bayzid         11/27 08:44   0+05:39:38 R  0   1953.1 mpest ../Reps/BS.1
+1355665.163 bayzid         11/27 08:44   0+05:39:38 R  0   1953.1 mpest ../Reps/BS.1
+1355665.164 bayzid         11/27 08:44   0+05:39:38 R  0   1953.1 mpest ../Reps/BS.1
+1355665.165 bayzid         11/27 08:44   0+05:39:38 R  0   1953.1 mpest ../Reps/BS.1
+1355665.166 bayzid         11/27 08:44   0+05:39:38 R  0   1953.1 mpest ../Reps/BS.1
+1355665.167 bayzid         11/27 08:44   0+05:39:38 R  0   1953.1 mpest ../Reps/BS.1
+1355665.168 bayzid         11/27 08:44   0+05:39:38 R  0   1953.1 mpest ../Reps/BS.1
+1355665.169 bayzid         11/27 08:44   0+05:39:38 R  0   1953.1 mpest ../Reps/BS.1
+1355665.170 bayzid         11/27 08:44   0+05:39:00 R  0   1953.1 mpest ../Reps/BS.1
+1355665.171 bayzid         11/27 08:44   0+05:39:38 R  0   1953.1 mpest ../Reps/BS.1
+1355665.172 bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355665.173 bayzid         11/27 08:44   0+05:39:38 R  0   1953.1 mpest ../Reps/BS.1
+1355665.174 bayzid         11/27 08:44   0+05:39:38 R  0   1953.1 mpest ../Reps/BS.1
+1355665.175 bayzid         11/27 08:44   0+05:39:38 R  0   1953.1 mpest ../Reps/BS.1
+1355665.176 bayzid         11/27 08:44   0+05:39:38 R  0   1953.1 mpest ../Reps/BS.1
+1355665.177 bayzid         11/27 08:44   0+05:39:38 R  0   1953.1 mpest ../Reps/BS.1
+1355665.178 bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355665.179 bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355665.180 bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355665.181 bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355665.182 bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355665.183 bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355665.184 bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355665.185 bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355665.186 bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.1
+1355665.187 bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355665.188 bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355665.189 bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355665.190 bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355665.191 bayzid         11/27 08:44   0+05:38:59 R  0   1953.1 mpest ../Reps/BS.1
+1355665.192 bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.1
+1355665.193 bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355665.194 bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355665.195 bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355665.196 bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355665.197 bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355665.198 bayzid         11/27 08:44   0+05:38:58 R  0   1953.1 mpest ../Reps/BS.1
+1355665.199 bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.2
+1355665.200 bayzid         11/27 08:44   0+05:39:38 R  0   1953.1 mpest ../Reps/Best
+1355666.0   bayzid         11/27 08:44   0+05:39:38 R  0   1953.1 mpest ../Reps/BS.1
+1355666.1   bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.2
+1355666.2   bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.3
+1355666.3   bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.4
+1355666.4   bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.5
+1355666.5   bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.6
+1355666.6   bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.7
+1355666.7   bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.8
+1355666.8   bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.9
+1355666.9   bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355666.10  bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355666.11  bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355666.12  bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355666.13  bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355666.15  bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355666.16  bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355666.17  bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355666.18  bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.1
+1355666.19  bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.2
+1355666.20  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.2
+1355666.21  bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.2
+1355666.22  bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.2
+1355666.23  bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.2
+1355666.24  bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.2
+1355666.25  bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.2
+1355666.26  bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.2
+1355666.27  bayzid         11/27 08:44   0+05:39:37 R  0   1953.1 mpest ../Reps/BS.2
+1355666.28  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.2
+1355666.29  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.3
+1355666.30  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.3
+1355666.31  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.3
+1355666.32  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.3
+1355666.33  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.3
+1355666.34  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.3
+1355666.35  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.3
+1355666.36  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.3
+1355666.37  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.3
+1355666.38  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.3
+1355666.39  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.4
+1355666.40  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.4
+1355666.41  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.4
+1355666.43  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.4
+1355666.44  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.4
+1355666.45  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.4
+1355666.46  bayzid         11/27 08:44   0+05:39:35 R  0   1953.1 mpest ../Reps/BS.4
+1355666.47  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.4
+1355666.48  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.4
+1355666.49  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.5
+1355666.50  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.5
+1355666.51  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.5
+1355666.52  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.5
+1355666.53  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.5
+1355666.54  bayzid         11/27 08:44   0+05:39:35 R  0   1953.1 mpest ../Reps/BS.5
+1355666.55  bayzid         11/27 08:44   0+05:39:36 R  0   1953.1 mpest ../Reps/BS.5
+1355666.56  bayzid         11/27 08:44   0+05:39:35 R  0   1953.1 mpest ../Reps/BS.5
+1355666.57  bayzid         11/27 08:44   0+05:39:35 R  0   1953.1 mpest ../Reps/BS.5
+1355666.58  bayzid         11/27 08:44   0+05:39:35 R  0   1953.1 mpest ../Reps/BS.5
+1355666.59  bayzid         11/27 08:44   0+05:38:56 R  0   1953.1 mpest ../Reps/BS.6
+1355666.60  bayzid         11/27 08:44   0+05:39:35 R  0   1953.1 mpest ../Reps/BS.6
+1355666.61  bayzid         11/27 08:44   0+05:39:35 R  0   1953.1 mpest ../Reps/BS.6
+1355666.62  bayzid         11/27 08:44   0+05:39:35 R  0   1953.1 mpest ../Reps/BS.6
+1355666.63  bayzid         11/27 08:44   0+05:39:35 R  0   1953.1 mpest ../Reps/BS.6
+1355666.64  bayzid         11/27 08:44   0+05:39:35 R  0   1953.1 mpest ../Reps/BS.6
+1355666.65  bayzid         11/27 08:44   0+05:39:35 R  0   1953.1 mpest ../Reps/BS.6
+1355666.66  bayzid         11/27 08:44   0+05:39:35 R  0   1953.1 mpest ../Reps/BS.6
+1355666.67  bayzid         11/27 08:44   0+05:39:35 R  0   1953.1 mpest ../Reps/BS.6
+1355666.68  bayzid         11/27 08:44   0+05:39:35 R  0   1953.1 mpest ../Reps/BS.6
+1355666.69  bayzid         11/27 08:44   0+05:39:35 R  0   1953.1 mpest ../Reps/BS.7
+1355666.70  bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.7
+1355666.71  bayzid         11/27 08:44   0+05:39:35 R  0   1953.1 mpest ../Reps/BS.7
+1355666.72  bayzid         11/27 08:44   0+05:39:35 R  0   1953.1 mpest ../Reps/BS.7
+1355666.73  bayzid         11/27 08:44   0+05:39:35 R  0   1953.1 mpest ../Reps/BS.7
+1355666.74  bayzid         11/27 08:44   0+05:39:35 R  0   1953.1 mpest ../Reps/BS.7
+1355666.75  bayzid         11/27 08:44   0+05:39:35 R  0   1953.1 mpest ../Reps/BS.7
+1355666.76  bayzid         11/27 08:44   0+05:39:35 R  0   1953.1 mpest ../Reps/BS.7
+1355666.77  bayzid         11/27 08:44   0+05:39:35 R  0   1953.1 mpest ../Reps/BS.7
+1355666.78  bayzid         11/27 08:44   0+05:38:55 R  0   1953.1 mpest ../Reps/BS.7
+1355666.79  bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.8
+1355666.80  bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.8
+1355666.81  bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.8
+1355666.82  bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.8
+1355666.84  bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.8
+1355666.85  bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.8
+1355666.86  bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.8
+1355666.87  bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.8
+1355666.88  bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.8
+1355666.89  bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.9
+1355666.90  bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.9
+1355666.91  bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.9
+1355666.92  bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.9
+1355666.93  bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.9
+1355666.94  bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.9
+1355666.95  bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.9
+1355666.96  bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.9
+1355666.97  bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.9
+1355666.98  bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.9
+1355666.99  bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.1
+1355666.100 bayzid         11/27 08:44   0+05:38:55 R  0   1953.1 mpest ../Reps/BS.1
+1355666.101 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.102 bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.1
+1355666.103 bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.1
+1355666.104 bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.1
+1355666.105 bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.1
+1355666.106 bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.1
+1355666.107 bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.1
+1355666.108 bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.1
+1355666.109 bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.1
+1355666.110 bayzid         11/27 08:44   0+05:39:34 R  0   1953.1 mpest ../Reps/BS.1
+1355666.111 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.112 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.113 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.114 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.115 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.116 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.117 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.118 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.119 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.120 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.121 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.122 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.123 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.124 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.125 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.126 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.127 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.128 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.129 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.130 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.131 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.132 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.133 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.134 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.135 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.136 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.137 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.138 bayzid         11/27 08:44   0+05:39:33 R  0   1953.1 mpest ../Reps/BS.1
+1355666.139 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.140 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.141 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.142 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.143 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.144 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.145 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.146 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.147 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.148 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.149 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.150 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.151 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.152 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.153 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.154 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.155 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.156 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.157 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.158 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.159 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.160 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.161 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.162 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.163 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.164 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.165 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.166 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.167 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.168 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.169 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.170 bayzid         11/27 08:44   0+05:39:32 R  0   1953.1 mpest ../Reps/BS.1
+1355666.171 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.172 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.173 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.174 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.175 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.176 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.177 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.178 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.179 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.180 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.181 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.182 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.183 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.184 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.185 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.186 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.187 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.188 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.189 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.190 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.191 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.192 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.193 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.194 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.195 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.196 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.197 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.198 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.1
+1355666.199 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/BS.2
+1355666.200 bayzid         11/27 08:44   0+05:39:31 R  0   1953.1 mpest ../Reps/Best
+1355672.0   bayzid         11/27 08:44   0+05:38:53 R  0   1953.1 mpest ../Reps/BS.1
+1355672.1   bayzid         11/27 08:44   0+05:38:53 R  0   1953.1 mpest ../Reps/BS.2
+1355672.2   bayzid         11/27 08:44   0+05:38:15 R  0   1953.1 mpest ../Reps/BS.3
+1355672.3   bayzid         11/27 08:44   0+05:38:53 R  0   1953.1 mpest ../Reps/BS.4
+1355672.4   bayzid         11/27 08:44   0+05:38:53 R  0   1953.1 mpest ../Reps/BS.5
+1355672.5   bayzid         11/27 08:44   0+05:38:53 R  0   1953.1 mpest ../Reps/BS.6
+1355672.6   bayzid         11/27 08:44   0+05:38:18 R  0   1953.1 mpest ../Reps/BS.7
+1355672.7   bayzid         11/27 08:44   0+05:38:53 R  0   1953.1 mpest ../Reps/BS.8
+1355672.8   bayzid         11/27 08:44   0+05:38:53 R  0   1953.1 mpest ../Reps/BS.9
+1355672.9   bayzid         11/27 08:44   0+05:38:53 R  0   1953.1 mpest ../Reps/BS.1
+1355672.10  bayzid         11/27 08:44   0+05:38:53 R  0   1953.1 mpest ../Reps/BS.1
+1355672.11  bayzid         11/27 08:44   0+05:38:15 R  0   1953.1 mpest ../Reps/BS.1
+1355672.12  bayzid         11/27 08:44   0+05:38:52 R  0   1953.1 mpest ../Reps/BS.1
+1355672.13  bayzid         11/27 08:44   0+05:38:52 R  0   1953.1 mpest ../Reps/BS.1
+1355672.14  bayzid         11/27 08:44   0+05:38:52 R  0   1953.1 mpest ../Reps/BS.1
+1355672.15  bayzid         11/27 08:44   0+05:38:52 R  0   1953.1 mpest ../Reps/BS.1
+1355672.16  bayzid         11/27 08:44   0+05:38:15 R  0   1953.1 mpest ../Reps/BS.1
+1355672.17  bayzid         11/27 08:44   0+05:38:16 R  0   1953.1 mpest ../Reps/BS.1
+1355672.18  bayzid         11/27 08:44   0+05:38:52 R  0   1953.1 mpest ../Reps/BS.1
+1355672.19  bayzid         11/27 08:44   0+05:38:52 R  0   1953.1 mpest ../Reps/BS.2
+1355672.20  bayzid         11/27 08:44   0+05:38:14 R  0   1953.1 mpest ../Reps/BS.2
+1355672.21  bayzid         11/27 08:44   0+05:38:16 R  0   1953.1 mpest ../Reps/BS.2
+1355672.22  bayzid         11/27 08:44   0+05:38:14 R  0   1953.1 mpest ../Reps/BS.2
+1355672.23  bayzid         11/27 08:44   0+05:38:52 R  0   1953.1 mpest ../Reps/BS.2
+1355672.24  bayzid         11/27 08:44   0+05:38:15 R  0   1953.1 mpest ../Reps/BS.2
+1355672.25  bayzid         11/27 08:44   0+05:38:52 R  0   1953.1 mpest ../Reps/BS.2
+1355672.26  bayzid         11/27 08:44   0+05:38:52 R  0   1953.1 mpest ../Reps/BS.2
+1355672.27  bayzid         11/27 08:44   0+05:38:52 R  0   1953.1 mpest ../Reps/BS.2
+1355672.28  bayzid         11/27 08:44   0+05:38:52 R  0   1953.1 mpest ../Reps/BS.2
+1355672.29  bayzid         11/27 08:44   0+05:38:52 R  0   1953.1 mpest ../Reps/BS.3
+1355672.30  bayzid         11/27 08:44   0+05:38:14 R  0   1953.1 mpest ../Reps/BS.3
+1355672.31  bayzid         11/27 08:44   0+05:38:52 R  0   1953.1 mpest ../Reps/BS.3
+1355672.32  bayzid         11/27 08:44   0+05:38:52 R  0   1953.1 mpest ../Reps/BS.3
+1355672.33  bayzid         11/27 08:44   0+05:38:15 R  0   1953.1 mpest ../Reps/BS.3
+1355672.34  bayzid         11/27 08:44   0+05:38:52 R  0   1953.1 mpest ../Reps/BS.3
+1355672.35  bayzid         11/27 08:44   0+05:38:52 R  0   1953.1 mpest ../Reps/BS.3
+1355672.36  bayzid         11/27 08:44   0+05:38:52 R  0   1953.1 mpest ../Reps/BS.3
+1355672.37  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.3
+1355672.38  bayzid         11/27 08:44   0+05:38:12 R  0   1953.1 mpest ../Reps/BS.3
+1355672.39  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.4
+1355672.40  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.4
+1355672.41  bayzid         11/27 08:44   0+05:38:13 R  0   1953.1 mpest ../Reps/BS.4
+1355672.42  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.4
+1355672.43  bayzid         11/27 08:44   0+05:38:13 R  0   1953.1 mpest ../Reps/BS.4
+1355672.44  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.4
+1355672.45  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.4
+1355672.46  bayzid         11/27 08:44   0+05:38:14 R  0   1953.1 mpest ../Reps/BS.4
+1355672.47  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.4
+1355672.48  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.4
+1355672.49  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.5
+1355672.50  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.5
+1355672.51  bayzid         11/27 08:44   0+05:38:14 R  0   1953.1 mpest ../Reps/BS.5
+1355672.52  bayzid         11/27 08:44   0+05:38:12 R  0   1953.1 mpest ../Reps/BS.5
+1355672.53  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.5
+1355672.54  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.5
+1355672.55  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.5
+1355672.56  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.5
+1355672.57  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.5
+1355672.58  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.5
+1355672.59  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.6
+1355672.60  bayzid         11/27 08:44   0+05:38:11 R  0   1953.1 mpest ../Reps/BS.6
+1355672.61  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.6
+1355672.62  bayzid         11/27 08:44   0+05:38:13 R  0   1953.1 mpest ../Reps/BS.6
+1355672.63  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.6
+1355672.64  bayzid         11/27 08:44   0+05:38:14 R  0   1953.1 mpest ../Reps/BS.6
+1355672.65  bayzid         11/27 08:44   0+05:38:13 R  0   1953.1 mpest ../Reps/BS.6
+1355672.66  bayzid         11/27 08:44   0+05:38:12 R  0   1953.1 mpest ../Reps/BS.6
+1355672.67  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.6
+1355672.68  bayzid         11/27 08:44   0+05:38:15 R  0   1953.1 mpest ../Reps/BS.6
+1355672.69  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.7
+1355672.70  bayzid         11/27 08:44   0+05:38:12 R  0   1953.1 mpest ../Reps/BS.7
+1355672.71  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.7
+1355672.72  bayzid         11/27 08:44   0+05:38:15 R  0   1953.1 mpest ../Reps/BS.7
+1355672.73  bayzid         11/27 08:44   0+05:38:14 R  0   1953.1 mpest ../Reps/BS.7
+1355672.74  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.7
+1355672.75  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.7
+1355672.76  bayzid         11/27 08:44   0+05:38:12 R  0   1953.1 mpest ../Reps/BS.7
+1355672.77  bayzid         11/27 08:44   0+05:38:51 R  0   1953.1 mpest ../Reps/BS.7
+1355672.78  bayzid         11/27 08:44   0+05:38:50 R  0   1953.1 mpest ../Reps/BS.7
+1355672.79  bayzid         11/27 08:44   0+05:38:46 R  0   1953.1 mpest ../Reps/BS.8
+1355672.80  bayzid         11/27 08:44   0+05:38:34 R  0   1953.1 mpest ../Reps/BS.8
+1355672.81  bayzid         11/27 08:44   0+05:38:18 R  0   1953.1 mpest ../Reps/BS.8
+1355672.82  bayzid         11/27 08:44   0+05:38:13 R  0   1953.1 mpest ../Reps/BS.8
+1355672.83  bayzid         11/27 08:44   0+05:33:17 R  0   1953.1 mpest ../Reps/BS.8
+1355672.84  bayzid         11/27 08:44   0+05:37:47 R  0   1953.1 mpest ../Reps/BS.8
+1355672.85  bayzid         11/27 08:44   0+05:37:46 R  0   1953.1 mpest ../Reps/BS.8
+1355672.86  bayzid         11/27 08:44   0+05:37:46 R  0   1953.1 mpest ../Reps/BS.8
+1355672.87  bayzid         11/27 08:44   0+05:37:46 R  0   1953.1 mpest ../Reps/BS.8
+1355672.88  bayzid         11/27 08:44   0+05:37:45 R  0   1953.1 mpest ../Reps/BS.8
+1355672.89  bayzid         11/27 08:44   0+05:37:45 R  0   1953.1 mpest ../Reps/BS.9
+1355672.90  bayzid         11/27 08:44   0+05:37:45 R  0   1953.1 mpest ../Reps/BS.9
+1355672.91  bayzid         11/27 08:44   0+05:37:45 R  0   1953.1 mpest ../Reps/BS.9
+1355672.92  bayzid         11/27 08:44   0+05:37:44 R  0   1953.1 mpest ../Reps/BS.9
+1355672.93  bayzid         11/27 08:44   0+05:37:44 R  0   1953.1 mpest ../Reps/BS.9
+1355672.94  bayzid         11/27 08:44   0+05:37:42 R  0   1953.1 mpest ../Reps/BS.9
+1355672.95  bayzid         11/27 08:44   0+05:37:41 R  0   1953.1 mpest ../Reps/BS.9
+1355672.96  bayzid         11/27 08:44   0+05:37:41 R  0   1953.1 mpest ../Reps/BS.9
+1355672.97  bayzid         11/27 08:44   0+05:37:41 R  0   1953.1 mpest ../Reps/BS.9
+1355672.98  bayzid         11/27 08:44   0+05:37:41 R  0   1953.1 mpest ../Reps/BS.9
+1355672.99  bayzid         11/27 08:44   0+05:37:41 R  0   1953.1 mpest ../Reps/BS.1
+1355672.100 bayzid         11/27 08:44   0+05:37:41 R  0   1953.1 mpest ../Reps/BS.1
+1355672.101 bayzid         11/27 08:44   0+05:37:41 R  0   1953.1 mpest ../Reps/BS.1
+1355672.102 bayzid         11/27 08:44   0+05:37:41 R  0   1953.1 mpest ../Reps/BS.1
+1355672.103 bayzid         11/27 08:44   0+05:37:41 R  0   1953.1 mpest ../Reps/BS.1
+1355672.104 bayzid         11/27 08:44   0+05:37:41 R  0   1953.1 mpest ../Reps/BS.1
+1355672.105 bayzid         11/27 08:44   0+05:37:41 R  0   1953.1 mpest ../Reps/BS.1
+1355672.106 bayzid         11/27 08:44   0+05:37:40 R  0   1953.1 mpest ../Reps/BS.1
+1355672.107 bayzid         11/27 08:44   0+05:37:40 R  0   1953.1 mpest ../Reps/BS.1
+1355672.108 bayzid         11/27 08:44   0+05:37:40 R  0   1953.1 mpest ../Reps/BS.1
+1355672.109 bayzid         11/27 08:44   0+05:37:40 R  0   1953.1 mpest ../Reps/BS.1
+1355672.111 bayzid         11/27 08:44   0+05:37:40 R  0   1953.1 mpest ../Reps/BS.1
+1355672.112 bayzid         11/27 08:44   0+05:37:40 R  0   1953.1 mpest ../Reps/BS.1
+1355672.113 bayzid         11/27 08:44   0+05:37:40 R  0   1953.1 mpest ../Reps/BS.1
+1355672.114 bayzid         11/27 08:44   0+05:37:40 R  0   1953.1 mpest ../Reps/BS.1
+1355672.115 bayzid         11/27 08:44   0+05:37:40 R  0   1953.1 mpest ../Reps/BS.1
+1355672.116 bayzid         11/27 08:44   0+05:37:40 R  0   1953.1 mpest ../Reps/BS.1
+1355672.117 bayzid         11/27 08:44   0+05:37:40 R  0   1953.1 mpest ../Reps/BS.1
+1355672.118 bayzid         11/27 08:44   0+05:37:39 R  0   1953.1 mpest ../Reps/BS.1
+1355672.119 bayzid         11/27 08:44   0+05:37:39 R  0   1953.1 mpest ../Reps/BS.1
+1355672.120 bayzid         11/27 08:44   0+05:37:39 R  0   1953.1 mpest ../Reps/BS.1
+1355672.121 bayzid         11/27 08:44   0+05:37:39 R  0   1953.1 mpest ../Reps/BS.1
+1355672.122 bayzid         11/27 08:44   0+05:37:39 R  0   1953.1 mpest ../Reps/BS.1
+1355672.123 bayzid         11/27 08:44   0+05:37:39 R  0   1953.1 mpest ../Reps/BS.1
+1355672.124 bayzid         11/27 08:44   0+05:37:38 R  0   1953.1 mpest ../Reps/BS.1
+1355672.125 bayzid         11/27 08:44   0+05:37:38 R  0   1953.1 mpest ../Reps/BS.1
+1355672.126 bayzid         11/27 08:44   0+05:37:38 R  0   1953.1 mpest ../Reps/BS.1
+1355672.127 bayzid         11/27 08:44   0+05:37:38 R  0   1953.1 mpest ../Reps/BS.1
+1355672.128 bayzid         11/27 08:44   0+05:37:38 R  0   1953.1 mpest ../Reps/BS.1
+1355672.129 bayzid         11/27 08:44   0+05:37:38 R  0   1953.1 mpest ../Reps/BS.1
+1355672.130 bayzid         11/27 08:44   0+05:37:38 R  0   1953.1 mpest ../Reps/BS.1
+1355672.131 bayzid         11/27 08:44   0+05:37:38 R  0   1953.1 mpest ../Reps/BS.1
+1355672.132 bayzid         11/27 08:44   0+05:37:38 R  0   1953.1 mpest ../Reps/BS.1
+1355672.133 bayzid         11/27 08:44   0+05:37:38 R  0   1953.1 mpest ../Reps/BS.1
+1355672.134 bayzid         11/27 08:44   0+05:37:38 R  0   1953.1 mpest ../Reps/BS.1
+1355672.135 bayzid         11/27 08:44   0+05:37:38 R  0   1953.1 mpest ../Reps/BS.1
+1355672.137 bayzid         11/27 08:44   0+05:37:38 R  0   1953.1 mpest ../Reps/BS.1
+1355672.138 bayzid         11/27 08:44   0+05:37:38 R  0   1953.1 mpest ../Reps/BS.1
+1355672.139 bayzid         11/27 08:44   0+05:37:38 R  0   1953.1 mpest ../Reps/BS.1
+1355672.140 bayzid         11/27 08:44   0+05:37:38 R  0   1953.1 mpest ../Reps/BS.1
+1355672.141 bayzid         11/27 08:44   0+05:37:37 R  0   1953.1 mpest ../Reps/BS.1
+1355672.142 bayzid         11/27 08:44   0+05:37:37 R  0   1953.1 mpest ../Reps/BS.1
+1355672.143 bayzid         11/27 08:44   0+05:37:37 R  0   1953.1 mpest ../Reps/BS.1
+1355672.144 bayzid         11/27 08:44   0+05:37:37 R  0   1953.1 mpest ../Reps/BS.1
+1355672.145 bayzid         11/27 08:44   0+05:37:37 R  0   1953.1 mpest ../Reps/BS.1
+1355672.146 bayzid         11/27 08:44   0+05:37:37 R  0   1953.1 mpest ../Reps/BS.1
+1355672.147 bayzid         11/27 08:44   0+05:37:36 R  0   1953.1 mpest ../Reps/BS.1
+1355672.148 bayzid         11/27 08:44   0+05:37:36 R  0   1953.1 mpest ../Reps/BS.1
+1355672.149 bayzid         11/27 08:44   0+05:37:35 R  0   1953.1 mpest ../Reps/BS.1
+1355672.150 bayzid         11/27 08:44   0+05:37:35 R  0   1953.1 mpest ../Reps/BS.1
+1355672.151 bayzid         11/27 08:44   0+05:37:35 R  0   1953.1 mpest ../Reps/BS.1
+1355672.152 bayzid         11/27 08:44   0+05:37:34 R  0   1953.1 mpest ../Reps/BS.1
+1355672.153 bayzid         11/27 08:44   0+05:32:27 R  0   1953.1 mpest ../Reps/BS.1
+1355672.154 bayzid         11/27 08:44   0+05:37:33 R  0   1953.1 mpest ../Reps/BS.1
+1355672.155 bayzid         11/27 08:44   0+05:37:33 R  0   1953.1 mpest ../Reps/BS.1
+1355672.156 bayzid         11/27 08:44   0+05:37:33 R  0   1953.1 mpest ../Reps/BS.1
+1355672.157 bayzid         11/27 08:44   0+05:37:33 R  0   1953.1 mpest ../Reps/BS.1
+1355672.158 bayzid         11/27 08:44   0+05:37:33 R  0   1953.1 mpest ../Reps/BS.1
+1355672.159 bayzid         11/27 08:44   0+05:37:33 R  0   1953.1 mpest ../Reps/BS.1
+1355672.160 bayzid         11/27 08:44   0+05:37:33 R  0   1953.1 mpest ../Reps/BS.1
+1355672.161 bayzid         11/27 08:44   0+05:37:33 R  0   1953.1 mpest ../Reps/BS.1
+1355672.162 bayzid         11/27 08:44   0+05:37:33 R  0   1953.1 mpest ../Reps/BS.1
+1355672.163 bayzid         11/27 08:44   0+05:37:33 R  0   1953.1 mpest ../Reps/BS.1
+1355672.164 bayzid         11/27 08:44   0+05:37:33 R  0   1953.1 mpest ../Reps/BS.1
+1355672.165 bayzid         11/27 08:44   0+05:37:33 R  0   1953.1 mpest ../Reps/BS.1
+1355672.166 bayzid         11/27 08:44   0+05:37:33 R  0   1953.1 mpest ../Reps/BS.1
+1355672.167 bayzid         11/27 08:44   0+05:37:33 R  0   1953.1 mpest ../Reps/BS.1
+1355672.168 bayzid         11/27 08:44   0+05:37:33 R  0   1953.1 mpest ../Reps/BS.1
+1355672.169 bayzid         11/27 08:44   0+05:37:33 R  0   1953.1 mpest ../Reps/BS.1
+1355672.170 bayzid         11/27 08:44   0+05:37:33 R  0   1953.1 mpest ../Reps/BS.1
+1355672.171 bayzid         11/27 08:44   0+05:37:33 R  0   1953.1 mpest ../Reps/BS.1
+1355672.172 bayzid         11/27 08:44   0+05:37:32 R  0   1953.1 mpest ../Reps/BS.1
+1355672.173 bayzid         11/27 08:44   0+05:37:32 R  0   1953.1 mpest ../Reps/BS.1
+1355672.174 bayzid         11/27 08:44   0+05:37:32 R  0   1953.1 mpest ../Reps/BS.1
+1355672.175 bayzid         11/27 08:44   0+05:37:32 R  0   1953.1 mpest ../Reps/BS.1
+1355672.176 bayzid         11/27 08:44   0+05:37:32 R  0   1953.1 mpest ../Reps/BS.1
+1355672.177 bayzid         11/27 08:44   0+05:37:31 R  0   1953.1 mpest ../Reps/BS.1
+1355672.178 bayzid         11/27 08:44   0+05:37:31 R  0   1953.1 mpest ../Reps/BS.1
+1355672.179 bayzid         11/27 08:44   0+05:37:30 R  0   1953.1 mpest ../Reps/BS.1
+1355672.180 bayzid         11/27 08:44   0+05:37:30 R  0   1953.1 mpest ../Reps/BS.1
+1355672.181 bayzid         11/27 08:44   0+05:37:30 R  0   1953.1 mpest ../Reps/BS.1
+1355672.182 bayzid         11/27 08:44   0+05:37:30 R  0   1953.1 mpest ../Reps/BS.1
+1355672.183 bayzid         11/27 08:44   0+05:37:30 R  0   1953.1 mpest ../Reps/BS.1
+1355672.184 bayzid         11/27 08:44   0+05:37:30 R  0   1953.1 mpest ../Reps/BS.1
+1355672.185 bayzid         11/27 08:44   0+05:37:30 R  0   1953.1 mpest ../Reps/BS.1
+1355672.186 bayzid         11/27 08:44   0+05:37:29 R  0   1953.1 mpest ../Reps/BS.1
+1355672.187 bayzid         11/27 08:44   0+05:37:29 R  0   1953.1 mpest ../Reps/BS.1
+1355672.188 bayzid         11/27 08:44   0+05:37:29 R  0   1953.1 mpest ../Reps/BS.1
+1355672.189 bayzid         11/27 08:44   0+05:37:29 R  0   1953.1 mpest ../Reps/BS.1
+1355672.190 bayzid         11/27 08:44   0+05:37:29 R  0   1953.1 mpest ../Reps/BS.1
+1355672.191 bayzid         11/27 08:44   0+05:37:29 R  0   1953.1 mpest ../Reps/BS.1
+1355672.192 bayzid         11/27 08:44   0+05:37:28 R  0   1953.1 mpest ../Reps/BS.1
+1355672.193 bayzid         11/27 08:44   0+05:37:28 R  0   1953.1 mpest ../Reps/BS.1
+1355672.194 bayzid         11/27 08:44   0+05:37:28 R  0   1953.1 mpest ../Reps/BS.1
+1355672.195 bayzid         11/27 08:44   0+05:37:28 R  0   1953.1 mpest ../Reps/BS.1
+1355672.196 bayzid         11/27 08:44   0+05:37:27 R  0   1953.1 mpest ../Reps/BS.1
+1355672.197 bayzid         11/27 08:44   0+05:37:27 R  0   1953.1 mpest ../Reps/BS.1
+1355672.198 bayzid         11/27 08:44   0+05:37:27 R  0   1953.1 mpest ../Reps/BS.1
+1355672.199 bayzid         11/27 08:44   0+05:37:27 R  0   1953.1 mpest ../Reps/BS.2
+1355672.200 bayzid         11/27 08:44   0+05:37:27 R  0   1953.1 mpest ../Reps/Best
+1355673.0   bayzid         11/27 08:44   0+05:37:25 R  0   1953.1 mpest ../Reps/BS.1
+1355673.1   bayzid         11/27 08:44   0+05:37:25 R  0   1953.1 mpest ../Reps/BS.2
+1355673.2   bayzid         11/27 08:44   0+05:37:25 R  0   1953.1 mpest ../Reps/BS.3
+1355673.3   bayzid         11/27 08:44   0+05:37:24 R  0   1953.1 mpest ../Reps/BS.4
+1355673.4   bayzid         11/27 08:44   0+05:37:24 R  0   1953.1 mpest ../Reps/BS.5
+1355673.5   bayzid         11/27 08:44   0+05:37:24 R  0   1953.1 mpest ../Reps/BS.6
+1355673.6   bayzid         11/27 08:44   0+05:37:23 R  0   1953.1 mpest ../Reps/BS.7
+1355673.7   bayzid         11/27 08:44   0+05:37:23 R  0   1953.1 mpest ../Reps/BS.8
+1355673.8   bayzid         11/27 08:44   0+05:37:23 R  0   1953.1 mpest ../Reps/BS.9
+1355673.9   bayzid         11/27 08:44   0+05:37:23 R  0   1953.1 mpest ../Reps/BS.1
+1355673.10  bayzid         11/27 08:44   0+05:37:22 R  0   1953.1 mpest ../Reps/BS.1
+1355673.11  bayzid         11/27 08:44   0+05:37:22 R  0   1953.1 mpest ../Reps/BS.1
+1355673.12  bayzid         11/27 08:44   0+05:37:22 R  0   1953.1 mpest ../Reps/BS.1
+1355673.13  bayzid         11/27 08:44   0+05:37:22 R  0   1953.1 mpest ../Reps/BS.1
+1355673.14  bayzid         11/27 08:44   0+05:37:22 R  0   1953.1 mpest ../Reps/BS.1
+1355673.15  bayzid         11/27 08:44   0+05:37:22 R  0   1953.1 mpest ../Reps/BS.1
+1355673.16  bayzid         11/27 08:44   0+05:37:22 R  0   1953.1 mpest ../Reps/BS.1
+1355673.17  bayzid         11/27 08:44   0+05:37:22 R  0   1953.1 mpest ../Reps/BS.1
+1355673.18  bayzid         11/27 08:44   0+05:37:21 R  0   1953.1 mpest ../Reps/BS.1
+1355673.19  bayzid         11/27 08:44   0+05:37:21 R  0   1953.1 mpest ../Reps/BS.2
+1355673.20  bayzid         11/27 08:44   0+05:37:21 R  0   1953.1 mpest ../Reps/BS.2
+1355673.21  bayzid         11/27 08:44   0+05:37:21 R  0   1953.1 mpest ../Reps/BS.2
+1355673.22  bayzid         11/27 08:44   0+05:37:20 R  0   1953.1 mpest ../Reps/BS.2
+1355673.23  bayzid         11/27 08:44   0+05:37:20 R  0   1953.1 mpest ../Reps/BS.2
+1355673.24  bayzid         11/27 08:44   0+05:37:20 R  0   1953.1 mpest ../Reps/BS.2
+1355673.25  bayzid         11/27 08:44   0+05:37:20 R  0   1953.1 mpest ../Reps/BS.2
+1355673.26  bayzid         11/27 08:44   0+05:37:20 R  0   1953.1 mpest ../Reps/BS.2
+1355673.27  bayzid         11/27 08:44   0+05:37:20 R  0   1953.1 mpest ../Reps/BS.2
+1355673.28  bayzid         11/27 08:44   0+05:37:19 R  0   1953.1 mpest ../Reps/BS.2
+1355673.29  bayzid         11/27 08:44   0+05:37:19 R  0   1953.1 mpest ../Reps/BS.3
+1355673.30  bayzid         11/27 08:44   0+05:37:19 R  0   1953.1 mpest ../Reps/BS.3
+1355673.31  bayzid         11/27 08:44   0+05:37:19 R  0   1953.1 mpest ../Reps/BS.3
+1355673.32  bayzid         11/27 08:44   0+05:37:19 R  0   1953.1 mpest ../Reps/BS.3
+1355673.33  bayzid         11/27 08:44   0+05:37:18 R  0   1953.1 mpest ../Reps/BS.3
+1355673.34  bayzid         11/27 08:44   0+05:37:18 R  0   1953.1 mpest ../Reps/BS.3
+1355673.35  bayzid         11/27 08:44   0+05:37:18 R  0   1953.1 mpest ../Reps/BS.3
+1355673.36  bayzid         11/27 08:44   0+05:37:17 R  0   1953.1 mpest ../Reps/BS.3
+1355673.37  bayzid         11/27 08:44   0+05:37:17 R  0   1953.1 mpest ../Reps/BS.3
+1355673.38  bayzid         11/27 08:44   0+05:37:17 R  0   1953.1 mpest ../Reps/BS.3
+1355673.39  bayzid         11/27 08:44   0+05:37:17 R  0   1953.1 mpest ../Reps/BS.4
+1355673.40  bayzid         11/27 08:44   0+05:37:16 R  0   1953.1 mpest ../Reps/BS.4
+1355673.41  bayzid         11/27 08:44   0+05:37:15 R  0   1953.1 mpest ../Reps/BS.4
+1355673.42  bayzid         11/27 08:44   0+05:37:15 R  0   1953.1 mpest ../Reps/BS.4
+1355673.43  bayzid         11/27 08:44   0+05:37:15 R  0   1953.1 mpest ../Reps/BS.4
+1355673.44  bayzid         11/27 08:44   0+05:37:14 R  0   1953.1 mpest ../Reps/BS.4
+1355673.45  bayzid         11/27 08:44   0+05:37:14 R  0   1953.1 mpest ../Reps/BS.4
+1355673.46  bayzid         11/27 08:44   0+05:37:13 R  0   1953.1 mpest ../Reps/BS.4
+1355673.47  bayzid         11/27 08:44   0+05:37:13 R  0   1953.1 mpest ../Reps/BS.4
+1355673.48  bayzid         11/27 08:44   0+05:37:12 R  0   1953.1 mpest ../Reps/BS.4
+1355673.49  bayzid         11/27 08:44   0+05:37:12 R  0   1953.1 mpest ../Reps/BS.5
+1355673.50  bayzid         11/27 08:44   0+05:37:11 R  0   1953.1 mpest ../Reps/BS.5
+1355673.51  bayzid         11/27 08:44   0+05:37:11 R  0   1953.1 mpest ../Reps/BS.5
+1355673.52  bayzid         11/27 08:44   0+05:37:10 R  0   1953.1 mpest ../Reps/BS.5
+1355673.53  bayzid         11/27 08:44   0+05:37:10 R  0   1953.1 mpest ../Reps/BS.5
+1355673.54  bayzid         11/27 08:44   0+05:37:10 R  0   1953.1 mpest ../Reps/BS.5
+1355673.55  bayzid         11/27 08:44   0+05:37:09 R  0   1953.1 mpest ../Reps/BS.5
+1355673.56  bayzid         11/27 08:44   0+05:37:09 R  0   1953.1 mpest ../Reps/BS.5
+1355673.57  bayzid         11/27 08:44   0+05:37:08 R  0   1953.1 mpest ../Reps/BS.5
+1355673.58  bayzid         11/27 08:44   0+05:37:08 R  0   1953.1 mpest ../Reps/BS.5
+1355673.59  bayzid         11/27 08:44   0+05:37:08 R  0   1953.1 mpest ../Reps/BS.6
+1355673.60  bayzid         11/27 08:44   0+05:37:08 R  0   1953.1 mpest ../Reps/BS.6
+1355673.61  bayzid         11/27 08:44   0+05:37:05 R  0   1953.1 mpest ../Reps/BS.6
+1355673.62  bayzid         11/27 08:44   0+05:37:01 R  0   1953.1 mpest ../Reps/BS.6
+1355673.63  bayzid         11/27 08:44   0+05:37:01 R  0   1953.1 mpest ../Reps/BS.6
+1355673.64  bayzid         11/27 08:44   0+05:36:59 R  0   1953.1 mpest ../Reps/BS.6
+1355673.65  bayzid         11/27 08:44   0+05:36:59 R  0   1953.1 mpest ../Reps/BS.6
+1355673.66  bayzid         11/27 08:44   0+05:36:58 R  0   1953.1 mpest ../Reps/BS.6
+1355673.67  bayzid         11/27 08:44   0+05:36:57 R  0   1953.1 mpest ../Reps/BS.6
+1355673.68  bayzid         11/27 08:44   0+05:36:57 R  0   1953.1 mpest ../Reps/BS.6
+1355673.69  bayzid         11/27 08:44   0+05:36:56 R  0   1953.1 mpest ../Reps/BS.7
+1355673.70  bayzid         11/27 08:44   0+05:36:56 R  0   1953.1 mpest ../Reps/BS.7
+1355673.71  bayzid         11/27 08:44   0+05:36:54 R  0   1953.1 mpest ../Reps/BS.7
+1355673.72  bayzid         11/27 08:44   0+05:36:54 R  0   1953.1 mpest ../Reps/BS.7
+1355673.73  bayzid         11/27 08:44   0+05:36:53 R  0   1953.1 mpest ../Reps/BS.7
+1355673.74  bayzid         11/27 08:44   0+05:36:53 R  0   1953.1 mpest ../Reps/BS.7
+1355673.75  bayzid         11/27 08:44   0+05:36:53 R  0   1953.1 mpest ../Reps/BS.7
+1355673.76  bayzid         11/27 08:44   0+05:36:53 R  0   1953.1 mpest ../Reps/BS.7
+1355673.77  bayzid         11/27 08:44   0+05:36:53 R  0   1953.1 mpest ../Reps/BS.7
+1355673.78  bayzid         11/27 08:44   0+05:36:51 R  0   1953.1 mpest ../Reps/BS.7
+1355673.79  bayzid         11/27 08:44   0+05:36:15 R  0   1953.1 mpest ../Reps/BS.8
+1355673.80  bayzid         11/27 08:44   0+05:36:49 R  0   1953.1 mpest ../Reps/BS.8
+1355673.81  bayzid         11/27 08:44   0+05:36:49 R  0   1953.1 mpest ../Reps/BS.8
+1355673.82  bayzid         11/27 08:44   0+05:36:48 R  0   1953.1 mpest ../Reps/BS.8
+1355673.83  bayzid         11/27 08:44   0+05:36:47 R  0   1953.1 mpest ../Reps/BS.8
+1355673.84  bayzid         11/27 08:44   0+05:36:47 R  0   1953.1 mpest ../Reps/BS.8
+1355673.85  bayzid         11/27 08:44   0+05:36:43 R  0   1953.1 mpest ../Reps/BS.8
+1355673.86  bayzid         11/27 08:44   0+05:36:43 R  0   1953.1 mpest ../Reps/BS.8
+1355673.87  bayzid         11/27 08:44   0+05:36:42 R  0   1953.1 mpest ../Reps/BS.8
+1355673.88  bayzid         11/27 08:44   0+05:36:05 R  0   1953.1 mpest ../Reps/BS.8
+1355673.89  bayzid         11/27 08:44   0+05:36:41 R  0   1953.1 mpest ../Reps/BS.9
+1355673.90  bayzid         11/27 08:44   0+05:36:41 R  0   1953.1 mpest ../Reps/BS.9
+1355673.91  bayzid         11/27 08:44   0+05:36:40 R  0   1953.1 mpest ../Reps/BS.9
+1355673.92  bayzid         11/27 08:44   0+05:36:40 R  0   1953.1 mpest ../Reps/BS.9
+1355673.93  bayzid         11/27 08:44   0+05:36:40 R  0   1953.1 mpest ../Reps/BS.9
+1355673.94  bayzid         11/27 08:44   0+05:36:39 R  0   1953.1 mpest ../Reps/BS.9
+1355673.95  bayzid         11/27 08:44   0+05:36:39 R  0   1953.1 mpest ../Reps/BS.9
+1355673.96  bayzid         11/27 08:44   0+05:36:02 R  0   1953.1 mpest ../Reps/BS.9
+1355673.97  bayzid         11/27 08:44   0+05:36:38 R  0   1953.1 mpest ../Reps/BS.9
+1355673.98  bayzid         11/27 08:44   0+05:36:37 R  0   1953.1 mpest ../Reps/BS.9
+1355673.99  bayzid         11/27 08:44   0+05:36:37 R  0   1953.1 mpest ../Reps/BS.1
+1355673.100 bayzid         11/27 08:44   0+05:36:36 R  0   1953.1 mpest ../Reps/BS.1
+1355673.101 bayzid         11/27 08:44   0+05:35:57 R  0   1953.1 mpest ../Reps/BS.1
+1355673.102 bayzid         11/27 08:44   0+05:36:35 R  0   1953.1 mpest ../Reps/BS.1
+1355673.103 bayzid         11/27 08:44   0+05:36:35 R  0   1953.1 mpest ../Reps/BS.1
+1355673.104 bayzid         11/27 08:44   0+05:36:35 R  0   1953.1 mpest ../Reps/BS.1
+1355673.105 bayzid         11/27 08:44   0+05:36:00 R  0   1953.1 mpest ../Reps/BS.1
+1355673.106 bayzid         11/27 08:44   0+05:36:34 R  0   1953.1 mpest ../Reps/BS.1
+1355673.107 bayzid         11/27 08:44   0+05:36:34 R  0   1953.1 mpest ../Reps/BS.1
+1355673.108 bayzid         11/27 08:44   0+05:35:56 R  0   1953.1 mpest ../Reps/BS.1
+1355673.109 bayzid         11/27 08:44   0+05:35:55 R  0   1953.1 mpest ../Reps/BS.1
+1355673.110 bayzid         11/27 08:44   0+05:35:55 R  0   1953.1 mpest ../Reps/BS.1
+1355673.111 bayzid         11/27 08:44   0+05:36:34 R  0   1953.1 mpest ../Reps/BS.1
+1355673.112 bayzid         11/27 08:44   0+05:35:53 R  0   1953.1 mpest ../Reps/BS.1
+1355673.113 bayzid         11/27 08:44   0+05:36:33 R  0   1953.1 mpest ../Reps/BS.1
+1355673.114 bayzid         11/27 08:44   0+05:36:33 R  0   1953.1 mpest ../Reps/BS.1
+1355673.115 bayzid         11/27 08:44   0+05:36:33 R  0   1953.1 mpest ../Reps/BS.1
+1355673.116 bayzid         11/27 08:44   0+05:36:32 R  0   1953.1 mpest ../Reps/BS.1
+1355673.117 bayzid         11/27 08:44   0+05:35:53 R  0   1953.1 mpest ../Reps/BS.1
+1355673.118 bayzid         11/27 08:44   0+05:36:32 R  0   1953.1 mpest ../Reps/BS.1
+1355673.119 bayzid         11/27 08:44   0+05:36:32 R  0   1953.1 mpest ../Reps/BS.1
+1355673.120 bayzid         11/27 08:44   0+05:36:32 R  0   1953.1 mpest ../Reps/BS.1
+1355673.121 bayzid         11/27 08:44   0+05:36:32 R  0   1953.1 mpest ../Reps/BS.1
+1355673.122 bayzid         11/27 08:44   0+05:36:31 R  0   1953.1 mpest ../Reps/BS.1
+1355673.123 bayzid         11/27 08:44   0+05:35:52 R  0   1953.1 mpest ../Reps/BS.1
+1355673.124 bayzid         11/27 08:44   0+05:35:55 R  0   1953.1 mpest ../Reps/BS.1
+1355673.125 bayzid         11/27 08:44   0+05:36:31 R  0   1953.1 mpest ../Reps/BS.1
+1355673.126 bayzid         11/27 08:44   0+05:35:51 R  0   1953.1 mpest ../Reps/BS.1
+1355673.127 bayzid         11/27 08:44   0+05:35:53 R  0   1953.1 mpest ../Reps/BS.1
+1355673.128 bayzid         11/27 08:44   0+05:36:30 R  0   1953.1 mpest ../Reps/BS.1
+1355673.129 bayzid         11/27 08:44   0+05:36:30 R  0   1953.1 mpest ../Reps/BS.1
+1355673.130 bayzid         11/27 08:44   0+05:36:30 R  0   1953.1 mpest ../Reps/BS.1
+1355673.131 bayzid         11/27 08:44   0+05:36:29 R  0   1953.1 mpest ../Reps/BS.1
+1355673.132 bayzid         11/27 08:44   0+05:36:29 R  0   1953.1 mpest ../Reps/BS.1
+1355673.133 bayzid         11/27 08:44   0+05:36:29 R  0   1953.1 mpest ../Reps/BS.1
+1355673.134 bayzid         11/27 08:44   0+05:35:50 R  0   1953.1 mpest ../Reps/BS.1
+1355673.135 bayzid         11/27 08:44   0+05:36:28 R  0   1953.1 mpest ../Reps/BS.1
+1355673.136 bayzid         11/27 08:44   0+05:36:28 R  0   1953.1 mpest ../Reps/BS.1
+1355673.137 bayzid         11/27 08:44   0+05:36:28 R  0   1953.1 mpest ../Reps/BS.1
+1355673.138 bayzid         11/27 08:44   0+05:35:50 R  0   1953.1 mpest ../Reps/BS.1
+1355673.139 bayzid         11/27 08:44   0+05:35:52 R  0   1953.1 mpest ../Reps/BS.1
+1355673.140 bayzid         11/27 08:44   0+05:35:51 R  0   1953.1 mpest ../Reps/BS.1
+1355673.141 bayzid         11/27 08:44   0+05:36:28 R  0   1953.1 mpest ../Reps/BS.1
+1355673.142 bayzid         11/27 08:44   0+05:36:27 R  0   1953.1 mpest ../Reps/BS.1
+1355673.143 bayzid         11/27 08:44   0+05:36:27 R  0   1953.1 mpest ../Reps/BS.1
+1355673.144 bayzid         11/27 08:44   0+05:36:27 R  0   1953.1 mpest ../Reps/BS.1
+1355673.145 bayzid         11/27 08:44   0+05:35:51 R  0   1953.1 mpest ../Reps/BS.1
+1355673.146 bayzid         11/27 08:44   0+05:36:27 R  0   1953.1 mpest ../Reps/BS.1
+1355673.147 bayzid         11/27 08:44   0+05:35:51 R  0   1953.1 mpest ../Reps/BS.1
+1355673.148 bayzid         11/27 08:44   0+05:36:26 R  0   1953.1 mpest ../Reps/BS.1
+1355673.149 bayzid         11/27 08:44   0+05:36:26 R  0   1953.1 mpest ../Reps/BS.1
+1355673.150 bayzid         11/27 08:44   0+05:36:26 R  0   1953.1 mpest ../Reps/BS.1
+1355673.151 bayzid         11/27 08:44   0+05:36:26 R  0   1953.1 mpest ../Reps/BS.1
+1355673.152 bayzid         11/27 08:44   0+05:36:25 R  0   1953.1 mpest ../Reps/BS.1
+1355673.153 bayzid         11/27 08:44   0+05:35:48 R  0   1953.1 mpest ../Reps/BS.1
+1355673.154 bayzid         11/27 08:44   0+05:36:25 R  0   1953.1 mpest ../Reps/BS.1
+1355673.155 bayzid         11/27 08:44   0+05:36:25 R  0   1953.1 mpest ../Reps/BS.1
+1355673.156 bayzid         11/27 08:44   0+05:36:25 R  0   1953.1 mpest ../Reps/BS.1
+1355673.157 bayzid         11/27 08:44   0+05:35:47 R  0   1953.1 mpest ../Reps/BS.1
+1355673.158 bayzid         11/27 08:44   0+05:35:46 R  0   1953.1 mpest ../Reps/BS.1
+1355673.159 bayzid         11/27 08:44   0+05:36:24 R  0   1953.1 mpest ../Reps/BS.1
+1355673.160 bayzid         11/27 08:44   0+05:36:24 R  0   1953.1 mpest ../Reps/BS.1
+1355673.161 bayzid         11/27 08:44   0+05:36:24 R  0   1953.1 mpest ../Reps/BS.1
+1355673.162 bayzid         11/27 08:44   0+05:36:24 R  0   1953.1 mpest ../Reps/BS.1
+1355673.163 bayzid         11/27 08:44   0+05:36:24 R  0   1953.1 mpest ../Reps/BS.1
+1355673.164 bayzid         11/27 08:44   0+05:36:23 R  0   1953.1 mpest ../Reps/BS.1
+1355673.165 bayzid         11/27 08:44   0+05:36:23 R  0   1953.1 mpest ../Reps/BS.1
+1355673.166 bayzid         11/27 08:44   0+05:36:23 R  0   1953.1 mpest ../Reps/BS.1
+1355673.167 bayzid         11/27 08:44   0+05:36:23 R  0   1953.1 mpest ../Reps/BS.1
+1355673.168 bayzid         11/27 08:44   0+05:36:23 R  0   1953.1 mpest ../Reps/BS.1
+1355673.169 bayzid         11/27 08:44   0+05:36:23 R  0   1953.1 mpest ../Reps/BS.1
+1355673.170 bayzid         11/27 08:44   0+05:35:47 R  0   1953.1 mpest ../Reps/BS.1
+1355673.171 bayzid         11/27 08:44   0+05:36:22 R  0   1953.1 mpest ../Reps/BS.1
+1355673.172 bayzid         11/27 08:44   0+05:35:45 R  0   1953.1 mpest ../Reps/BS.1
+1355673.173 bayzid         11/27 08:44   0+05:36:22 R  0   1953.1 mpest ../Reps/BS.1
+1355673.174 bayzid         11/27 08:44   0+05:35:42 R  0   1953.1 mpest ../Reps/BS.1
+1355673.175 bayzid         11/27 08:44   0+05:36:22 R  0   1953.1 mpest ../Reps/BS.1
+1355673.176 bayzid         11/27 08:44   0+05:36:21 R  0   1953.1 mpest ../Reps/BS.1
+1355673.177 bayzid         11/27 08:44   0+05:36:21 R  0   1953.1 mpest ../Reps/BS.1
+1355673.178 bayzid         11/27 08:44   0+05:36:21 R  0   1953.1 mpest ../Reps/BS.1
+1355673.179 bayzid         11/27 08:44   0+05:35:41 R  0   1953.1 mpest ../Reps/BS.1
+1355673.180 bayzid         11/27 08:44   0+05:36:21 R  0   1953.1 mpest ../Reps/BS.1
+1355673.181 bayzid         11/27 08:44   0+05:36:21 R  0   1953.1 mpest ../Reps/BS.1
+1355673.182 bayzid         11/27 08:44   0+05:35:46 R  0   1953.1 mpest ../Reps/BS.1
+1355673.183 bayzid         11/27 08:44   0+05:36:22 R  0   1953.1 mpest ../Reps/BS.1
+1355673.184 bayzid         11/27 08:44   0+05:36:22 R  0   1953.1 mpest ../Reps/BS.1
+1355673.185 bayzid         11/27 08:44   0+05:36:22 R  0   1953.1 mpest ../Reps/BS.1
+1355673.186 bayzid         11/27 08:44   0+05:35:42 R  0   1953.1 mpest ../Reps/BS.1
+1355673.187 bayzid         11/27 08:44   0+05:36:21 R  0   1953.1 mpest ../Reps/BS.1
+1355673.188 bayzid         11/27 08:44   0+05:35:42 R  0   1953.1 mpest ../Reps/BS.1
+1355673.189 bayzid         11/27 08:44   0+05:36:21 R  0   1953.1 mpest ../Reps/BS.1
+1355673.190 bayzid         11/27 08:44   0+05:36:21 R  0   1953.1 mpest ../Reps/BS.1
+1355673.191 bayzid         11/27 08:44   0+05:36:21 R  0   1953.1 mpest ../Reps/BS.1
+1355673.192 bayzid         11/27 08:44   0+05:36:21 R  0   1953.1 mpest ../Reps/BS.1
+1355673.193 bayzid         11/27 08:44   0+05:35:44 R  0   1953.1 mpest ../Reps/BS.1
+1355673.194 bayzid         11/27 08:44   0+05:36:20 R  0   1953.1 mpest ../Reps/BS.1
+1355673.195 bayzid         11/27 08:44   0+05:36:20 R  0   1953.1 mpest ../Reps/BS.1
+1355673.196 bayzid         11/27 08:44   0+05:36:20 R  0   1953.1 mpest ../Reps/BS.1
+1355673.197 bayzid         11/27 08:44   0+05:36:19 R  0   1953.1 mpest ../Reps/BS.1
+1355673.198 bayzid         11/27 08:44   0+05:35:41 R  0   1953.1 mpest ../Reps/BS.1
+1355673.199 bayzid         11/27 08:44   0+05:35:43 R  0   1953.1 mpest ../Reps/BS.2
+1355673.200 bayzid         11/27 08:44   0+05:35:43 R  0   1953.1 mpest ../Reps/Best
+1355755.0   bayzid         11/27 12:29   0+01:56:09 R  0   0.3  condor_dagman     
+1355759.0   bayzid         11/27 12:31   0+01:53:36 R  0   1953.1 mpest ../Reps/BS.1
+1355759.1   bayzid         11/27 12:31   0+01:53:36 R  0   1953.1 mpest ../Reps/BS.2
+1355759.2   bayzid         11/27 12:31   0+01:53:36 R  0   1953.1 mpest ../Reps/BS.3
+1355759.3   bayzid         11/27 12:31   0+01:53:36 R  0   1953.1 mpest ../Reps/BS.4
+1355759.4   bayzid         11/27 12:31   0+01:53:36 R  0   1953.1 mpest ../Reps/BS.5
+1355759.5   bayzid         11/27 12:31   0+01:53:36 R  0   1953.1 mpest ../Reps/BS.6
+1355759.6   bayzid         11/27 12:31   0+01:53:36 R  0   1953.1 mpest ../Reps/BS.7
+1355759.7   bayzid         11/27 12:31   0+01:53:35 R  0   1953.1 mpest ../Reps/BS.8
+1355759.8   bayzid         11/27 12:31   0+01:53:35 R  0   1953.1 mpest ../Reps/BS.9
+1355759.9   bayzid         11/27 12:31   0+01:53:35 R  0   1953.1 mpest ../Reps/BS.1
+1355759.10  bayzid         11/27 12:31   0+01:53:35 R  0   1953.1 mpest ../Reps/BS.1
+1355759.11  bayzid         11/27 12:31   0+01:53:35 R  0   1953.1 mpest ../Reps/BS.1
+1355759.12  bayzid         11/27 12:31   0+01:53:35 R  0   1953.1 mpest ../Reps/BS.1
+1355759.13  bayzid         11/27 12:31   0+01:53:35 R  0   1953.1 mpest ../Reps/BS.1
+1355759.14  bayzid         11/27 12:31   0+01:53:35 R  0   1953.1 mpest ../Reps/BS.1
+1355759.15  bayzid         11/27 12:31   0+01:53:35 R  0   1953.1 mpest ../Reps/BS.1
+1355759.16  bayzid         11/27 12:31   0+01:53:35 R  0   1953.1 mpest ../Reps/BS.1
+1355759.17  bayzid         11/27 12:31   0+01:53:35 R  0   1953.1 mpest ../Reps/BS.1
+1355759.18  bayzid         11/27 12:31   0+01:53:35 R  0   1953.1 mpest ../Reps/BS.1
+1355759.19  bayzid         11/27 12:31   0+01:53:35 R  0   1953.1 mpest ../Reps/BS.2
+1355759.20  bayzid         11/27 12:31   0+01:53:35 R  0   1953.1 mpest ../Reps/BS.2
+1355759.21  bayzid         11/27 12:31   0+01:53:35 R  0   1953.1 mpest ../Reps/BS.2
+1355759.22  bayzid         11/27 12:31   0+01:53:34 R  0   1953.1 mpest ../Reps/BS.2
+1355759.23  bayzid         11/27 12:31   0+01:53:34 R  0   1953.1 mpest ../Reps/BS.2
+1355759.24  bayzid         11/27 12:31   0+01:53:34 R  0   1953.1 mpest ../Reps/BS.2
+1355759.25  bayzid         11/27 12:31   0+01:53:34 R  0   1953.1 mpest ../Reps/BS.2
+1355759.26  bayzid         11/27 12:31   0+01:53:34 R  0   1953.1 mpest ../Reps/BS.2
+1355759.27  bayzid         11/27 12:31   0+01:53:34 R  0   1953.1 mpest ../Reps/BS.2
+1355759.28  bayzid         11/27 12:31   0+01:53:34 R  0   1953.1 mpest ../Reps/BS.2
+1355759.29  bayzid         11/27 12:31   0+01:53:34 R  0   1953.1 mpest ../Reps/BS.3
+1355759.30  bayzid         11/27 12:31   0+01:53:34 R  0   1953.1 mpest ../Reps/BS.3
+1355759.31  bayzid         11/27 12:31   0+01:53:33 R  0   1953.1 mpest ../Reps/BS.3
+1355759.32  bayzid         11/27 12:31   0+01:53:33 R  0   1953.1 mpest ../Reps/BS.3
+1355759.33  bayzid         11/27 12:31   0+01:53:33 R  0   1953.1 mpest ../Reps/BS.3
+1355759.34  bayzid         11/27 12:31   0+01:53:33 R  0   1953.1 mpest ../Reps/BS.3
+1355759.35  bayzid         11/27 12:31   0+01:53:33 R  0   1953.1 mpest ../Reps/BS.3
+1355759.36  bayzid         11/27 12:31   0+01:53:33 R  0   1953.1 mpest ../Reps/BS.3
+1355759.37  bayzid         11/27 12:31   0+01:53:33 R  0   1953.1 mpest ../Reps/BS.3
+1355759.38  bayzid         11/27 12:31   0+01:53:33 R  0   1953.1 mpest ../Reps/BS.3
+1355759.39  bayzid         11/27 12:31   0+01:53:33 R  0   1953.1 mpest ../Reps/BS.4
+1355759.40  bayzid         11/27 12:31   0+01:53:33 R  0   1953.1 mpest ../Reps/BS.4
+1355759.41  bayzid         11/27 12:31   0+01:53:33 R  0   1953.1 mpest ../Reps/BS.4
+1355759.42  bayzid         11/27 12:31   0+01:53:32 R  0   1953.1 mpest ../Reps/BS.4
+1355759.43  bayzid         11/27 12:31   0+01:53:32 R  0   1953.1 mpest ../Reps/BS.4
+1355759.44  bayzid         11/27 12:31   0+01:53:32 R  0   1953.1 mpest ../Reps/BS.4
+1355759.45  bayzid         11/27 12:31   0+01:53:32 R  0   1953.1 mpest ../Reps/BS.4
+1355759.46  bayzid         11/27 12:31   0+01:53:32 R  0   1953.1 mpest ../Reps/BS.4
+1355759.47  bayzid         11/27 12:31   0+01:53:32 R  0   1953.1 mpest ../Reps/BS.4
+1355759.48  bayzid         11/27 12:31   0+01:53:32 R  0   1953.1 mpest ../Reps/BS.4
+1355759.49  bayzid         11/27 12:31   0+01:53:32 R  0   1953.1 mpest ../Reps/BS.5
+1355759.50  bayzid         11/27 12:31   0+01:53:32 R  0   1953.1 mpest ../Reps/BS.5
+1355759.51  bayzid         11/27 12:31   0+01:53:32 R  0   1953.1 mpest ../Reps/BS.5
+1355759.52  bayzid         11/27 12:31   0+01:53:32 R  0   1953.1 mpest ../Reps/BS.5
+1355759.53  bayzid         11/27 12:31   0+01:53:32 R  0   1953.1 mpest ../Reps/BS.5
+1355759.54  bayzid         11/27 12:31   0+01:53:32 R  0   1953.1 mpest ../Reps/BS.5
+1355759.55  bayzid         11/27 12:31   0+01:53:32 R  0   1953.1 mpest ../Reps/BS.5
+1355759.56  bayzid         11/27 12:31   0+01:53:32 R  0   1953.1 mpest ../Reps/BS.5
+1355759.57  bayzid         11/27 12:31   0+01:53:32 R  0   1953.1 mpest ../Reps/BS.5
+1355759.58  bayzid         11/27 12:31   0+01:53:31 R  0   1953.1 mpest ../Reps/BS.5
+1355759.59  bayzid         11/27 12:31   0+01:53:31 R  0   1953.1 mpest ../Reps/BS.6
+1355759.60  bayzid         11/27 12:31   0+01:53:31 R  0   1953.1 mpest ../Reps/BS.6
+1355759.61  bayzid         11/27 12:31   0+01:53:31 R  0   1953.1 mpest ../Reps/BS.6
+1355759.62  bayzid         11/27 12:31   0+01:53:31 R  0   1953.1 mpest ../Reps/BS.6
+1355759.63  bayzid         11/27 12:31   0+01:53:31 R  0   1953.1 mpest ../Reps/BS.6
+1355759.64  bayzid         11/27 12:31   0+01:53:31 R  0   1953.1 mpest ../Reps/BS.6
+1355759.65  bayzid         11/27 12:31   0+01:53:30 R  0   1953.1 mpest ../Reps/BS.6
+1355759.66  bayzid         11/27 12:31   0+01:53:30 R  0   1953.1 mpest ../Reps/BS.6
+1355759.67  bayzid         11/27 12:31   0+01:53:30 R  0   1953.1 mpest ../Reps/BS.6
+1355759.68  bayzid         11/27 12:31   0+01:53:30 R  0   1953.1 mpest ../Reps/BS.6
+1355759.69  bayzid         11/27 12:31   0+01:53:30 R  0   1953.1 mpest ../Reps/BS.7
+1355759.70  bayzid         11/27 12:31   0+01:53:30 R  0   1953.1 mpest ../Reps/BS.7
+1355759.71  bayzid         11/27 12:31   0+01:53:30 R  0   1953.1 mpest ../Reps/BS.7
+1355759.72  bayzid         11/27 12:31   0+01:53:29 R  0   1953.1 mpest ../Reps/BS.7
+1355759.73  bayzid         11/27 12:31   0+01:53:29 R  0   1953.1 mpest ../Reps/BS.7
+1355759.74  bayzid         11/27 12:31   0+01:53:29 R  0   1953.1 mpest ../Reps/BS.7
+1355759.75  bayzid         11/27 12:31   0+01:53:29 R  0   1953.1 mpest ../Reps/BS.7
+1355759.76  bayzid         11/27 12:31   0+01:53:29 R  0   1953.1 mpest ../Reps/BS.7
+1355759.77  bayzid         11/27 12:31   0+01:53:29 R  0   1953.1 mpest ../Reps/BS.7
+1355759.78  bayzid         11/27 12:31   0+01:53:29 R  0   1953.1 mpest ../Reps/BS.7
+1355759.79  bayzid         11/27 12:31   0+01:53:29 R  0   1953.1 mpest ../Reps/BS.8
+1355759.80  bayzid         11/27 12:31   0+01:53:29 R  0   1953.1 mpest ../Reps/BS.8
+1355759.81  bayzid         11/27 12:31   0+01:53:29 R  0   1953.1 mpest ../Reps/BS.8
+1355759.82  bayzid         11/27 12:31   0+01:53:29 R  0   1953.1 mpest ../Reps/BS.8
+1355759.83  bayzid         11/27 12:31   0+01:53:28 R  0   1953.1 mpest ../Reps/BS.8
+1355759.84  bayzid         11/27 12:31   0+01:53:28 R  0   1953.1 mpest ../Reps/BS.8
+1355759.85  bayzid         11/27 12:31   0+01:53:28 R  0   1953.1 mpest ../Reps/BS.8
+1355759.86  bayzid         11/27 12:31   0+01:53:28 R  0   1953.1 mpest ../Reps/BS.8
+1355759.87  bayzid         11/27 12:31   0+01:53:28 R  0   1953.1 mpest ../Reps/BS.8
+1355759.88  bayzid         11/27 12:31   0+01:53:28 R  0   1953.1 mpest ../Reps/BS.8
+1355759.89  bayzid         11/27 12:31   0+01:53:28 R  0   1953.1 mpest ../Reps/BS.9
+1355759.90  bayzid         11/27 12:31   0+01:53:28 R  0   1953.1 mpest ../Reps/BS.9
+1355759.91  bayzid         11/27 12:31   0+01:53:27 R  0   1953.1 mpest ../Reps/BS.9
+1355759.92  bayzid         11/27 12:31   0+01:53:27 R  0   1953.1 mpest ../Reps/BS.9
+1355759.93  bayzid         11/27 12:31   0+01:53:27 R  0   1953.1 mpest ../Reps/BS.9
+1355759.94  bayzid         11/27 12:31   0+01:53:27 R  0   1953.1 mpest ../Reps/BS.9
+1355759.95  bayzid         11/27 12:31   0+01:53:27 R  0   1953.1 mpest ../Reps/BS.9
+1355759.96  bayzid         11/27 12:31   0+01:53:27 R  0   1953.1 mpest ../Reps/BS.9
+1355759.97  bayzid         11/27 12:31   0+01:53:27 R  0   1953.1 mpest ../Reps/BS.9
+1355759.98  bayzid         11/27 12:31   0+01:53:27 R  0   1953.1 mpest ../Reps/BS.9
+1355759.99  bayzid         11/27 12:31   0+01:53:27 R  0   1953.1 mpest ../Reps/BS.1
+1355759.100 bayzid         11/27 12:31   0+01:53:27 R  0   1953.1 mpest ../Reps/BS.1
+1355759.101 bayzid         11/27 12:31   0+01:53:26 R  0   1953.1 mpest ../Reps/BS.1
+1355759.102 bayzid         11/27 12:31   0+01:53:26 R  0   1953.1 mpest ../Reps/BS.1
+1355759.103 bayzid         11/27 12:31   0+01:53:26 R  0   1953.1 mpest ../Reps/BS.1
+1355759.104 bayzid         11/27 12:31   0+01:53:26 R  0   1953.1 mpest ../Reps/BS.1
+1355759.105 bayzid         11/27 12:31   0+01:53:26 R  0   1953.1 mpest ../Reps/BS.1
+1355759.106 bayzid         11/27 12:31   0+01:53:26 R  0   1953.1 mpest ../Reps/BS.1
+1355759.107 bayzid         11/27 12:31   0+01:53:26 R  0   1953.1 mpest ../Reps/BS.1
+1355759.108 bayzid         11/27 12:31   0+01:53:26 R  0   1953.1 mpest ../Reps/BS.1
+1355759.109 bayzid         11/27 12:31   0+01:53:26 R  0   1953.1 mpest ../Reps/BS.1
+1355759.110 bayzid         11/27 12:31   0+01:53:26 R  0   1953.1 mpest ../Reps/BS.1
+1355759.111 bayzid         11/27 12:31   0+01:53:25 R  0   1953.1 mpest ../Reps/BS.1
+1355759.112 bayzid         11/27 12:31   0+01:53:25 R  0   1953.1 mpest ../Reps/BS.1
+1355759.113 bayzid         11/27 12:31   0+01:53:25 R  0   1953.1 mpest ../Reps/BS.1
+1355759.114 bayzid         11/27 12:31   0+01:53:23 R  0   1953.1 mpest ../Reps/BS.1
+1355759.115 bayzid         11/27 12:31   0+01:53:23 R  0   1953.1 mpest ../Reps/BS.1
+1355759.116 bayzid         11/27 12:31   0+01:53:23 R  0   1953.1 mpest ../Reps/BS.1
+1355759.117 bayzid         11/27 12:31   0+01:53:23 R  0   1953.1 mpest ../Reps/BS.1
+1355759.118 bayzid         11/27 12:31   0+01:53:22 R  0   1953.1 mpest ../Reps/BS.1
+1355759.119 bayzid         11/27 12:31   0+01:53:20 R  0   1953.1 mpest ../Reps/BS.1
+1355759.120 bayzid         11/27 12:31   0+01:53:20 R  0   1953.1 mpest ../Reps/BS.1
+1355759.121 bayzid         11/27 12:31   0+01:53:20 R  0   1953.1 mpest ../Reps/BS.1
+1355759.122 bayzid         11/27 12:31   0+01:53:18 R  0   1953.1 mpest ../Reps/BS.1
+1355759.123 bayzid         11/27 12:31   0+00:29:49 R  0   1953.1 mpest ../Reps/BS.1
+1355759.124 bayzid         11/27 12:31   0+00:20:36 R  0   1953.1 mpest ../Reps/BS.1
+1355759.125 bayzid         11/27 12:31   0+00:07:57 R  0   0.0  mpest ../Reps/BS.1
+1355759.126 bayzid         11/27 12:31   0+00:04:05 R  0   0.0  mpest ../Reps/BS.1
+1355759.127 bayzid         11/27 12:31   0+00:02:51 R  0   0.0  mpest ../Reps/BS.1
+1355759.128 bayzid         11/27 12:31   0+00:01:36 R  0   0.0  mpest ../Reps/BS.1
+1355759.129 bayzid         11/27 12:31   0+00:00:04 R  0   0.0  mpest ../Reps/BS.1
+1355759.130 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.131 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.132 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.133 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.134 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.135 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.136 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.137 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.138 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.139 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.140 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.141 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.142 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.143 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.144 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.145 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.146 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.147 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.148 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.149 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.150 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.151 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.152 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.153 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.154 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.155 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.156 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.157 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.158 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.159 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.160 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.161 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.162 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.163 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.164 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.165 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.166 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.167 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.168 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.169 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.170 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.171 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.172 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.173 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.174 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.175 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.176 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.177 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.178 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.179 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.180 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.181 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.182 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.183 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.184 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.185 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.186 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.187 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.188 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.189 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.190 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.191 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.192 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.193 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.194 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.195 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.196 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.197 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.198 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.1
+1355759.199 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/BS.2
+1355759.200 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mpest ../Reps/Best
+1355760.0   bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.1 B
+1355760.1   bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.2 B
+1355760.2   bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.3 B
+1355760.3   bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.4 B
+1355760.4   bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.5 B
+1355760.5   bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.6 B
+1355760.6   bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.7 B
+1355760.7   bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.8 B
+1355760.8   bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.9 B
+1355760.9   bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.10 
+1355760.10  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.11 
+1355760.11  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.12 
+1355760.12  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.13 
+1355760.13  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.14 
+1355760.14  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.15 
+1355760.15  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.16 
+1355760.16  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.17 
+1355760.17  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.18 
+1355760.18  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.19 
+1355760.19  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.20 
+1355760.20  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.21 
+1355760.21  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.22 
+1355760.22  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.23 
+1355760.23  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.24 
+1355760.24  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.25 
+1355760.25  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.26 
+1355760.26  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.27 
+1355760.27  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.28 
+1355760.28  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.29 
+1355760.29  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.30 
+1355760.30  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.31 
+1355760.31  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.32 
+1355760.32  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.33 
+1355760.33  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.34 
+1355760.34  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.35 
+1355760.35  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.36 
+1355760.36  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.37 
+1355760.37  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.38 
+1355760.38  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.39 
+1355760.39  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.40 
+1355760.40  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.41 
+1355760.41  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.42 
+1355760.42  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.43 
+1355760.43  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.44 
+1355760.44  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.45 
+1355760.45  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.46 
+1355760.46  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.47 
+1355760.47  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.48 
+1355760.48  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.49 
+1355760.49  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.50 
+1355760.50  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.51 
+1355760.51  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.52 
+1355760.52  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.53 
+1355760.53  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.54 
+1355760.54  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.55 
+1355760.55  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.56 
+1355760.56  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.57 
+1355760.57  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.58 
+1355760.58  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.59 
+1355760.59  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.60 
+1355760.60  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.61 
+1355760.61  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.62 
+1355760.62  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.63 
+1355760.63  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.64 
+1355760.64  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.65 
+1355760.65  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.66 
+1355760.66  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.67 
+1355760.67  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.68 
+1355760.68  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.69 
+1355760.69  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.70 
+1355760.70  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.71 
+1355760.71  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.72 
+1355760.72  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.73 
+1355760.73  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.74 
+1355760.74  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.75 
+1355760.75  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.76 
+1355760.76  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.77 
+1355760.77  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.78 
+1355760.78  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.79 
+1355760.79  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.80 
+1355760.80  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.81 
+1355760.81  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.82 
+1355760.82  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.83 
+1355760.83  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.84 
+1355760.84  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.85 
+1355760.85  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.86 
+1355760.86  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.87 
+1355760.87  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.88 
+1355760.88  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.89 
+1355760.89  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.90 
+1355760.90  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.91 
+1355760.91  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.92 
+1355760.92  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.93 
+1355760.93  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.94 
+1355760.94  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.95 
+1355760.95  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.96 
+1355760.96  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.97 
+1355760.97  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.98 
+1355760.98  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.99 
+1355760.99  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.100
+1355760.100 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.101
+1355760.101 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.102
+1355760.102 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.103
+1355760.103 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.104
+1355760.104 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.105
+1355760.105 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.106
+1355760.106 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.107
+1355760.107 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.108
+1355760.108 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.109
+1355760.109 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.110
+1355760.110 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.111
+1355760.111 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.112
+1355760.112 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.113
+1355760.113 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.114
+1355760.114 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.115
+1355760.115 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.116
+1355760.116 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.117
+1355760.117 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.118
+1355760.118 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.119
+1355760.119 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.120
+1355760.120 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.121
+1355760.121 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.122
+1355760.122 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.123
+1355760.123 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.124
+1355760.124 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.125
+1355760.125 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.126
+1355760.126 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.127
+1355760.127 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.128
+1355760.128 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.129
+1355760.129 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.130
+1355760.130 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.131
+1355760.131 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.132
+1355760.132 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.133
+1355760.133 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.134
+1355760.134 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.135
+1355760.135 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.136
+1355760.136 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.137
+1355760.137 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.138
+1355760.138 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.139
+1355760.139 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.140
+1355760.140 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.141
+1355760.141 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.142
+1355760.142 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.143
+1355760.143 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.144
+1355760.144 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.145
+1355760.145 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.146
+1355760.146 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.147
+1355760.147 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.148
+1355760.148 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.149
+1355760.149 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.150
+1355760.150 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.151
+1355760.151 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.152
+1355760.152 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.153
+1355760.153 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.154
+1355760.154 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.155
+1355760.155 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.156
+1355760.156 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.157
+1355760.157 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.158
+1355760.158 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.159
+1355760.159 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.160
+1355760.160 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.161
+1355760.161 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.162
+1355760.162 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.163
+1355760.163 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.164
+1355760.164 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.165
+1355760.165 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.166
+1355760.166 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.167
+1355760.167 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.168
+1355760.168 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.169
+1355760.169 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.170
+1355760.170 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.171
+1355760.171 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.172
+1355760.172 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.173
+1355760.173 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.174
+1355760.174 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.175
+1355760.175 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.176
+1355760.176 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.177
+1355760.177 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.178
+1355760.178 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.179
+1355760.179 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.180
+1355760.180 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.181
+1355760.181 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.182
+1355760.182 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.183
+1355760.183 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.184
+1355760.184 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.185
+1355760.185 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.186
+1355760.186 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.187
+1355760.187 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.188
+1355760.188 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.189
+1355760.189 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.190
+1355760.190 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.191
+1355760.191 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.192
+1355760.192 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.193
+1355760.193 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.194
+1355760.194 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.195
+1355760.195 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.196
+1355760.196 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.197
+1355760.197 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.198
+1355760.198 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.199
+1355760.199 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/BS.200
+1355760.200 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  mrl ../Reps/Best.1
+1355761.0   bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.1   bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.2   bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.3   bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.4   bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.5   bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.6   bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.7   bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.8   bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.9   bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.10  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.11  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.12  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.13  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.14  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.15  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.16  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.17  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.18  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.19  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.20  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.21  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.22  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.23  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.24  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.25  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.26  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.27  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.28  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.29  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.30  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.31  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.32  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.33  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.34  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.35  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.36  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.37  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.38  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.39  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.40  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.41  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.42  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.43  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.44  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.45  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.46  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.47  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.48  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.49  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.50  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.51  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.52  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.53  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.54  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.55  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.56  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.57  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.58  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.59  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.60  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.61  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.62  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.63  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.64  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.65  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.66  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.67  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.68  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.69  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.70  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.71  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.72  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.73  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.74  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.75  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.76  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.77  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.78  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.79  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.80  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.81  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.82  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.83  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.84  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.85  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.86  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.87  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.88  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.89  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.90  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.91  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.92  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.93  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.94  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.95  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.96  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.97  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.98  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.99  bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.100 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.101 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.102 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.103 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.104 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.105 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.106 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.107 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.108 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.109 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.110 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.111 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.112 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.113 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.114 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.115 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.116 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.117 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.118 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.119 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.120 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.121 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.122 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.123 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.124 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.125 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.126 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.127 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.128 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.129 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.130 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.131 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.132 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.133 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.134 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.135 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.136 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.137 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.138 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.139 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.140 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.141 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.142 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.143 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.144 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.145 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.146 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.147 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.148 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.149 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.150 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.151 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.152 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.153 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.154 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.155 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.156 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.157 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.158 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.159 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.160 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.161 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.162 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.163 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.164 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.165 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.166 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.167 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.168 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.169 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.170 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.171 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.172 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.173 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.174 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.175 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.176 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.177 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.178 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.179 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.180 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.181 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.182 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.183 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.184 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.185 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.186 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.187 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.188 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.189 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.190 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.191 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.192 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.193 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.194 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.195 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.196 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.197 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.198 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.199 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/BS.
+1355761.200 bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy ../Reps/Bes
+1355762.0   bayzid         11/27 12:31   0+00:00:00 I  0   0.0  greedy_consensus.p
 
-206 jobs; 0 completed, 0 removed, 7 idle, 199 running, 0 held, 0 suspended
+1809 jobs; 0 completed, 0 removed, 493 idle, 1316 running, 0 held, 0 suspended
