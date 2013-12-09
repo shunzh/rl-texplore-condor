@@ -11,5 +11,5 @@ Log        = condor.log
 
 num_of_processes=50
 
-Arguments = --agent texplore --env asterix --features 2
+Arguments = --agent texplore --env asterix --features 0
 Queue $(num_of_processes)
