@@ -35,22 +35,22 @@ endfunction
 % prosumebly, [$1.0, $1.1, ..., $1.($2-1)]
 result = readResult("ast_gen_c45/gen");
 x = 0 : 10 : 990;
-errorbar(x, result(:, 1), result(:, 2));
-
-result = readResult("ast_spe/ast");
-x = 0 : 10 : 990;
-errorbar(x, result(:, 1), result(:, 2));
-
-result = readResult("ast_selfandsamerow/ast");
-x = 0 : 10 : 990;
-errorbar(x, result(:, 1), result(:, 2));
-
+errorbar(x, result(:, 1), result(:, 2), "#r");
 hold on;
+
+result = readResult("ast_spe/out");
+x = 0 : 10 : 990;
+errorbar(x, result(:, 1), result(:, 2), "#b");
+hold on;
+
+result = readResult("ast_selfandsamerow/out");
+x = 0 : 10 : 990;
+errorbar(x, result(:, 1), result(:, 2), "#m");
 
 % decorate graph
 %axis([0 1000 -600 0]);
 xlabel("Iterations");
 ylabel("Reward Per Step");
-legend("Feature Set 1", "Feature Set 2", "Feature Set 3", 'location', 'southeast');
+legend("Feature Set 1", "Feature Set 2", "Feature Set 3", 'location', 'northeast');
 
 print("ast.png", '-S700,550');
