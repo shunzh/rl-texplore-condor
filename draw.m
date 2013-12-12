@@ -38,6 +38,11 @@ x = 0 : 10 : 990;
 errorbar(x, result(:, 1), result(:, 2), "#r");
 hold on;
 
+result = readResult("ast_gen_selfsepa/out");
+x = 0 : 10 : 990;
+errorbar(x, result(:, 1), result(:, 2), "#y");
+hold on;
+
 result = readResult("ast_spe/out");
 x = 0 : 10 : 990;
 errorbar(x, result(:, 1), result(:, 2), "#b");
