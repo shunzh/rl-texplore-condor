@@ -1,0 +1,378 @@
+agent: texplore
+env: asterix
+Feature Selection: 1
+Environment is episodic.
+set statesPerDim to 0 for all dim
+feature 0 has range 30
+feature 1 has range 30
+feature 2 has range 30
+feature 3 has range 30
+feature 4 has range 30
+feature 5 has range 30
+feature 6 has range 30
+feature 7 has range 30
+reward range: 1020
+Parallel ETUCT tracking real state values
+Planner using history size: 0
+Start model learning thread
+start parallel uct planning search thread
+Created MultClass 0 with nModels: 5
+Created C4.5 decision tree 0 with == and > splits
+Created C4.5 decision tree 6 with == and > splits
+Created C4.5 decision tree 12 with == and > splits
+Created C4.5 decision tree 18 with == and > splits
+Created C4.5 decision tree 24 with == and > splits
+Created MultClass 8 with nModels: 5
+Created C4.5 decision tree 8 with == and > splits
+Created C4.5 decision tree 14 with == and > splits
+Created C4.5 decision tree 20 with == and > splits
+Created C4.5 decision tree 26 with == and > splits
+Created C4.5 decision tree 32 with == and > splits
+Created MultClass 9 with nModels: 5
+Created C4.5 decision tree 9 with == and > splits
+Created C4.5 decision tree 15 with == and > splits
+Created C4.5 decision tree 21 with == and > splits
+Created C4.5 decision tree 27 with == and > splits
+Created C4.5 decision tree 33 with == and > splits
+Created MultClass 1 with nModels: 5
+Created C4.5 decision tree 1 with == and > splits
+Created C4.5 decision tree 7 with == and > splits
+Created C4.5 decision tree 13 with == and > splits
+Created C4.5 decision tree 19 with == and > splits
+Created C4.5 decision tree 25 with == and > splits
+Created MultClass 2 with nModels: 5
+Created C4.5 decision tree 2 with == and > splits
+Created C4.5 decision tree 8 with == and > splits
+Created C4.5 decision tree 14 with == and > splits
+Created C4.5 decision tree 20 with == and > splits
+Created C4.5 decision tree 26 with == and > splits
+Created MultClass 3 with nModels: 5
+Created C4.5 decision tree 3 with == and > splits
+Created C4.5 decision tree 9 with == and > splits
+Created C4.5 decision tree 15 with == and > splits
+Created C4.5 decision tree 21 with == and > splits
+Created C4.5 decision tree 27 with == and > splits
+Created MultClass 4 with nModels: 5
+Created C4.5 decision tree 4 with == and > splits
+Created C4.5 decision tree 10 with == and > splits
+Created C4.5 decision tree 16 with == and > splits
+Created C4.5 decision tree 22 with == and > splits
+Created C4.5 decision tree 28 with == and > splits
+Created MultClass 5 with nModels: 5
+Created C4.5 decision tree 5 with == and > splits
+Created C4.5 decision tree 11 with == and > splits
+Created C4.5 decision tree 17 with == and > splits
+Created C4.5 decision tree 23 with == and > splits
+Created C4.5 decision tree 29 with == and > splits
+Created MultClass 6 with nModels: 5
+Created C4.5 decision tree 6 with == and > splits
+Created C4.5 decision tree 12 with == and > splits
+Created C4.5 decision tree 18 with == and > splits
+Created C4.5 decision tree 24 with == and > splits
+Created C4.5 decision tree 30 with == and > splits
+Created MultClass 7 with nModels: 5
+Created C4.5 decision tree 7 with == and > splits
+Created C4.5 decision tree 13 with == and > splits
+Created C4.5 decision tree 19 with == and > splits
+Created C4.5 decision tree 25 with == and > splits
+Created C4.5 decision tree 31 with == and > splits
+-994
+-995
+-995
+-951
+-994
+-994
+-985
+-983
+-995
+-994
+-994
+-980
+-979
+-992
+-985
+-974
+-969
+-984
+-984
+-984
+-952
+-951
+-984
+-909
+-970
+-974
+-973
+-932
+-961
+-969
+-983
+201
+-930
+-959
+-970
+-931
+-971
+-990
+-931
+-975
+201
+-893
+-917
+-955
+-935
+-844
+-946
+-889
+-955
+-823
+-963
+-889
+-981
+-960
+201
+201
+-844
+-944
+201
+-976
+-921
+-962
+-932
+201
+-883
+-840
+201
+-889
+201
+-810
+201
+201
+-821
+201
+201
+201
+201
+201
+-889
+201
+-959
+-931
+201
+201
+-959
+201
+201
+201
+201
+201
+201
+-826
+201
+201
+201
+-965
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+-814
+201
+201
+201
+201
+201
+201
+-952
+-980
+-900
+-974
+-962
+201
+-961
+-861
+-945
+-917
+-945
+-947
+-921
+-842
+201
+201
+-935
+-937
+-877
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+-805
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+-985
+201
+201
+201
+201
+-935
+201
+201
+-905
+201
+-852
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+-977
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+-923
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+201
+-936
+201
+201
+201
+201
+201
+201
+201
+201
