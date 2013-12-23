@@ -14,8 +14,8 @@ feature 7 has range 30
 reward range: 1020
 Parallel ETUCT tracking real state values
 Planner using history size: 0
-Start model learning thread
 start parallel uct planning search thread
+Start model learning thread
 Created MultClass 0 with nModels: 5
 Created C4.5 decision tree 0 with == and > splits
 Created C4.5 decision tree 6 with == and > splits
@@ -50,6 +50,7 @@ Created MultClass 3 with nModels: 5
 Created C4.5 decision tree 3 with == and > splits
 Created C4.5 decision tree 9 with == and > splits
 Created C4.5 decision tree 15 with == and > splits
+-995
 Created C4.5 decision tree 21 with == and > splits
 Created C4.5 decision tree 27 with == and > splits
 Created MultClass 4 with nModels: 5
@@ -76,14 +77,15 @@ Created C4.5 decision tree 13 with == and > splits
 Created C4.5 decision tree 19 with == and > splits
 Created C4.5 decision tree 25 with == and > splits
 Created C4.5 decision tree 31 with == and > splits
--981
+-992
 -995
+-996
 -994
 -992
--938
--992
--859
--875
--930
--889
--991
+-994
+-996
+-989
+-993
+-994
+-818
+201
