@@ -26,6 +26,7 @@ Created MultClass 8 with nModels: 5
 Created C4.5 decision tree 8 with == and > splits
 Created C4.5 decision tree 14 with == and > splits
 Created C4.5 decision tree 20 with == and > splits
+-997
 Created C4.5 decision tree 26 with == and > splits
 Created C4.5 decision tree 32 with == and > splits
 Created MultClass 9 with nModels: 5
@@ -42,13 +43,13 @@ Created C4.5 decision tree 19 with == and > splits
 Created C4.5 decision tree 25 with == and > splits
 Created MultClass 2 with nModels: 5
 Created C4.5 decision tree 2 with == and > splits
--994
 Created C4.5 decision tree 8 with == and > splits
 Created C4.5 decision tree 14 with == and > splits
 Created C4.5 decision tree 20 with == and > splits
 Created C4.5 decision tree 26 with == and > splits
 Created MultClass 3 with nModels: 5
 Created C4.5 decision tree 3 with == and > splits
+-995
 Created C4.5 decision tree 9 with == and > splits
 Created C4.5 decision tree 15 with == and > splits
 Created C4.5 decision tree 21 with == and > splits
@@ -70,7 +71,6 @@ Created C4.5 decision tree 6 with == and > splits
 Created C4.5 decision tree 12 with == and > splits
 Created C4.5 decision tree 18 with == and > splits
 Created C4.5 decision tree 24 with == and > splits
--994
 Created C4.5 decision tree 30 with == and > splits
 Created MultClass 7 with nModels: 5
 Created C4.5 decision tree 7 with == and > splits
@@ -78,17 +78,251 @@ Created C4.5 decision tree 13 with == and > splits
 Created C4.5 decision tree 19 with == and > splits
 Created C4.5 decision tree 25 with == and > splits
 Created C4.5 decision tree 31 with == and > splits
--982
+-992
+-994
+-992
+-995
+-994
+-979
+-995
 -993
 -996
--994
+-982
 -995
 -995
+-995
 -994
+-993
+-993
+-965
+-993
+-938
+-992
+-991
+-966
 -994
+-991
+-981
+-955
+-933
+-979
+-990
+-974
+-979
+-989
+-923
+101
+-965
+-977
+-930
+-982
+101
+101
+101
+-906
+-982
 -994
--994
--975
+101
+-984
+101
+-925
+-916
+101
+101
+101
+-944
+101
+-943
+101
+101
+101
+-981
+101
+-961
+101
+101
+-925
+-963
+-964
+-981
+-945
 101
 -982
--979
+101
+-991
+-933
+101
+101
+101
+-934
+101
+-932
+-980
+101
+101
+101
+-932
+-933
+101
+101
+101
+-950
+101
+101
+101
+101
+101
+101
+101
+101
+-966
+-932
+101
+-906
+101
+101
+101
+101
+-958
+101
+-960
+101
+101
+101
+101
+-959
+101
+101
+101
+101
+101
+101
+-953
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+-938
+-902
+-981
+101
+101
+-978
+-960
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+-953
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+-962
+-908
+101
+101
+101
+-909
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101

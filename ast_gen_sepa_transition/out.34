@@ -38,7 +38,6 @@ Created MultClass 1 with nModels: 5
 Created C4.5 decision tree 1 with == and > splits
 Created C4.5 decision tree 7 with == and > splits
 Created C4.5 decision tree 13 with == and > splits
--995
 Created C4.5 decision tree 19 with == and > splits
 Created C4.5 decision tree 25 with == and > splits
 Created MultClass 2 with nModels: 5
@@ -74,16 +73,15 @@ Created C4.5 decision tree 30 with == and > splits
 Created MultClass 7 with nModels: 5
 Created C4.5 decision tree 7 with == and > splits
 Created C4.5 decision tree 13 with == and > splits
--995
 Created C4.5 decision tree 19 with == and > splits
 Created C4.5 decision tree 25 with == and > splits
 Created C4.5 decision tree 31 with == and > splits
+-982
 -995
 -994
 -995
 -994
--991
--996
--984
+-995
+-957
+-977
 101
--938

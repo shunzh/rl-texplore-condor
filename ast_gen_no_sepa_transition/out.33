@@ -14,8 +14,8 @@ feature 7 has range 30
 reward range: 1020
 Parallel ETUCT tracking real state values
 Planner using history size: 0
-Start model learning thread
 start parallel uct planning search thread
+Start model learning thread
 Created MultClass 0 with nModels: 5
 Created C4.5 decision tree 0 with == and > splits
 Created C4.5 decision tree 6 with == and > splits
@@ -38,6 +38,7 @@ Created MultClass 1 with nModels: 5
 Created C4.5 decision tree 1 with == and > splits
 Created C4.5 decision tree 7 with == and > splits
 Created C4.5 decision tree 13 with == and > splits
+-994
 Created C4.5 decision tree 19 with == and > splits
 Created C4.5 decision tree 25 with == and > splits
 Created MultClass 2 with nModels: 5
@@ -67,6 +68,7 @@ Created C4.5 decision tree 29 with == and > splits
 Created MultClass 6 with nModels: 5
 Created C4.5 decision tree 6 with == and > splits
 Created C4.5 decision tree 12 with == and > splits
+-994
 Created C4.5 decision tree 18 with == and > splits
 Created C4.5 decision tree 24 with == and > splits
 Created C4.5 decision tree 30 with == and > splits
@@ -76,10 +78,251 @@ Created C4.5 decision tree 13 with == and > splits
 Created C4.5 decision tree 19 with == and > splits
 Created C4.5 decision tree 25 with == and > splits
 Created C4.5 decision tree 31 with == and > splits
--994
--996
--990
 -995
+-994
+-994
+-994
+-994
+-995
+-980
+-994
+-994
+-995
+-916
+-931
+-987
+-993
+-982
+-988
+-959
+-930
+-986
+-962
+-983
+-990
+-901
+-988
+-986
+-954
+-930
+-990
+-969
 101
 101
--928
+101
+101
+101
+101
+101
+101
+-983
+-961
+101
+101
+101
+101
+-983
+101
+101
+101
+101
+101
+101
+101
+-981
+101
+101
+-992
+101
+101
+-979
+101
+101
+101
+101
+101
+101
+-981
+-903
+101
+-979
+-979
+101
+101
+101
+-981
+-979
+101
+101
+-909
+101
+101
+101
+101
+101
+101
+101
+101
+101
+-937
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+-930
+101
+101
+101
+-979
+-990
+101
+101
+101
+101
+101
+101
+101
+-982
+101
+101
+-982
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+-981
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+-924
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101

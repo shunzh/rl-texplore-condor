@@ -14,8 +14,8 @@ feature 7 has range 30
 reward range: 1020
 Parallel ETUCT tracking real state values
 Planner using history size: 0
-start parallel uct planning search thread
-Start model learning thread
+Start model learning threadstart parallel uct planning search thread
+
 Created MultClass 0 with nModels: 5
 Created C4.5 decision tree 0 with == and > splits
 Created C4.5 decision tree 6 with == and > splits
@@ -30,6 +30,7 @@ Created C4.5 decision tree 26 with == and > splits
 Created C4.5 decision tree 32 with == and > splits
 Created MultClass 9 with nModels: 5
 Created C4.5 decision tree 9 with == and > splits
+-997
 Created C4.5 decision tree 15 with == and > splits
 Created C4.5 decision tree 21 with == and > splits
 Created C4.5 decision tree 27 with == and > splits
@@ -37,7 +38,6 @@ Created C4.5 decision tree 33 with == and > splits
 Created MultClass 1 with nModels: 5
 Created C4.5 decision tree 1 with == and > splits
 Created C4.5 decision tree 7 with == and > splits
--996
 Created C4.5 decision tree 13 with == and > splits
 Created C4.5 decision tree 19 with == and > splits
 Created C4.5 decision tree 25 with == and > splits
@@ -61,6 +61,7 @@ Created C4.5 decision tree 22 with == and > splits
 Created C4.5 decision tree 28 with == and > splits
 Created MultClass 5 with nModels: 5
 Created C4.5 decision tree 5 with == and > splits
+-995
 Created C4.5 decision tree 11 with == and > splits
 Created C4.5 decision tree 17 with == and > splits
 Created C4.5 decision tree 23 with == and > splits
@@ -77,17 +78,251 @@ Created C4.5 decision tree 13 with == and > splits
 Created C4.5 decision tree 19 with == and > splits
 Created C4.5 decision tree 25 with == and > splits
 Created C4.5 decision tree 31 with == and > splits
+-994
+-996
 -993
 -995
+-982
+-994
+-995
+-993
+-985
+-995
+-988
+-995
+-995
+-991
+-995
+-994
+-995
+-992
+-992
+-994
+-981
+-995
+-991
+-992
+-994
+-994
+-994
+-993
+-994
+-994
+-995
+-996
+-994
+-995
+-994
+-996
+-996
+-996
+-994
+-991
+-977
+-994
+-994
+-984
+-994
+-989
+-991
+-995
+-996
+-994
+-996
+-994
+-993
+-992
+-994
+-994
+-980
+-993
+-993
+-994
+-996
+-994
+-993
+-993
+-988
+-993
+-992
 -993
 -991
--994
--994
--994
+-993
 -991
--994
+-992
+-989
+-992
+-980
+-993
+-980
+-995
+-993
+-993
+-992
+-992
+-977
+-993
+-991
+-991
+-981
+-946
+-991
+-992
+-992
+-992
+-992
+-991
+-982
+-990
+-981
+-991
+-991
+-982
+-991
+-991
+-996
+-967
+-995
+-990
+-979
+-974
+-989
+-990
+-979
+-982
+-980
+-996
+-981
+-984
+-993
+-956
+-979
+-984
+-978
+-992
+-982
+-977
+-925
+-992
+-978
+-970
+-995
+-996
+-978
+-970
+-973
+-992
+-995
+-979
 -952
--933
+-986
+-974
+-972
+-935
+-995
+-989
+-984
+-979
+-988
+-976
+-974
+-974
+-970
+-969
+-974
+-976
+-969
+-973
+-973
+-958
+-979
+-981
+-991
+-974
+-982
+-973
+-964
+-979
+-973
+-934
+-995
+-957
+-973
+101
+-992
+-934
+-935
+-972
+-947
+-932
+-955
+-972
+101
+-981
+-981
+-982
+-981
+-981
+-980
+-967
+101
+-979
+-944
+-977
+-942
+-959
+-982
+-959
+101
+-962
+-940
+-979
+-949
+-973
+-903
+-979
+-979
+-979
+101
+-947
+-905
+-950
+-944
+-974
+-962
+-980
+-977
+-980
+-969
+101
+-970
+-970
+-911
 101
 101
+-959
+-970
+101
+101
+101
+-980
+-980
+-910
+-940
+-966
+-955
+-960
+-994
+-984
+-958
+-948
+-924
+-982
+101
+-980
+-978
+-932
+-952
+-964
+-956
 101

@@ -31,7 +31,6 @@ Created C4.5 decision tree 26 with == and > splits
 Created C4.5 decision tree 32 with == and > splits
 Created MultClass 9 with nModels: 5
 Created C4.5 decision tree 9 with == and > splits
--996
 Created C4.5 decision tree 15 with == and > splits
 Created C4.5 decision tree 21 with == and > splits
 Created C4.5 decision tree 27 with == and > splits
@@ -46,7 +45,6 @@ Created MultClass 2 with nModels: 5
 Created C4.5 decision tree 2 with == and > splits
 Created C4.5 decision tree 8 with == and > splits
 Created C4.5 decision tree 14 with == and > splits
--996
 Created C4.5 decision tree 20 with == and > splits
 Created C4.5 decision tree 26 with == and > splits
 Created MultClass 3 with nModels: 5
@@ -63,9 +61,9 @@ Created C4.5 decision tree 22 with == and > splits
 Created C4.5 decision tree 28 with == and > splits
 Created MultClass 5 with nModels: 5
 Created C4.5 decision tree 5 with == and > splits
+-995
 Created C4.5 decision tree 11 with == and > splits
 Created C4.5 decision tree 17 with == and > splits
--995
 Created C4.5 decision tree 23 with == and > splits
 Created C4.5 decision tree 29 with == and > splits
 Created MultClass 6 with nModels: 5
@@ -78,59 +76,82 @@ Created MultClass 7 with nModels: 5
 Created C4.5 decision tree 7 with == and > splits
 Created C4.5 decision tree 13 with == and > splits
 Created C4.5 decision tree 19 with == and > splits
--996
 Created C4.5 decision tree 25 with == and > splits
 Created C4.5 decision tree 31 with == and > splits
--994
+-996
+-995
+-997
 -995
 -994
+-995
+-992
 -992
 -995
--994
--991
--983
--980
--991
--994
--993
--997
--983
+-995
+-992
+-995
+-995
+-992
 -993
 -994
+-994
+-996
+-990
+-994
+-994
+-993
+-996
+-993
 -995
--975
+-994
+-989
+-993
+-994
+-994
+-993
+-996
+-993
+-995
+-996
+-992
+-994
+-996
+-994
+-994
 -996
 -995
--997
+-993
 -996
+-995
+-995
 -994
 -982
--993
--984
--992
--994
--966
+-995
 -996
+-993
+-978
+-997
+-996
+-990
+-995
 -995
 -994
--992
--992
--996
 -994
+-992
+-994
+-993
+-995
+-995
+-994
+-993
+-989
+-993
+-979
+-995
+-995
+-994
+-995
+-995
 -982
--994
--997
--993
--993
--993
--991
--997
--997
--994
--994
--997
--997
--994
--994
--980
--995
+-992
+-996

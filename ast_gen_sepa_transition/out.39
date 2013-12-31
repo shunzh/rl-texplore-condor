@@ -31,13 +31,13 @@ Created C4.5 decision tree 32 with == and > splits
 Created MultClass 9 with nModels: 5
 Created C4.5 decision tree 9 with == and > splits
 Created C4.5 decision tree 15 with == and > splits
+-997
 Created C4.5 decision tree 21 with == and > splits
 Created C4.5 decision tree 27 with == and > splits
 Created C4.5 decision tree 33 with == and > splits
 Created MultClass 1 with nModels: 5
 Created C4.5 decision tree 1 with == and > splits
 Created C4.5 decision tree 7 with == and > splits
--996
 Created C4.5 decision tree 13 with == and > splits
 Created C4.5 decision tree 19 with == and > splits
 Created C4.5 decision tree 25 with == and > splits
@@ -56,6 +56,7 @@ Created C4.5 decision tree 27 with == and > splits
 Created MultClass 4 with nModels: 5
 Created C4.5 decision tree 4 with == and > splits
 Created C4.5 decision tree 10 with == and > splits
+-996
 Created C4.5 decision tree 16 with == and > splits
 Created C4.5 decision tree 22 with == and > splits
 Created C4.5 decision tree 28 with == and > splits
@@ -63,7 +64,6 @@ Created MultClass 5 with nModels: 5
 Created C4.5 decision tree 5 with == and > splits
 Created C4.5 decision tree 11 with == and > splits
 Created C4.5 decision tree 17 with == and > splits
--997
 Created C4.5 decision tree 23 with == and > splits
 Created C4.5 decision tree 29 with == and > splits
 Created MultClass 6 with nModels: 5
@@ -78,28 +78,251 @@ Created C4.5 decision tree 13 with == and > splits
 Created C4.5 decision tree 19 with == and > splits
 Created C4.5 decision tree 25 with == and > splits
 Created C4.5 decision tree 31 with == and > splits
--993
 -995
--993
 -995
 -996
+-994
+-994
+-994
+-992
+-994
+-994
+-993
+-994
+-996
+-996
+-991
+-983
+-994
+-994
+-994
+-994
+-991
 -995
+-990
+-993
 -995
+-994
 -995
+-992
+-992
+-994
+-994
+-994
+-994
+-994
+-993
+-994
+-994
+-994
+-990
+-994
+-993
+-994
+-994
+-994
+-992
+-994
+-994
+-993
 -994
 -991
 -994
+-993
+-993
+-993
+-994
+-994
+-981
+-991
+-991
+-992
+-992
+-993
+-979
+-965
+-980
+-992
+-991
+-991
+-980
+-990
+-981
+-991
+-990
 -989
--995
--993
--995
--993
--995
--972
+-994
+-992
 -990
+-991
+-992
+-991
+-980
+-997
+-991
+-992
+-983
 -990
+-992
+-992
+-992
+-984
+-981
 -982
--982
--978
+-991
+-990
 -994
 -980
+-992
+-997
+-996
+-991
+-996
+-983
+-991
+-996
+-975
+-991
+-992
+-992
+-992
+-991
+-990
+-992
+-994
+-991
+-991
+-991
+-982
+-979
+-979
+-996
+-991
+-988
+-983
+-991
+-970
+-976
+-981
+-980
+-990
+-982
+-993
+-982
+-990
+-973
+-982
+-990
+-982
+-975
+-990
+-984
+-991
+-976
+-968
+-981
+-991
+-994
+-971
+-983
+-971
+-977
+-978
+-990
+-976
+-990
+-991
+-977
+-980
+-994
+-990
+-979
+-982
+-991
+-991
+-983
+-996
+-991
+-990
+-978
+-991
+-997
+-991
+-990
+-990
+-991
+-991
+-991
+-976
+-991
+-991
+-981
+-991
+-983
+-981
+-991
+-991
+-991
+-990
+-991
+-991
+-983
+-976
+-983
+-991
+-991
+-991
+-990
+-991
+-983
+-991
+-991
+-991
+-996
+-990
+-985
+-991
+-991
+-991
+-991
+-981
+-990
+-997
+-990
+-991
+-990
+-997
+-997
+-990
+-991
+-982
+-967
+-990
+-982
+-995
+-968
+-983
+-979
+-991
+-991
+-984
+-982
+-978
+-982
+-979
+-981
+-978
+-991
+-991
+-981
+-995
+-979
+-991
+-974
+-989
+-991
+-994
+-978
+-991
+-982
+-983

@@ -14,8 +14,8 @@ feature 7 has range 30
 reward range: 1020
 Parallel ETUCT tracking real state values
 Planner using history size: 0
-start parallel uct planning search thread
 Start model learning thread
+start parallel uct planning search thread
 Created MultClass 0 with nModels: 5
 Created C4.5 decision tree 0 with == and > splits
 Created C4.5 decision tree 6 with == and > splits
@@ -37,6 +37,7 @@ Created C4.5 decision tree 33 with == and > splits
 Created MultClass 1 with nModels: 5
 Created C4.5 decision tree 1 with == and > splits
 Created C4.5 decision tree 7 with == and > splits
+-995
 Created C4.5 decision tree 13 with == and > splits
 Created C4.5 decision tree 19 with == and > splits
 Created C4.5 decision tree 25 with == and > splits
@@ -56,7 +57,6 @@ Created MultClass 4 with nModels: 5
 Created C4.5 decision tree 4 with == and > splits
 Created C4.5 decision tree 10 with == and > splits
 Created C4.5 decision tree 16 with == and > splits
--994
 Created C4.5 decision tree 22 with == and > splits
 Created C4.5 decision tree 28 with == and > splits
 Created MultClass 5 with nModels: 5
@@ -74,15 +74,255 @@ Created C4.5 decision tree 30 with == and > splits
 Created MultClass 7 with nModels: 5
 Created C4.5 decision tree 7 with == and > splits
 Created C4.5 decision tree 13 with == and > splits
+-993
 Created C4.5 decision tree 19 with == and > splits
 Created C4.5 decision tree 25 with == and > splits
 Created C4.5 decision tree 31 with == and > splits
--994
--995
 -995
 -992
+-996
+-992
+-992
+-976
 -994
 -979
+-900
+-991
+-996
+-994
+-979
+-994
+-994
+101
+-994
+-994
+-983
+-993
+-964
+-994
+-979
+-966
+-994
+101
+-973
+-965
+-965
+-965
+-978
+101
+-958
+-992
+-978
+-990
+-929
+-945
+-994
+-983
+-925
+-955
+-960
+-990
+-990
+-991
+-990
+-981
+-981
+-994
+-979
+-932
+-960
+-981
+-943
+-938
+-981
+-963
+-992
+-990
+-961
+101
+-984
+-904
+-983
+-992
+-987
+101
+-955
+101
+-925
+101
+-959
+-929
+101
+-963
+-927
+101
+-978
+-924
+101
+101
+101
+-948
+101
+101
+-916
+101
+-980
+101
+-903
+-907
+-955
+-958
+-993
+101
+101
+-992
+101
+-991
+-906
+-906
+-904
+101
+101
+101
+-992
+-964
+101
+-904
+101
+-963
+-904
+-931
+-955
+101
+101
+-932
+101
+101
+101
+101
+-963
+101
+-906
+-932
+101
+-962
+-905
+101
+101
 -952
 -980
+101
+101
+-982
+-924
+101
+101
+101
+-963
+101
+-929
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+-903
+-903
+101
 -958
+101
+-951
+-931
+-953
+101
+101
+101
+101
+101
+-903
+101
+101
+101
+101
+-925
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+-965
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
